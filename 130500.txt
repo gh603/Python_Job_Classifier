@@ -1,0 +1,2634 @@
+﻿<JOB GROUP_ID="1">
+<TITLE>
+Room Service Representative
+</TITLE>
+<DESC>
+To perform customer service activities. Responsible for accurately serving patient meals and preparing patient menus, according to guidelines.
+Qualifications:
+High school diploma/GED or current high school student working towards the same
+Ability to read and write English
+Two (2) years food service experience preferred
+Ability to do simple mathematical calculations and follow oral and written instructions
+Must have ability to weigh and measure food items
+Must have ability to lift up to 25 lbs. and to push/pull carts weighing up to 400 lbs. 
+Must possess good verbal and written communication skills
+Will be required to perform miscellaneous duties as needed and assigned
+Must be physically and mentally able to perform all essential job functions
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="2">
+<TITLE>
+Room Service Associate
+</TITLE>
+<DESC>
+Works as a team member of Food & Nutrition Services.  Responsible for selection and correction of patient menus and operation of the room service call center.  Provides quality customer service and communicates patients’ needs and food preferences to the Food and Nutrition Services staff.  Works with therapeutic diet orders and assists patients with meal selection according to prescribed diets.  Works closely with other members of food service staff, clinical nutrition staff and nursing staff.
+CORE RESPONSIBILITIES
+1.       Assists patients with meal selection – collects patient menus, assists in room service call center/assists patients who call in their meal selections, ensures proper therapeutic diet meal selections, and prepares tray tickets.
+2.       Operates food service computer system for patient meal selection preparation.
+3.       Assists on tray line when needed to assemble trays and/or food preparation.
+4.       Checks patient trays for accuracy and completeness and places trays on cart. 
+5.       Receives and communicates computer generated diet changes.
+6.       Communicates with other Nutrition Assistants and Diet Office/Call Center staff and Clinical Nutrition Staff (dietitians and diet technicians) about patient diets and requests.
+7.       Acts as an intermediary between patients, patient families, nursing staff, and Food & Nutrition Services Department.
+8.       Assists with delivery of patient meals as needed.
+SKILLS, KNOWLEDGE, AND ABILITIES
+·           Excellent verbal, written and interpersonal communication skills;
+·           Intermediate computer skills and the ability to operate the food service computer system for meal selection and correction;
+·           Demonstrates proper phone etiquette;
+·           Ability to read and follow written instructions and recipes;
+·           Ability to perform basic mathematic calculations;
+·           Demonstrates an independent work initiative, excellent organizational skills, sound judgment and attention to detail;
+·           Ability to handle multiple tasks simultaneously;
+·           Ability to work in a high volume and high stress environment with varying hours and shifts.
+MINIMUM REQUIREMENTS
+·           High School diploma or GED
+·           One year of restaurant, hotel, foodservice, or hospital setting experience (may substitute one year of experience for each year of education above the basic requirement)
+PREFERRED QUALIFICATIONS
+·           Nutrition degree and/or formal nutrition training
+·           Experience in a hospital setting
+·           Demonstrated knowledge of various hospital therapeutic diet orders
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="3">
+<TITLE>
+Room Service Cashier/Order Taker
+</TITLE>
+<DESC>
+Fundamental Requirements:
+Employees must at all times be attentive, friendly, helpful and courteous to all guests, managers and fellow employees.
+ Answer the telephone according to established standards.
+Call all guests before delivery of order. 
+ Ensure order is taken properly, by repeating orders back to the guest.
+ Ensure all special orders are communicated to servers and to the kitchen..
+Process tickets upon servers return, and call back each guest to confirm satisfaction.
+Process mini-bar tickets
+Know and upsell the current specials
+Be aware of “86” terminology and communicate items to servers
+Have a thorough knowledge of menus and current specials in applicable departments. 
+Adhere to all current service standards when receiving, preparing and delivering a guest’s order
+Check all server side work duties for opening and closing.
+Estimate delivery times according to business volume
+Handle money according to hotel standards, ensuring accurate balancing.
+Assist servers in the preparing and delivery of guest orders, as needed
+Ensure cash is dropped in safe
+Pay out service gratuities and run appropriate reports
+Clear trays from floors according to established standards
+Ensure overall guest satisfaction
+Equal Opportunity Employer M/F/D/V and Drug Free Workplace
+Qualifications
+Education & Experience: 
+High School diploma or equivalent and/or experience in a hotel or related field preferred.
+Physical requirements:
+Flexible and long hours sometimes required.
+Medium work - Exerting up to 50 pounds of force occasionally, and/or 20 pounds of force frequently or constantly to lift, carry, push, pull or otherwise move objects.
+Ability to stand during entire shift.
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="4">
+<TITLE>
+ROOM SERVICE
+</TITLE>
+<DESC>
+The Room Service Server is responsible for taking and delivering customer's In-Room food and drink orders, serve food and beverages, prepare itemized checks, and accept payments providing the highest quality service while maintaining the highest standards of cleanliness and sanitation throughout the hours of operation.
+Essential:
+Approach all encounters with guests and employees in a friendly, service-oriented manner.
+Maintain regular attendance in compliance with Aimbridge Hospitality standards, as required by scheduling which will vary according to the needs of the hotel.
+Maintain high standards of personal appearance and grooming, which include wearing the proper uniform and name tag when working (per brand standards).
+Comply at all times with Aimbridge Hospitality standards and regulations to encourage safe and efficient hotel operations.
+Comply with certification requirements as applicable to position to include Alcohol Awareness, Food Handlers, Safety, etc.
+Perform opening and closing side work according to Aimbridge Hospitality standards to ensure that guests are served promptly and efficiently.
+Serve guests with all food and beverage requirements in a warm, friendly, courteous and professional manner.
+Ensure that the room service area and Cafe wait station is kept clean and tidy.
+Follow Aimbridge Hospitality's portion control and checking procedures precisely.
+Be familiar with the operation of the P.O.S. system.
+Carry out cashiering functions in closing checks and servicing the guest.
+Follow all state liquor laws.
+Maintain a warm, friendly demeanor at all times.
+Ensure that all hallways are free from service debris and that all room service trays are brought back to the kitchen for breakdown and bussing.
+Assist as needed in the Cafe/Lobby Lounge during peak periods.
+Perform any other duties as requested by management.
+Marginal:
+Be familiar with the organization of Aimbridge Hospitality Hotels and know the function of each department.
+Attend meetings as required by management.
+Cross train in other areas of the Food & Beverage Department to develop self and provide flexibility.
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="5">
+<TITLE>
+Room Service Attendant-Nutrition Patient Food
+</TITLE>
+<DESC>
+The Room Service Ambassador reports to the Nutrition Services Coordinator and is responsible for serving the completed trays to the patients in a professional, efficient manner; instructing the patient on meal ordering system; assisting patient in placing meal orders if needed; assessing the patients capabilities to using the meal order system; and keeping the nursing unit floor pantry stocked.
+Demonstrates competencies defined (*) in Room Service Ambassador responsibilities in providing age-appropriate care to patients from the age of birth through 21 years, and select adult patients.
+Responsibilities:
+1. Serves meals to patients in a professional and efficient manner Mediates patient/family concerns regarding meal service.*
+2. Instructs patients and families on meal ordering system following an established script.*
+3. Delivers the correct menu (diet compliant) to the patient.
+4. Assists patients and/or family members in placing meal orders.*
+5. Assesses patient’s ability to utilize the meal ordering system and follow up with appropriate staff member is unable to participate.*
+6. Delivers between meal nourishments directly to patients.
+7. Mediates patient/family concerns regarding meal service.
+8. Orders and replenishes bulk floor supplies on nursing units.
+9. Retrieves completed meals from patient’s rooms in a timely manner.
+10. Records nutrient intake from meals accurately.
+11. Communicates with members of other department effectively and concisely regarding patient support, issues, requests and other special situations.
+12. Acts as liaison between Nutrition Services, the patient and nursing unit.
+13. Demonstrates computer literacy.
+14. Portions food items in proper containers utilizing proper portion sizes.
+15. Creates a service culture.
+16. Anticipates patient/team member needs and services them.
+17. Takes ownership of a problem and ensures a positive outcome, follows up each problem until it comes to a resolution.
+18. Serves as a quality assurance control point for every aspect of the room service program.
+19. Participates as a team member.
+20. Ensures all actions reflect the overall program service goals.
+21. Assumes the role of a patient advocate regarding food services.
+22. Demonstrates strong verbal and written skills.
+23. Presents a professional appearance in the uniform prescribed by the department at all times.
+24. Performs other duties as requested.
+Other information:
+KNOWLEDGE, SKILLS AND ABILITIES REQUIRED
+1. High School graduate with 3 – 6 months of food service experience preferred.
+2. Ability to read, measure accurately and perform basic math skills
+3. Ability to communicate to others in a clear concise manner
+MINIMUM PHYSICAL REQUIREMENTS
+Note frequency as Constantly (67-100%), Frequently (34-66%) and Occasionally (0-33%) for each requirement. Also note any lifting requirements with pound limit.
+Walking/standing Constantly (67–100%)
+Ability to push heavy tray carts on patient units Frequently (34-66%)
+Ability to lift and carry trays to patient rooms (10 – 20 lbs) Frequently (34-66%)
+The above list of duties is intended to describe the general nature and level of work performed by individuals assigned to this classification. It is not to be construed as an exhaustive list of duties performed by the individual so classified, nor is it intended to limit or modify the right of any supervisor to assign, direct, and control the work of employees under his/her supervision.
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="6">
+<TITLE>
+</TITLE>
+<DESC>
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="7">
+<TITLE>
+</TITLE>
+<DESC>
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="8">
+<TITLE>
+</TITLE>
+<DESC>
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="9">
+<TITLE>
+Overnight Room Service Server
+</TITLE>
+<DESC>
+Job Description
+Summary: To maintain the highest standards possible for the guest by insuring quick, efficient, and professional Room Service. 
+Responsibilities: 
+Complete knowledge of service time, menu and specials 
+Prepare, deliver and serve orders using Moments of Service 
+Inquire if additional service is needed 
+Responsible for each check 
+Pick up trays and tables 
+Responsible for set-up, delivery and presentation of amenities 
+Must consult with supervisor on any food pick up difficulty 
+Attend all designated staff meetings and training sessions 
+Complete any tasks and side duties assigned by manager 
+Responsible for maintenance and cleanliness of room service areas 
+Aid guests in locating other areas of the hotel (walk them to the destination if possible) 
+Adhere to cash handling standards 
+Follow all company policies and procedures; ensure clean uniform and professional personal appearance; maintain confidentiality of proprietary information; protect company assets 
+Follow all company safety and security policies and procedures; report accidents, injuries, and unsafe work conditions; complete safety training and certifications 
+Job Requirements
+Good communication skills both written and verbal  
+Enthusiastic and friendly with a positive attitude 
+Must have previous food and beverage experience in fine dining or hotel  
+Room Service experience is preferred 
+Must be able to work a flexible schedule including weekends and holidays 
+Minimum high school diploma 
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="10">
+<TITLE>
+Room Service Lead Server 
+</TITLE>
+<DESC>
+Omni Austin Hotel Downtown’s associates enjoy a dynamic and exciting work environment, comprehensive training and mentoring, along with the pride that comes from working for a company with a reputation for exceptional service. The Omni Austin Hotel Downtown’s commitment to serve our associates and nurture their growth has led to the company’s highest rating in associate satisfaction and an impressive internal promotion rate. We embody a culture of respect, gratitude and empowerment day in and day out. If you are a friendly, motivated person, with a passion to serve others, the Omni Austin Hotel Downtown may be your perfect match. 
+Job Description
+Summary: Ensure proper training, and supervision of all personnel, to deliver prompt, courteous service in a manner that complies with Omni Food and Beverage standards and company policies and procedures.  Responsible for amenity organization and follow up and other Select Guest amenities.
+Responsibilities:
+ ¨    Maintain consistently good food service for guests.
+¨     Personally speak with any guest who has an issue, use the Power of One, and log incident in Prompt Response Log.
+¨    Monitor all tray and table set ups, being sure all products are well presented to the guest.  Linen, china and silver must be spotless.  Food must be properly garnished and fresh looking.  Warm food must be kept warm, cold beverages must be served adequately chilled.
+¨    Maintain timing of deliveries.  Determine action to be taken if orders are behind time in delivery, whether to begin helping in the set up of trays, calling for another outlet for additional help, or advising Outlets Manager of problems delaying service.
+¨    All deliveries must be made by time quoted to guest and must be delivered by properly uniformed, well groomed Room Service Servers.
+¨    Tray and table retrievals must be made either within a reasonable amount of time after delivery or upon guest request.
+¨    Expedite outgoing food for outlets, including ticket time, plate presentation and quality of product.
+¨    Check to be sure that all servers are doing assigned prep work at beginning of shift, as well as sidework at end of shift.
+¨    Control bussing procedures to insure that as many trays as possible are picked up.  Make sure list of trays not picked up is left for next shift.
+¨    Maintain an adequate supply of both equipment and food items to ensure speed and quality of service.  Communicate supply needs to Outlets Manager.
+¨    Accurate daily inventories must by made with accompanying requisition orders to keep all pars stable and Room Service personnel equipped to deliver orders promptly and properly.
+Job Requirements
+Must have previous Food & Beverage experience, preferably in hospitality. 
+High School or GED required. 
+Must have the ability to multi task. 
+Must be able to lead, develop, and train others. 
+Must have strong Communication Skills. 
+Strong problem solving skills preferred. 
+Food handler registered with City of Austin
+TABC Certified. 
+Maintain Room Service service charge spreadsheet.
+Attend all required meetings.
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="11">
+<TITLE>
+Room Service Delivery Attendant
+</TITLE>
+<DESC>
+The Room Service Delivery Attendant prepares and delivers patient trays and is the last point of quality and safety check in the food delivery process.  The Room Service Delivery Attendant also stocks assigned food supplies on patient floors. This position does not directly supervise any caregivers.
+Responsibilities:
+(May perform additional duties of similar complexity within SCHS as required or assigned)
+Participates in the assembly of patient trays to meet patient’s request and diet order
+Delivers trays to patient rooms in a timely manner.  Verifies patient tray is correct utilizing the Double Patient Identifier process prior to leaving tray with the patient.  Notifies appropriate nursing staff if patient has safety precautions for aspiration or any other precautionary safety needs
+Follows all precautions regarding isolation precautions in delivery of food to patients under isolation or any othe precautionary care
+Conducts all delivery activities with the highest level of customer service.  Create positive interactions with all staff, patients and guests at every point of contact.  Ensures tray and food are in proper order when delivering to the patient, validates with patient food is what patient ordered and expected.  Promptly follows up if patient is not satisfied with food or items are missing
+Maintains knowledge of therapeutic diets and menu items to ensure patient’s diet restrictions are adhered to.  Acts as the last point of contact for quality and safety checks in the process of reviewing patient food order and patient dietary restrictions.  Alerts appropriate person(s) if a food item is not appropriate for a patient’s diet
+Stocks food supply areas on assigned patient floors as directed
+Cleans and sanitizes surfaces and equipment for room service as directed
+Provides support to other areas of food services as directed by manager, supervisor or coordinator, as needed
+Conducts all activities with the highest standards of professionalism and confidentiality.  Complies with all applicable laws, regulations, policies and procedures, supporting the health system’s corporate integrity efforts by acting in an ethical and appropriate manner, reporting known or suspected violations of applicable rules, and cooperating fully with all company investigations and proceedings.
+Deliver customer service to both internal and external customers in a manner that promotes goodwill, is timely, efficient and accurate
+Qualifications:
+Education
+High school diploma or GED preferred (equivalent education and experience will be considered)
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="12">
+<TITLE>
+Room Service Aide 
+</TITLE>
+<DESC>
+Under the immediate supervision of designated Nutritional Services management, directs a function of Patient Meal Service.  Determines flow of meal service through order of tickets processed, timeliness and accuracy of ticket completion or timeliness and accuracy of delivery to patient.  Analyzes tickets for appropriateness and makes corrections or adjustments as necessary. 
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="13">
+<TITLE>
+Room Service Food Server
+</TITLE>
+<DESC>
+A Room Service Server with Waldorf Astoria Hotels and Resorts is responsible for delivering and serving food and beverage items to guests in a timely, friendly and efficient manner in the hotelÆs continuing effort to deliver outstanding guest service and financial profitability.
+What will it be like to work for this Hilton Worldwide Brand?
+What began with the worldÆs most iconic hotel is now the worldÆs most iconic portfolio of hotels. In exceptional destinations around the globe, Waldorf Astoria Hotels & Resorts reflect the culture and history of their extraordinary locations, as well as the rich legacy of Waldorf Astoria. Simply stated, Waldorf Astoria embodies timeless elegance.
+We are bringing that legacy to life every day, with fresh, modern expressions of the essence of Waldorf Astoria. We are providing guests the exceptional environments and the personalized attention that are the source of those unforgettable moments that create a singular experience.
+Waldorf Astoria Hotels & Resorts is one of Hilton WorldwideÆs ten market-leading brands. For more information visit www.hiltonworldwide.com.
+If you understand the value of providing guests with an exceptional environment and personalized attention, you may be just the person we are looking for to work as a Team Member with Waldorf Astoria Hotels & Resorts. 
+What will I be doing?
+As a Room Service Server, you would be responsible for delivering and serving food and beverage items to guests in a timely, friendly and efficient manner in the hotelÆs continuing effort to deliver outstanding guest service and financial profitability. Specifically, you would be responsible for performing the following tasks to the highest standards:
+Set up room service trays and tables to prepare for incoming orders
+Retrieve checks, set tables according to specifications, retrieve food and beverage orders from the kitchen and bar and deliver food to guest rooms and meeting rooms
+Serve meals to guests, collect guest trays and respond to guest requests in a timely, friendly and efficient manner
+Present checks to guests and obtain payment
+Return payments/signed checks to order taker
+Perform order taker duties and answer room service telephone, as needed
+Serve alcoholic/non-alcoholic beverages in accordance with federal, state, local and company regulations
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="14">
+<TITLE>
+ROOM SERVICE HOST
+</TITLE>
+<DESC>
+Provide support in a variety of positions to Food Services to meet patients, visitors and associates needs throughout Sanford Health and ensures that quality, safety and sanitation standards are met. Assists patients/customers whom utilizes the room service program by performing a variety of task, ensuring quality measures of the department are met and in accordance with food safety and sanitation guidelines.
+Reports to	As Assigned
+Education, Experience and Skills Requirements	High School graduate or equivalent is required. 6 months direct customer service experience required. Previous experience with modified or therapeutic diets preferred. Strong oral and written communication. Proficient reading and math skills.
+Licensure/Certification Requirement	None
+Job Specific Competencies	
+Maintains inventory and stocking levels in assigned area.
+Performs other tasks as assigned to assist in the efficient operation of Food Services.
+Performs all duties within JCAHO and HIPPA standards and serves as a control point for patient tray accuracy.
+Prepares and distributes room service trays to patients and guests in accordance with departmental guidelines and infection control practices.
+Records written documentation of patient intakes.
+Prepares specialized food items for patients, such as thickened liquids, mixed tube feeding, etc. as required.
+Sanford Values	Courage
+The Strength To Persevere, Use Our Voices And Take Action.
+Places the patient first.
+Stands up for what is right, does the right thing and challenges status quo.
+Takes risks to advance knowledge and practice for the betterment of care for patients.
+Addresses and resolves difficult challenges.
+Embraces reality and perseveres amidst setbacks.
+Passion
+The Enthusiasm For Patients And Work Commitment To The Organization.
+Shows an unwavering commitment to patients and strong commitment to the organization.
+Exhibits a positive, can do attitude.
+Energetically initiates and accomplishes work.
+Sets and maintains high performance standards.
+Demonstrates care and stewardship for the communities and people we serve.
+Resolve
+The Adherence To The Systems That Align Actions To Excellence, Efficiency And Purpose.
+Pursues excellence and flawless execution through the avoidance of errors and inaccuracies.
+Creates and adheres to system rational standards to increase consistency and efficiency, and decrease variability.
+Adheres to procedure for the protection of those in our care.
+Follows rigorous methodology in practice and research.
+Holds self and others accountable.
+Advancement
+The Pursuit Of Individual And Organizational Growth And Development.
+Seeks opportunities to advance individual development and organizational growth.
+Advances the practice of medicine and discipline of research.
+Advances integrated healthcare.
+Determines individual and organizational strengths and weaknesses and plans and develops accordingly.
+Strives for organizational perfection through continuous individual and organizational improvement.
+Supports the development of others by delegating, coaching and mentoring.
+Teaches because we have been taught.
+Creates sustainable success through talent planning, and initiating and leading own development.
+Family
+The Connection And Commitment We Have To Each Other Through It All.
+Fully supports and demonstrates the mission, vision and values both individually and organizationally.
+Shows commitment to each other through communication, dialogue, collaboration and inclusion.
+Sticks together through conflict, confrontation, mistakes and learning opportunities.
+Builds relationships based on trust and respect through honesty, integrity, openness and fulfilling commitments.
+Leverages differences in thought while promoting team and organizational decisions.
+Serves the organization and its employees.
+Professionalism/Integrity - Models high standards of principles, values and ethics through policy decisions, professional duties, and personal actions in the organization and the community.
+Information Management Competencies	
+Demonstrates skill in accessing, preparing and using information as relevant to position.
+Verbalizes and demonstrates knowledge of procedures for maintaining security, confidentiality and integrity of employee, patient, family and other medical information.
+Equipment Competencies	
+Demonstrates skill in use of equipment relevant to position; verbalizes knowledge of appropriate safety procedures.
+Diagnoses equipment problems; fixes or seeks out someone to fix.
+Consistently informs appropriate person of problems encountered with repairs or calibration of equipment.
+Blood Exposure	
+This position is classified as a Category III position under OSHA guidelines with no risk of exposure to bloodborne pathogens and other potentially infectious materials.
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="15">
+<TITLE>
+Room Service Assistant
+</TITLE>
+<DESC>
+Processes Patient Room Service Orders. Receives patient requests via phone call. Enters requests into Computrition. Ensures patient request is in compliance with diet order by allowing only those items designated as “allowed” or by total nutritient intake via Computrition. Provides patient alternative food choices if requests are not compliant with diet order. Checks patient for “Nurse Alert” and directs patient to notify Nurse that tray was order as appropriate. Sends final order to kitchen printers for preparation. Portions/assembles Room Service tray as ordered according to standards. Trained to perform all Room Service tray assembly and service positions. Follows departmental temperature taking standards. Restocks the work area with supplies both paper and food products. Ensures product quality and presentation meets tandards. Reports deviations immediately. Ensure ample product is available. Reports need for additional product immediately. Prepare and deliver in-between meal snacks for patients. (40%)
+2. Serves Patient Room Service Meals. Meet meal tray being delivered to assigned floor. Verify completeness of tray. Notify checker of any missing/additional items needed. Deliver tray to patient following all customer service and safety standards. Complete Meal Tracking Diet List and give to Unit Secretary.(40%)
+3. Promotes patient satisfaction via customer service. Greets patient/family with warm welcome. Educates patient/family about Room Service process. Assists with ordering as needed. Promotes positive interactions with patient/family. Utilizes scripting to ensure consistent message. Resolves patient, Nursing problems related to meal service. Assists unit secretary with diet order entry in Cerner to ensure accurate delivery of nutrition. Communicate with clinical dietitians and nursing staff regarding patient’s nutritional needs and changes. Adheres to dress code and code of conduct standards. Always follows FACES standards. (Ongoing)
+4. Maintains food safety, personal safety & sanitary work area. Ensure food is maintained under proper conditions during all stages of production & storage. Follows the HACCP guidelines when handling food. Adheres to sanitation standards of personal hygiene, particularly hand washing. Adheres to proper cleaning of equipment, floors, and work surfaces according to the Master Cleaning Schedule to meet requirements of all regulatory agencies. Cleans & sanitizes work area. Ensures that all refuse material is properly removed from the department. Always uses the proper cleaning chemicals and equipment in performance of duties. Identifies spills, faulty equipment & reports immediately. Identifies improper use of equipment & reports immediately. Utilizes equipment properly to attain safe food product & maintain personal safety. Reports all unsafe situations and injuries to a supervisor immediately. (10%)
+5. Personal Effectiveness. Attends all in-service for the Department. Participates in working towards attaining department goals & targets. Works well with change makes suggestions for improvement. Gives feedback & input. Communicates information clearly & in timely manner. Address problems with appropriate person. Utilizes time & supplies effectively. (5%)
+6. Performs other work duties as assigned. (5%)
+Total 100%
+Required Experience:
+Basic math and reading skills, excellent customer service skills, computer skills preferred
+The assessment, care and treatment provided by Food and Nutrition Services will be consistent with the specific age related needs of the patient. Food and Nutrition Services is competent to provide nutritional care for patient age groups including neonates/infants, children, adolescents, adults and geriatric adults.
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="16">
+<TITLE>
+Room Service Assistant
+</TITLE>
+<DESC>
+1. Processes Patient Room Service Orders. Receives patient requests via phone call. Enters requests into Computrition. Ensures patient request is in compliance with diet order by allowing only those items designated as “allowed” or by total nutritient intake via Computrition. Provides patient alternative food choices if requests are not compliant with diet order. Checks patient for “Nurse Alert” and directs patient to notify Nurse that tray was order as appropriate. Sends final order to kitchen printers for preparation. Portions/assembles Room Service tray as ordered according to standards. Trained to perform all Room Service tray assembly and service positions. Follows departmental temperature taking standards. Restocks the work area with supplies both paper and food products. Ensures product quality and presentation meets tandards. Reports deviations immediately. Ensure ample product is available. Reports need for additional product immediately. Prepare and deliver in-between meal snacks for patients. (40%)
+2. Serves Patient Room Service Meals. Meet meal tray being delivered to assigned floor. Verify completeness of tray. Notify checker of any missing/additional items needed. Deliver tray to patient following all customer service and safety standards. Complete Meal Tracking Diet List and give to Unit Secretary.(40%)
+3. Promotes patient satisfaction via customer service. Greets patient/family with warm welcome. Educates patient/family about Room Service process. Assists with ordering as needed. Promotes positive interactions with patient/family. Utilizes scripting to ensure consistent message. Resolves patient, Nursing problems related to meal service. Assists unit secretary with diet order entry in Cerner to ensure accurate delivery of nutrition. Communicate with clinical dietitians and nursing staff regarding patient’s nutritional needs and changes. Adheres to dress code and code of conduct standards. Always follows FACES standards. (Ongoing)
+4. Maintains food safety, personal safety & sanitary work area. Ensure food is maintained under proper conditions during all stages of production & storage. Follows the HACCP guidelines when handling food. Adheres to sanitation standards of personal hygiene, particularly hand washing. Adheres to proper cleaning of equipment, floors, and work surfaces according to the Master Cleaning Schedule to meet requirements of all regulatory agencies. Cleans & sanitizes work area. Ensures that all refuse material is properly removed from the department. Always uses the proper cleaning chemicals and equipment in performance of duties. Identifies spills, faulty equipment & reports immediately. Identifies improper use of equipment & reports immediately. Utilizes equipment properly to attain safe food product & maintain personal safety. Reports all unsafe situations and injuries to a supervisor immediately. (10%)
+5. Personal Effectiveness. Attends all in-service for the Department. Participates in working towards attaining department goals & targets. Works well with change makes suggestions for improvement. Gives feedback & input. Communicates information clearly & in timely manner. Address problems with appropriate person. Utilizes time & supplies effectively. (5%)
+6. Performs other work duties as assigned. (5%)
+Total 100%
+Required Experience:
+Basic math and reading skills, excellent customer service skills, computer skills preferred
+The assessment, care and treatment provided by Food and Nutrition Services will be consistent with the specific age related needs of the patient. Food and Nutrition Services is competent to provide nutritional care for patient age groups including neonates/infants, children, adolescents, adults and geriatric adults.
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="17">
+<TITLE>
+Room Service Server
+</TITLE>
+<DESC>
+Delivers food and beverage orders to guest rooms according to Hotel specifications, courteously and efficiently.  Also assists in the maintenance of the Room Service area and equipment.
+ REQUIREMENTS
+Minimum of 18 years of age to serve alcoholic beverages.
+One year experience as a Room Service Server. 
+Food handling certificate issued by Riverside County and TIPS Alcohol Awarenss certification.
+Fluency in English both verbal and non verbal. 
+Compute basic arithmetic. 
+Provide legible communication. 
+Ability to: 
+perform job functions with attention to detail, speed and accuracy. 
+prioritize and organize. 
+be a clear thinker, remaining calm and resolving problems using good judgement. 
+follow directions thoroughly.
+understand guest’s service needs. 
+work cohesively with co-workers as part of a team. 
+work with minimal supervision. 
+maintain confidentiality of guest information and pertinent hotel data.
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="18">
+<TITLE>
+Server-Room Service
+</TITLE>
+<DESC>
+Serve food courses and alcoholic beverages to guests. Set tables according to type of event and service standards. Answer questions on menu selections. Communicate with the kitchen regarding menu questions, the length of wait, recook orders, and product availability. Communicate additional meal requirements, allergies, dietary needs, and special requests to the kitchen. Record transaction in MICROS system at time of order. Check in with guests to ensure satisfaction with each food course and/or beverages. Pick-up trays and clean tables as needed to ensure a clean dining area. Maintain cleanliness of work areas, china, glass, etc., throughout the day. Maintain cleanliness of work and guest areas by clearing, collecting and returning food and beverage items to proper area. Complete closing duties, including restocking items, turning off lights, etc. Present physical and accurate check to guest and process payment.
+     Follow all company and safety and security policies and procedures; report accidents, injuries, and unsafe work conditions to manager; and complete safety training and certifications. Ensure uniform and personal appearance are clean and professional, maintain confidentiality of proprietary information, and protect company assets. Welcome and acknowledge all guests according to company standards, anticipate and address guests' service needs, assist individuals with disabilities, and thank guests with genuine appreciation. Speak with others using clear and professional language. Develop and maintain positive working relationships with others, support team to reach common goals, and listen and respond appropriately to the concerns of other employees. Ensure adherence to quality expectations and standards. Read and visually verify information in a variety of formats (e.g., small print). Stand, sit, or walk for an extended period of time or for an entire work shift. Move, lift, carry, push, pull, and place objects weighing less than or equal to 25 pounds without assistance and objects in excess of 50 pounds with assistance. Grasp, turn, and manipulate objects of varying size and weight, requiring fine motor skills and hand-eye coordination. Move over sloping, uneven, or slippery surfaces as well as up and down stairs and/or service ramps. Reach overhead and below the knees, including bending, twisting, pulling, and stooping. Perform other reasonable job duties as requested by Supervisors.
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="19">
+<TITLE>
+Room Service Captain- Room Service-
+</TITLE>
+<DESC>
+Serves guests in an efficient and courteous manner, greets guests with a smile, and observes their needs throughout meals.  Supervise all functions of Room Service.
+Qualifications
+MUST MEET 21 YEARS OR OLDER AGE REQUIREMENT
+Ability to lift and carry full trays and work in conjunction with the food server to meet guests standards.  Must be able to obtain required work cards.  Prior experience in Room Service or In Room Dining is preferred.
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="20">
+<TITLE>
+Room Service Ambassador
+</TITLE>
+<DESC>
+The Room Service Ambassador is primarily responsible for taking meal orders using electronic ordering devices and/or paper menus, delivering food trays to patients during hours of room service operation, assisting patient with tray as needed (moving bed-side table, opening items, etc.) and assisting with the pick-up of completed trays.  The Ambassador will be responsible for following the St. John Way, the No Passing Zone, Hand Hygiene procedures, as well as any other initiatives that are in place.  The Ambassador will be responsible for the Call Center and working in other areas when scheduled.  The Ambassador will be responsible for delivery of patient snacks.  Will also log food intake. 
+Education/Experience:  High school diploma or GED.  Minimum of 1 year of relevant customer service experience is required.  Previous experience with patient diets and compliance for nutrition needs preferred.  Computer experience and skills required. Experience with food handling preferred.
+Licensure/Certification:  Tulsa City County Health Department Food Handlers Card.
+Knowledge/Skills:  Excellent customer service skills and attendance.  Must have excellent phone and communication skills.  Ability to speak, understand, read and write the English language effectively.  Ability to work as a member of a team to accomplish department goals.  Must be flexible with the scheduling needs of the department.  Ability to follow written and verbal directions.
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="21">
+<TITLE>
+Food Server - Room Service
+</TITLE>
+<DESC>
+MAJOR FOCUS:
+Responsible for serving meals and beverages to hotel guests in their rooms. Must follow the AAA 4 Diamond Hotel standards while interacting with customers.
+ESSENTIAL FUNCTIONS:
+* Carries silverware, linen, and food on serving cart to transport order to room.
+* Re-sets table once in the room and serves food from cart.
+* Answers questions regarding room service and responds to requests for additional food or drink service.
+* Collects or stacks dirty dishes on serving cart and removes from room or retrieves from hall outside of room. 
+* Responsible for clearing the dishes from the cart and re-setting it.
+* Provides exceptional customer service. 
+* Presents the check to the customers and collects the payment based on the method of payment.
+* Works safely, following all established safety rules and regulations.
+* Communicates effectively with co-workers, supervisors and guests.
+* Follows all relevant policies and procedures.
+* Must comply with the companys recycling program standards.
+ADDITIONAL FUNCTIONS:
+* Performs other duties as assigned.
+REQUIREMENTS/EDUCATION:
+* Must possess high school diploma, GED or equivalent work experience.
+* Prior restaurant / food service experience preferred.
+* Must possess good communication skills
+* Must be able to report to work on time as scheduled
+* Must be able to work weekends, holidays and nights as needed
+* Must be able to successfully pass a background check 
+* Must present an overall professional appearance and report to work in appropriate attire 
+* Must be ABC certified at time of hire and maintain certification as appropriate.
+* Must be friendly, courteous, cooperative and reliable.
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="22">
+<TITLE>
+Room Service Order Taker
+</TITLE>
+<DESC>
+The Position involves High Guest Contact and Presents the first point of contact to In Room dining for all guests. Takes guest orders via phone, Inputs Food and Beverage orders through Micros, coordinates guest amenities, and organizes guest table pick-ups on completion of meals in a timely manner. Up -sell Food and Beverage by making well Informed and eloquent suggestions. Collect Payments and Pay Gratuities. Maintain a high standard of sanitation and cleanliness. 
+Essential Duties & Responsibilities 
+Accurately take Guest orders by means of Phone, ensure that Guest name, Room number, time of Guest order and Delivery timings are clearly registered. Follow established phone courtesy standards and actively sell food and beverage using up-selling techniques. Receive guest restaurant reservations and requests for “Private Dining Room” according to established hotel standards.
+Input Guest orders in Micros and issue guest check for each order. Ensure all special guest requests are very well explained to the kitchen via Micros. In case of guests with dietary restrictions inform the Manager on duty and the Chef.
+Make knowledgeable, informed and articulate recommendations and suggestions regarding all menu items. Offer information on all menu items, beverage items and help guest with food and wine Pairings, advise guest with approximate time frame for preparation, delivery and answer any other general guest questions.
+Monitor guest orders and ensure that all guest orders are delivered within the quoted time. The Guest order tickets should have both what time the order was taken and the delivery time.
+Coordinate guest amenities with Executive office and follow up with front desk and Housekeeping of any room changes, cancelations, do not disturb rooms.
+Co-ordinate with housekeeping for pick-up of Guest trays and Tables after completion of guest meals. Maintain the pick-up log and follow up with service staff for tray pick-ups.
+Assist the Room Service staff during peak times and help in coordinating and setting up Room service tables for servers. Provide general supervision and coordination of Room Service Servers.
+Responsible for issued banks, payments, change and accuracy of closed checks. Accurately calculate, monitor and pay gratuities to food and beverage employees. Conduct shift end reports and forward them to the accounting department.
+Take ownership within reason of any special Guest request or Guest Complaints and if needed refer to Manager on duty.
+Qualifications: 
+Education: High school diploma or general education degree (GED); or three to six months related experience and/or training; or equivalent combination of education and experience. 
+Basic Expectations: This position is one of very high guest contact and position profile, as such, all established standards of excellence must be maintained at all times and every effort must be made to meet and/or exceed all guest expectations or requests. 
+Language Skills: Must have good working knowledge of the English language - ability to read and comprehend instructions, short correspondence, and memos. 
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="23">
+<TITLE>
+Room Service Overnight Server
+</TITLE>
+<DESC>
+To maintain the highest standards possible for the guest by insuring quick, efficient, and professional Room Service. 
+Responsibilities: 
+Complete knowledge of service time, menu and specials 
+Prepare, deliver and serve orders using Moments of Service 
+Inquire if additional service is needed 
+Responsible for each check 
+Pick up trays and tables 
+Responsible for set-up, delivery and presentation of amenities 
+Must consult with supervisor on any food pick up difficulty 
+Attend all designated staff meetings and training sessions 
+Complete any tasks and side duties assigned by manager 
+Responsible for maintenance and cleanliness of room service areas 
+Aid guests in locating other areas of the hotel (walk them to the destination if possible) 
+Adhere to cash handling standards 
+Follow all company policies and procedures; ensure clean uniform and professional personal appearance; maintain confidentiality of proprietary information; protect company assets 
+Follow all company safety and security policies and procedures; report accidents, injuries, and unsafe work conditions; complete safety training and certifications 
+Job Requirements
+Must have previous food and beverage experience in fine dining or hotel
+Room Service experience is preferred
+Must be able to work a flexible schedule including weekends and holidays
+TABC and Food Handler certifications are required
+Candidates must be able to speak fluent English
+Must be TABC certified and have a valid Nueces County Food Handler's permit 
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="24">
+<TITLE>
+Room Service Server
+</TITLE>
+<DESC>
+The Room Service Server is responsible for assembling and delivering orders to the guest's room.
+Responsibilities:
+ Must have complete knowledge of service time, menu, and specials.
+Prepare, deliver and service orders.
+Always inquire if additional service is needed.
+Responsible for each check.
+Responsible for pick-up tables and trays.
+ Responsible for set-up, delivery and presentation of VIP amenity.
+Responsible for hospitality set-up. 
+Must consult with supervisor on any food pick-up difficulty.
+Complete all side duties as assigned.
+Must minimize breakage.
+Attend all designated staff  meetings and training sessions.
+Job Requirements
+High school diploma or equivalent.
+Two years restaurant experience.
+Good food and service knowledge.
+Pleasant personality.
+Excellent communication skills.
+Ability to read, write and speak clearly and accurately in English.
+TIPS®  certification  required. 
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="25">
+<TITLE>
+ROOM SERVICE SERVERS
+</TITLE>
+<DESC>
+Seeking Room Service Server will receive, confirm guest orders and deliver order to guest rooms. Server will also performs all side work assigned and to pick up all trays, plates, etc. that have been delivered to rooms by any shift.
+Sets up trays according to  hotel specifications
+Sets up and serve order in guest room, according to guest preference, in a polite professional manner
+Checks all Room Service Orders for accuracy and completeness prior to departing kitchen
+Deliver guest requests to guest rooms as needed
+Deliver guest amenities to guest rooms.
+Delivers Room Service Orders to guestroom in a timely manner
+Ensures trays are promptly removed from the floors once the guest has finished.
+All other duties as assigned
+QUALIFICATIONS
+Excellent communication and customer service skills
+Minimum one year experience
+Possess strong verbal and written communication skills.
+Basic knowledge of Room Service Standards
+Able to carry food service trays weighing 30lbs or more
+Must be able to work AM & PM shifts, will include weekends and holidays
+Food Handlers Certification
+Candidates can apply via: https://workforcenow.a
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="26">
+<TITLE>
+Room Service Server
+</TITLE>
+<DESC>
+This position contributes to the success of the Hotel DuPont by providing prompt, customer oriented service and quality beverages in a clean, friendly environment.
+Provides exceptional customer service.
+Greets and welcomes every customer.
+Talk to customers about their needs and offers products suggestions.
+Perform customer demonstrations and offer samples utilizing the brewing equipment.
+Responds to customer needs and graciously thanks them for their patronage.
+Provides quality beverages.
+Prepares beverages and ensures standards are met.
+Ensures compliance of health, safety and sanitation guidelines for all products.
+Qualifications
+Qualifications:
+Know How/Experience:
+·        High school diploma/GED
+·        2 - 3 years’ experience in a quality hotel/restaurant desired
+·        Takes initiative to learn and improve position
+·        Demonstrated teamwork and customer interaction experiences
+·        Ability to lift 25-30 lbs.
+·        Ability to learn quickly
+·        Excellent oral communication skills
+·        Strong interpersonal skills
+·        Ability to work in a team environment and build relationships
+Problem Solving:
+·        Handle multiple guest requests at the same time
+·        Learn new tasks and be self-motivated
+·        Turn a negative situation into a positive situation
+·        Work with individuals and teams of a diverse background
+Accountability:
+·        Follow directions of Sr. Barista or manager.
+·        Serve the customers - all timelines and services must be met or exceeded
+·        Act in a courteous, friendly, and professional manner
+·        Practice safety on- and off-the-job daily
+·        Facilitate positive departmental morale and practice of Standards of Excellence
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="27">
+<TITLE>
+Room Service Server
+</TITLE>
+<DESC>
+Sets tables/trays and delivers room service orders to guest rooms following all standards.
+Pre-stocks work station with necessary items.
+Stocks refrigerators with necessary supplies.
+Folds napkins.
+Walks halls to ensure cleanliness. 
+Picks up Room Service trays.
+Keeps set-up area clean and organized.
+Breaks down dirty dishes when returned and sends to appropriate areas.
+Utilizes appropriate glassware, china, silverware, and linen as task requires.
+Thoroughly inspects all orders to ensure proper table and tray set-up and to ensure all standards are met before the order leaves the Room Service station.
+Ensures that all timed orders and all other orders are delivered in accordance to time specifications.
+Performs all other duties as assigned by supervisor or other management personnel.
+Must be able to lift up to 15 lbs. on a regular and continuing basis.
+Must be able to lift trays of food or food items weighing up to 30 lbs. on a regular and continuing basis.
+Must have the ability to bend, squat and frequently lift up to 50 lbs.  
+Must be able to push and pull carts and equipment weighing up to 250 lbs. frequently.
+Should be flexible with schedule and able to work overnights, weekends and holidays.
+Server experience preferred.
+Food and Beverage experience preferred.
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="28">
+<TITLE>
+Room Service Server
+</TITLE>
+<DESC>
+As a Food Server, you would be responsible for serving food and/or beverages to guests in the hotelÆs continuing effort to deliver outstanding guest service and financial profitability. Specifically, you would be responsible for performing the following tasks to the highest standards:
+Respond to guest requests in a timely, friendly and efficient manner
+Ensure knowledge of menu and restaurant promotions and specials
+Take guest food and/or beverage orders and input orders in appropriate point-of-sale system
+Retrieve and deliver food and beverage orders in a timely manner
+Ensure guest satisfaction throughout the meal service
+Serve alcoholic/non-alcoholic beverages in accordance with federal, state, local and company regulations
+Ensure serving station is well-stocked at all times
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="29">
+<TITLE>
+Room Service Server
+</TITLE>
+<DESC>
+Set up, deliver, and retrievefood and beverage orders to/from guest rooms and hospitality suites in accordance with established guest service and sustainability standards.
+Potential Career Path
+Server – Room Service Supervisor – Room Service Manager
+Essential Job Functions
+Set up and deliver food and beverage orders.
+Conduct floor sweeps and retrieve food and beverage trays.
+Set up and deliver VIP amenities.
+Service hospitality suites in accordance with banquet event orders and established policies and procedure.
+Abide by state, federal and corporate liquor requirements pertaining to serving alcoholic beverages.
+Complete shift side work as outlined in the hotel’s operating policies and procedures.
+Respond to customer needs, issues, comments and problems to ensure a quality experience and enhance future sales.
+Report all communication to immediate shift supervisor.
+Perform cash handling responsibilities in accordance with company policies and procedures.
+Follow sustainability guidelines and practices related to HHM’s EarthView program.
+Practice safe work habits, wear protective safety equipment and follow MSDS and OSHA standards.
+Perform other duties as requested by management.
+Position Requirements
+High school diploma or equivalent.
+Previous food service experience preferred.
+Work Environment and Context
+Work schedule varies and may include working on holidays and weekends.
+Requires standing for extended periods, walking, pushing, lifting up to 25 pounds, bending and reaching, stooping, kneeling, or crouching.
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="30">
+<TITLE>
+Room Service Captain
+</TITLE>
+<DESC>
+Serves guests in an efficient and courteous manner, greets guests with a smile, and observes their needs throughout meals. Supervise all functions of Room Service. MUST MEET 21 YEARS OR OLDER AGE REQUIREMENT Ability to lift and carry full trays and work in conjunction with the food server to meet guests standards. Must be able to obtain required work cards. Prior experience in Room Service or In Room Dining is preferred.
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="31">
+<TITLE>
+Busperson, Room Service
+</TITLE>
+<DESC>
+Do you enjoy playing a supporting role in the bustling center of activity?  As a Room Service Bus Person, you will juggle multiple responsibilities behind the scenes creating a personalized room service experience.  Your accommodating personality and ability to balance needs of a diverse clientele will be a welcome support facilitating an in-room dining operation that will surprise and delight guests during every stay.
+JOB REQUIREMENTS:
+MAJOR JOB DUTIES: 
+Duties include, but are not limited, to the following:   
+•Clear all tables, resetting them for new seating, ensuring tables are set in accordance with venue standards and guests achieving a pleasurable dining experience.
+•Assists Food Servers in serving the guests throughout their meal, observing the guests for any requests for service, clears all dishes from the table after guests are through eating, continually providing them with a clean, neat eating area.
+•Performs as team member with venue Host, Supervisors, Food Servers, and Kitchen CoStars in maintaining smooth and efficient operations.
+•Maintains cleanliness of all side stations, responsible for stocking.
+•Adheres to established grooming and appearance standards, including maintaining a clean and well-maintained uniform.
+SKILLS:  
+•Ability to read and comprehend simple instruction, short correspondence, and memos.
+•Ability to perform basic math skills: addition, subtraction, division and multiplication.
+•Ability to apply common sense understanding to carry out detailed written or oral instructions.
+•Ability to deal with problems involving a few concrete variables in standardized situations.
+•Full knowledge and understanding of department rules, polices, and procedures.
+•Ability to read, write and communicate verbally in English.
+EXPERIENCE: 
+Six month previous experience in a Hospitality environment.
+EDUCATION: 
+High School diploma or equivalent.
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="32">
+<TITLE>
+ROOM SERVICE HOST
+</TITLE>
+<DESC>
+Delivers meals and snacks to patients using  Room Service methods and assists with tray assembly and other procedures in the kitchen as necessary. High school graduate or equivalent and customer service in food environment preferred
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="33">
+<TITLE>
+Clerk - Room Service
+</TITLE>
+<DESC>
+ Primary Responsibilities: (guest interaction, ordering responsibilities, clean up duties, clerical responsibilities, etc.)
+• Answer telephones
+• Take food orders from guest
+• Follow guidelines to run a proper room service register
+• Organize and prepare hang tags
+• Able to put orders into the pos system
+• To think and react quickly on your own
+Secondary Responsibilities: 
+• Assist room service staff when needed and able.
+• Assist room service managers when needed and able
+Normal Working Hours: (Shift, days)
+• Part-Time, Not to exceed 64hrs within a 2 week period. Will be no set days off.
+• Full Time - could be 30-40 hours a week.
+Past Work Experience Requirements: (Type of work, number of years required, equivalent experience, etc.)
+• Telephone communications preferred.
+• Customer service preferred
+Educational Requirements: (Degree/Certification, highest required/preferred, field of study)
+• High School Diploma or G.E.D. preferred
+Communication Skills Requirements: (Verbal: phone, in-person, group; Written: memos, documents)
+• Excellent telephone etiquette
+• Good inter-departmental communication
+Technical Requirements: 
+• Computer skills
+• POS knowledge preferred. 
+Required Supervision: (Reports to, Supervision provided, number of people to supervise)
+• Report to Room Service management.
+Other Requirements:
+• Consistent demonstration of the Ten Essential Attributes
+• People person, positive attitude, adaptable to change
+• Must be a team player, smile, able to handle stressful situations.
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="34">
+<TITLE>
+Ambassador Room Service
+</TITLE>
+<DESC>
+Instructs each patient on the Room Service meal ordering system. Assists patients and/or family members in placing meal orders. Assesses patients on their ability to utilize the Room Service system and makes appropriate decision. This position is responsible for processing diet requests, while serving each guest in a timely, professional, and efficient manner. Reliably delivers the correct diet compliant menus to each patient. Is a patient advocate and takes ownership of patient concerns, and immediately makes independent decisions within scope of care and follows up each concern to a positive resolution.  To conform to regulatory standards, uses two patient identifiers to positively I.D. each patient before a meal is served. This person acts as a liaison between the patient, Nutritional Services, nursing, and any other department involved, creating a positive service culture. This requires independent thinking, multi-tasking, prioritization, and communication skills. Must be self-motivated and be able to work independently with minimal supervision. The primary responsibility of this position is direct one-on-one patient service.
+KEY RESPONSIBILITIES / ESSENTIAL FUNCTIONS
+Consistently serves each patient in a professional and efficient manner utilizing the AIDET process.
+Instructs each patient and/or family member on the Room Service meal system.
+Inventories, records, and deliveries on designated nursing units.
+Has knowledge of all diet restrictions and menus utilized.
+Delivers between meal nourishments, when needed, directly to each patient.
+Responsible for quality assurance control points for each aspect of the Room Service system ensuring all actions reflect the overall Room Service goal of achieving a “5 “on patient satisfaction surveys.
+Must participate as a team member by anticipating patient/team member needs and being proactive to the concern.
+Demonstrates computer literacy.
+Maintains performance, patient and employee satisfaction and financial standards as outlined in the performance evaluation.
+Must adhere to DCH Nutritional Services Department policies and procedures.
+Responsible for active participation in performance improvement standards.
+May require working variable shifts.
+Maintains performance, patient and employee satisfaction and financial standards as outlined in the performance evaluation.
+Performs compliance requirements as outlined in the Employee Handbook
+Must adhere to the DCH Behavioral Standards including creating positive relationships with patients/families, coworkers, colleagues and with self.
+Requires use of electronic mail, time and attendance software, learning management software and intranet.
+Must adhere to all DCH Health System policies and procedures.
+All other duties as assigned.
+MINIMUM KNOWLEDGE, SKILLS, EXPERIENCE REQUIRED
+Absolutely crucial to be able to have positive interaction with different levels of patients, patient’s families, and other staff within the hospital setting.   ServSafe class is required with a minimum score of 75% on the certification test.  Working on computers and utilizing Meditech and CBORD programs and using hospital cell phones it required. A high school degree or equivalent required.  Must be able to read, write legibly, speak, and comprehend English.
+WORKING CONDITIONS
+Environmental 
+Includes exposure to human body fluids, disease and infection.  Requires wearing common protective equipment to adhere to standard precautions and isolation procedures.
+Physical
+Medium  work.  Must be able to stand, walk, kneel, sit or stoop with good balance for extended periods of time. This position requires a great deal of walking.  Must be able to carry, push, or pull objects weighing 35 pounds.     
+Psychological
+Frequent contact with patients, families and other staff members face-to-face and by telephone.  Works both independently and as part of a team.   Possible dealings with upset or unpleasant patients or family members. Responsible for proper food handling practice to ensure safe food is served to patients.  Must clearly and coherently communicate with staff and patients of all ages. 
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="35">
+<TITLE>
+AM Room Service Cashier
+</TITLE>
+<DESC>
+The In-Room Dining Cashier will be the primary point-of-contact for our guests who wish to experience a five-diamond quality in-room meal or beverage experience. This person will close checks to the correct account and ensure servers have all the information they need to deliver orders efficiently and correctly.The In-Room Dining Cashier also facilitates amenity deliveries, calls back guests to ensure every aspect of their order was delivered to their satisfaction and does whatever it takes to ensure timely and accurate service. 
+Responsibilities:
+Follow Omni guidelines for up-selling to enhance revenue and guest satisfaction 
+Process and expedite Select Guest (loyalty program) orders 
+Follow Omni’s “Moments of Service” guidelines for receiving guest orders via telephone and on-line 
+Follow Omni’s “Moments of Service” guidelines to confirm the details of each guest order, quoting accurate delivery items and following up on any needed or suggested menu items and preparation details 
+Enter all guest orders into our point-of-sale system (MICROS) according to Omni standards 
+Ensure all proper details about the order and pricing/delivery times are communicated to the Kitchen and Room Service delivery teams according to our standards. 
+Work closely with In Room Dining Servers, accurately communicating pertinent order information, to ensure all orders are delivered efficiently and to the guest’s specifications
+Job Requirements
+Ability and willingness to work a varied work schedule including nights and weekends  
+Ability to communicate clearly with guests and co-workers in English both verbally and in writing  
+Working knowledge of computers and telephone systems 
+Previous customer service experience preferred 
+Previous cashiering experience preferred 
+Knowledge of Micros point-of-sale technology preferred 
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="36">
+<TITLE>
+Room Service Associate
+</TITLE>
+<DESC>
+This position provides patients with menu and/or patient meal service, receives and forwards patient requests and communication to Dietetic Technicians and Dietitians when appropriate. Provides patient meal assembly according to correct quantities. This position strives to provide patient satisfaction regarding food and nutrition services. 
+Essential Functions
+Visits patients to obtain or discuss menu selections based upon dietary orders. Enters or records all daily patient meal selections and preferences for one or more patient units.
+Demonstrates appropriate judgment with modified diets, food and menu knowledge when relating to patients. Requests Diet Tech or Dietitian assistance when needed. Edits patient menus as required.
+Provides patient meal service which may include setting up tray work stations, preparing/portioning assigned foods according to correct quantities, and/or assembling patient trays.
+Delivers and serves meals while making independent judgments about special requests, snacks and nourishments.
+Provides excellent customer service on the phone or in person and resolves customer complaints effectively and efficiently.
+Maintains food handling and sanitation standards to meet licensing agency requirements.
+Minimum Qualifications
+Requires reading, writing and mathematical skills at a level normally evidenced by a high school diploma. Requires an understanding of nutrition services, common modified diets, and portion measures. Skills and knowledge of nutrition services as typically gained through 1 - 2 years of related experience. The work requires the ability to follow instructions and safety guidelines for working with cleaning chemicals, as well as the ability to learn and work with business computer software and point of sale systems. Requires the ability to learn food handling regulations and pass certification tests as required. Must have demonstrated effective customer service skills. 
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="37">
+<TITLE>
+Room Service Server
+</TITLE>
+<DESC>
+Requirements are representative of minimum levels of knowledge, skills and /or abilities. To perform this job successfully, the incumbent will possess the abilities or aptitudes to perform each duty proficiently. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+Qualifications
+Essential 
+1 . Must be at least 18 years of age. 
+2 . Desire to learn and offer satisfactory customer service. 
+3 . Ability to satisfactorily communicate in English with guests, management and co-workers to their understanding. 
+4 . Ability to provide legible communication. 
+5 . Ability to do basic arithmetic.
+Skills
+Essential
+1 . Ability to carry out hotels standards, policies and procedures. 
+2 . Ability to prioritize and organize work assignments. 
+3 . Ability to be a clear thinker in pressure situations and exercise good judgments. 
+4 . Ability to focus attention on details, speed and accuracy. 
+5 . Ability to maintain confidentiality of hotel guests and pertinent hotel information. 
+6 . Ability to ensure security of guest room access and hotel property. 
+7 . Ability to work with minimal supervision.
+Essential Duties and Responsibilities
+Include the following. Other duties may be assigned.
+- Report to work on time and in full uniform including name badge.
+- Check station for proper set-up and pars before serving guest.
+- Greet guests promptly and with a smile. Uphold Marriotts standard for gracious hospitality, follows companies standards
+1. Suggestive selling, aware of specials
+2. Knowledge of menu and use records
+3. Correct pricing and extension of checks
+4. Proper table service
+5. Relates guests comments to hostess/manager
+6. Correct method of service
+- Greet guests Offer the hotel guests the best possible service through courteous and proper phone answering procedures repeat room number and name of guests.
+- Follow clean-as-you-go and all safety policies.
+- Be responsible for the Room Service checks that are issued to you.
+- Maintain the Room Service area at all times making certain that all the supplies necessary for performing your duties are readily available.
+- Take all Room Service orders as outlined in the Service Standards Manual.
+- Assist in basic tray set-up as outlined in the Service Standards Manual.
+- Utilize suggestive selling and up selling over the phone.
+- Closing paperwork and deposit.
+- Each associate is expected to carry out all reasonable requests by management which the associated is capable of performing.
+- Set up orders and deliver to rooms.
+- Develop a complete knowledge of menus, use records, dish and glassware service, and utilize the knowledge in the service of the guests as needed.
+- Promote and practice Aggressive Hospitality.
+- Learn and correctly use the Point of Sales equipment and follow procedures.
+- Complete all daily and weekly assigned side work.
+- Participate in daily line up and menu classes.
+- Report gratuities within company guidelines and federal laws.
+- Check corridors and retrieve trays when returning from taking orders.
+- Clean and break down trays in dish area.
+- Practices good sanitation by washing hands frequently during shift, etc.
+- Each associate will be required to follow the rules as found in the Marriott/Concord Hospitality Handbooks.
+- Takes breaks when assigned by Manager/Supervisor. Checks with Manger/Supervisor before leaving and returning.
+- Contributes to the total teamwork effort of room service. Performs all reasonable tasks or assignments by management.
+- Check bulletin board and schedules daily for important information, updates, changes, etc. Be aware of Hotel activities.
+- Helps in others areas of the Hotel when needed, always pleasant and friendly.
+- Contributes to food cost control by following proper portioning procedures as outlines by use record.
+- Be responsible for tray pick up procedures.
+- To provide timely, efficient, and accurate service to guests, assist as operator occasionally.
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="38">
+<TITLE>
+Hotel Room Service Server
+</TITLE>
+<DESC>
+The Room Service Server is responsible for the delivery of food and beverage service to guests to provide a world class in-room dining experience that exceeds guest expectations.  Room Service Servers will offer gracious hospitality and ensure all guests receive friendly, courteous and prompt service at all times following proscribed and established Biltmore service standards.
+Requirements	
+·         High school diploma. 
+·         Previous serving experience required.  The ideal candidate will have had at least six (6) months of related food and beverage experience in a fine dining/upscale setting and/or luxury hotel/resort.
+·         Demonstrated commitment to delivering world class guest service and anticipating and exceeding guest expectations.
+·         Excellent guest relation and communications skills are a must; should be comfortable and able to offer warm, sincere, and gracious hospitality to guests.
+·         Outstanding interpersonal skills and the ability to handle a variety of guest service situations in a manner consistent with Biltmore standards.
+·         Terrific attention to details.
+·         Ability to multi-task and prioritize in a fast-paced, guest service environment.
+·         Must be able to work both independently and as part of a team.
+·         Ability to be proactive, exercise good judgment, and take initiative as appropriate.
+·         Ability to be professional in both appearance and demeanor in accordance with Biltmore standards.
+·         Applicants must be at least 21 years of age.
+Physical Requirements:
+·     Lifting 50 pounds maximum with frequent bending, lifting and/or carrying of objects weighing up to 20 pounds. 
+·     Requires walking or standing to a significant degree.
+Work environment involves some exposure to hazards or physical risks, which require following basic safety precautions.
+The employee may work in a restaurant and/or kitchen environment.
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="39">
+<TITLE>
+Room Service Associate
+</TITLE>
+<DESC>
+Delivers food trays to patients and sets up their bedside table to aid patient’s readiness to eat.  Collects and stacks dirty dishes on cart and returns cart to kitchen.  Records and measures intake and types of special food items served to patients. Must possess an outgoing personality and have good basic math skills.  Past customer service experience preferred.  High school diploma or GED preferred.
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="40">
+<TITLE>
+Room Service Server
+</TITLE>
+<DESC>
+We have an exciting opportunity for someone who is passionate about food and beverage with an good knowledge of wine, providing excellent guest service and likes working in Room Service.  This person must have previous server experience.
+Must have a flexible schedule and be available to work weekends and holidays.
+Requirements of the position:
+Must have excellent communication skills in order to communicate professionally with guests.
+Must pay attention to detail in order to deliver precisely what the guest has ordered.
+Must be capable of standing or walking for long periods of time.
+Education and Experience:
+Minimum 2 year experience as a server in a restaurant or room service.
+Minimum 1 year of guest service experience.
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="41">
+<TITLE>
+Room Service
+</TITLE>
+<DESC>
+Provide exceptional quality in-room dining service by taking orders, serving guests in their rooms and satisfying guest needs according to 4 Diamond Service Expectations. Must have at least 1 year experience in food and beverage service, clear, concise written and verbal communication skills, strong customer service skills, ability to carry 30-40 lb. trays. Previous experience working in an upscale Restaurant/Hotel and working knowledge of Micros desirable. Weekends and holidays are a must.
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="42">
+<TITLE>
+SERVER - ROOM SERVICE
+</TITLE>
+<DESC>
+Responsible for serving food and beverages to guests throughout the hotel.
+Job Requirements:
+* 1-2 years of high volume food servicing experience
+* Must possess knowledge of both food and beverage items.
+* Must undergo TIPS training on an ongoing basis.
+* Must have a sharp, professional presentation.
+* Exceptional guest service skills.
+* Must possess basic math skills.
+* Must be able to work standing for long periods of time.
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="43">
+<TITLE>
+Room Service Server
+</TITLE>
+<DESC>
+Job Description: Essential duties and responsibilities include the following (other duties may be assigned):
+1. Answers all incoming calls within three rings with proper phone etiquette. Utilize guest’s name that appears on phone display.
+2. Takes room service order including room number, number of persons dining. Completes order and gives a 30 minute time delivery quote. Insures order is correct by asking to repeat the order back to the guest.
+3. Rings in guest order and prepares check.
+4. Sets table according to table set up standards.
+5. Delivers order to guest’s room within 30 minutes.
+6. Sets up order in the guest’s room.
+7. Closes all checks according to method of payment.
+8. Retrieves all room service trays and tables from guest hallways and busses used items in the dish room.
+9. Stocks all supplies and food and beverage items in the room service station.
+10. Orders all necessary items that are below pars.
+11. Presets trays and tables in room service station for future orders.
+12. Maintains a clean, sanitary and organized work station.
+13. Maintains a cheerful, positive attitude and appropriate conduct with both guests and teammates at all times.
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="44">
+<TITLE>
+Room Service Assistant
+</TITLE>
+<DESC>
+This is a part-time, benefits eligible position, working 3pm - 9:30pm on varying days, and will require working rotating weekends.
+Key Functions:
+1.  Creates maximum patient and guest satisfaction with the Room Service experience.
+*  Utilize interpersonal and customer service skills to create a positive interaction and outcome with all patients, guests, and staff.
+*  Communicate with all staff to coordinate meal and/or nourishment delivery with treatment, as appropriate.
+*  Report concerns related to patient’s condition to appropriate staff.
+*  Handles confidential patient information in accordance with all applicable laws and regulations.
+2.  Communicates effectively with patients and guests to assist them with menu selection.
+*  Operates telecommunication integrated systems. Assist patients in making menu selections that comply with the prescribed diet and identified allergies.
+*  Possess and utilize knowledge of the menu, of the foods appropriate for patients who are experiencing side effects of treatment, of age specific skills, and of the foods allowed on modified diets.
+*  Must accurately follow meal pattern for diets with nutritional meal goals and communicate appropriate choices to patient.
+*  Assess patient's ability to make menu selections via phone.
+*  Arrange meal service for patients who are unable or prefer not to select meals.
+*  Utilize translation assistance to facilitate patient menu selection.
+3.  Enters menu selections into the computer and generate tray tickets and guest tray receipts.
+*  Enter physician orders, patient care data and food service data into CBORD NSS and Point of Sales system.
+*  Reconcile NSS with CARE and Clinic Station; clarify orders, as needed.
+*  Inform Wait staff of patients to be seen due to admission or diet changes.
+*  Inform clinical staff of nutrition care orders and consult requests.
+*  Generate menus for patients on modified diets, utilizing CBORD NSS compliance data and existing menu format.
+*  Generate reports of patients who have not eaten.
+*  Inform Wait staff of patients to be seen for menu selection.
+*  Inform clinical staff of patients referred for nutrition intervention.
+*  Enter food intake records into CBORD NSS and generate Calorie Count Analysis reports.
+*  Generate tallies, guest receipts, and other operational activity and productivity reports.
+4.  Prepare tube feedings.
+*  Calculates enteral feeding preparation from physician orders.
+*  Generate patient billing for tube feedings and supplements.
+*  Maintain sanitation of tube feeding preparation areas and equipment.
+*  Record refrigerator temperatures and discard/relocate food items per food safety guidelines.
+*  Use safe food handling and sanitation procedures at all times.
+*  Inventory and restock supplement and tube feeding preparation areas.
+*  Receive deliveries of nutrition supplements and store.
+*  Place orders for nutrition supplements.
+*  Dispense nutrition supplements. 
+Job Description - Requirements	EDUCATION:
+Required:  High school diploma or GED equivalent.
+EXPERIENCE:
+Required:  Two years of experience in a high volume call center, customer service, telephone communications or nutrition. May substitute required experience with additional years of college on a one to one basis.
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="45">
+<TITLE>
+FOOD SERVER - ROOM SERVICE 
+</TITLE>
+<DESC>
+It is the primary responsibility of the Food Server to serve guests while providing courteous and prompt tableside service to all guests. All duties are to be performed in accordance with departmental and property policies, practices, and procedures.
+Greet guests in a positive, friendly manner and make them feel welcome.
+Guide guests through all phases of their experience at the restaurant.
+Consistently follow sequence of service utilizing all proper procedures standardized by the room management.
+Maintain table cleanliness utilizing a silent service approach.
+Itemize bills correctly and efficiently secure payment.
+Bid farewell to guests, using guest’s name when known, and encourage them to return.
+Maintain cleanliness and stock of their assigned areas, side stations, tables and POS stations.
+Maintain a level of professionalism that will make guests want to return.
+Anticipate the guests’ needs and respond appropriately with a sense of urgency.
+Performs all other job related duties as assigned.
+JOB REQUIREMENTS:
+Required:
+Ability to take initiative and exhibit flexibility.
+A highly motivated and energetic personality.
+Work as a team, assisting all guests’ and employees’ needs and inquiries.
+Exhibit proper knowledge, selling techniques, and service delivery of menu items of every course.
+Exhibit proper knowledge, selling techniques and delivery of both non and alcoholic beverages.
+Excellent customer service skills.
+Have interpersonal skills to deal effectively with all business contacts.
+Professional appearance and demeanor.
+Work varied shifts, including weekends and holidays.
+High School diploma or equivalent.
+Able to effectively communicate in English, in both written and oral forms.
+Preferred:
+At least 1 year of experience as a Food Server in a similar establishment.
+High School diploma or equivalent.
+Previous experience working in a similar resort setting.
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="46">
+<TITLE>
+Room Service Server
+</TITLE>
+<DESC>
+The Room Service Server answers the phone promptly, takes the guest order, and posts payment to the POS.
+Essential Duties and Responsibilities
+Write down the order, confirm guest room number. Confirm the number of guests that will be dining.
+Repeats the order for verification and upsells additional menu items
+Confirms delivery time
+Rings up orders and records room number and time on log
+Sets up trays according to Brand or hotel specifications
+Coordinate the hot and cold food and place the hot food in a hot box when ready to be delivered. Remember that first ordered, first delivered.
+Delivers and presents food to the guest room.
+Ensures trays are promptly removed from the floors once the guest has finished.
+Ensures restocking of all room service items and side work is completed.
+Eligible for Incentive:	No
+Requirements:	
+Required Skills and Requisites
+Possess strong verbal and written communication skills.
+Basic knowledge of Room Service Standards
+High School Diploma required. Prior restaurant or room service experience preferred.
+Service orientation. Knowledge of principles and processes for providing customer and personal services.  
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="47">
+<TITLE>
+Room Service Attendant
+</TITLE>
+<DESC>
+The Room Service attendant is responsible to provide athe set up and delivery of all food & beverage orders to guests in accordance with the property's guidelines to ensure outstanding customer service. Essential Job Functions include but are not limited to: 
+• Set up and deliver all food and beverage orders in accordance with property’s established guidelines, procedures and policies. 
+• Provides guests with exceptional service in order to achieve customer satisfaction.
+• Conduct floor sweeps and retrieve all food and beverage trays in order to maintain established sanitation guidelines.
+• Set up and deliver all VIP amenities. 
+• Service all hospitality suites in accordance with Banquet Event Orders and established policies and procedure. 
+• Complete all shift side work as outlined in the hotel’s operating policies and procedures. 
+• Respond to customer needs, issues, comments and problems to ensure a quality experience and enhance future sales; report all communication to immediate shift supervisor. 
+• Perform all cash handling responsibilities in accordance with company policies and procedures. 
+• Perform any other job-related duties as assigned.
+Requirements:	
+• This position requires a minimum formal education of some high school and a minimum one year job-related experience preferred. 
+• Must have basic knowledge of food and beverage preparation, service standards, guest relations and etiquette. 
+• Must be able to abide by the company appearance standards and compliance with the designated uniform. 
+• Dedicated to exceeding service standards and providing services and standards to the highest caliber. 
+• Ability to work collaboratively and communicate effectively with team members at all levels of the organization. 
+• Proficiency in oral and written communication skills in English. 
+• Must be able to work variable shift, weekends, holidays, and special events, as needed. 
+• Must have employment eligibility in the U.S.
+Physical Demands: The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. While performing the duties of this job, the employee is regularly required to sit, stand, walk, bend and use hands to handle objects, tools or controls. Ability to grasp, bend, lift and/or carry, or otherwise, move or push goods on a cart weighing a maximum of 100 lbs., at a continuous schedule. Must be able to transport large trays weighing up to 30lbs. The employee frequently is required to talk or hear.
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="48">
+<TITLE>
+AM Room Service Server
+</TITLE>
+<DESC>
+Work with Room Service Team in the serving of guests to ensure positive guest experience.
+•Set up and deliver all food and beverage orders in accordance with established guidelines, procedures and policies as prescribed by company standards.
+•Conduct floor sweeps and retrieve all food and beverage trays in order to maintain established sanitation guidelines.
+•Set up and deliver all VIP amenities.
+•Service all hospitality suites in accordance with Banquet Event Orders and established policies and procedure.
+•Complete all shift side work as outlined in the hotel’s operating policies and procedures.
+•Respond to customer needs, issues, comments and problems to ensure a quality experience and enhance future sales. Report all communication to immediate shift supervisor.
+•Perform all cash handling responsibilities in accordance with company policies and procedures.
+•Comply with attendance rules and be available to work on a regular basis.
+•Perform any other job related duties as assigned.
+Experience, Skills and Knowledge
+•Hotel experience preferred.
+•Ability to communicate well with guests.
+•Ability to grasp, bend, lift and/or carry, or otherwise, move or push goods on a cart weighing a maximum of 100 lbs., at a continuous schedule.
+•Ability to transport large trays weighing up to 30lbs.
+•Must have the ability to communicate in English.
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="49">
+<TITLE>
+Order Taker - Room Service
+</TITLE>
+<DESC>
+Order Takers record guest food and beverage in-room dining orders and offer menu suggestions.  This role has continuous communication with the in-room dining servers on amenity coordination and all deliveries.  This position processes forms of payment for goods and services to include room charges, credit card and cash.  The interaction between Order Takers and guests can determine the overall satisfaction of the in-room dining experience. 
+Qualifications
+A true desire to satisfy the needs of others in a fast paced environment.
+Refined verbal communication skills.
+Must have an open and flexible schedule that icludes early morning, afternoon, evening, weekend and holiday shifts.
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="50">
+<TITLE>
+Food Service Worker (Room Service
+</TITLE>
+<DESC>
+Sets up, prepares and assembles meals and trays for patient service.  Prepares nourishments, infant and pediatric formulas, and tube feedings as needed.  Inventories and stocks galleys in patient care areas.  Provides timely wholesome and high quality food and customer service to meet the needs of the customer.  Practices safe food handling and quality control.
+ESSENTIAL FUNCTIONS:
+·         Completes required cleaning of work areas.
+·         Inventory and stock galley supplies utilizing par level lists.  Maintains clean and organized galley.
+·         Takes temperature of refrigerators, freezers and food as required.  Properly documents temperatures, documents and takes appropriate action when temperatures are out of acceptable range.
+·         Responsible to inspect and ensure integrity of food items.  Rotate and monitor expiration dates.
+·         Delivers nourishments, formula, and tube feedings to patients and/or galley.
+·         Pushes food carts, racks and dish bins.
+·         Maintain clean environment by cleaning and deep cleaning equipment, refrigerators, cupboards, tables, etc., as required by accrediting and regulatory agencies.
+·         Determines food count, prepares and pre-portions food items for patient tray assembly.
+·         Weighs and measures menu items for special diets.
+·         Prepare hot and cold food, using standardized recipes, as required for patient menu.
+·         Breakdown leftover items.
+·         Prepares bulk nourishments and swallow evaluation kits.
+·         Requisitions, gathers, and stocks supplies in work area.
+·         Prepares, labels, and delivers nourishments for patient use.  Prepares bulk nourishments.
+·         Prepares infant and pediatric formula per departmental policy and procedure.
+·         Reads tube-feeding recipes, calculates supplies needed, mixes products, labels appropriately and stores for supervisor to check.
+·         Delivers food carts to the patient care areas and meal trays to patients as necessary.
+·         Pulls stock and assemble food items and supplies requisitioned from inventory for production and preparation of meals and services. Records items issued and returned.
+·         Prepares special menu items for modified diets; inventories servings and informs supervisor of par levels needed.
+·         Receives stock, inspects for integrity and temperature compliance, stocks, dates and labels as necessary and rotates.
+·         Completes quality control monitors and documentation to ensure delivery of high quality food services and regulatory requirements are met.
+·         Adherers to guidelines for portion control.
+·         Stocks assigned area(s) with appropriate food, paper supplies and equipment.
+·         Assembles, with accuracy, food items per customer requests.
+·         Reads and flows recipe for accuracy.
+·         Resolves patient/customer complaints/concerns or refers as necessary to management.
+·         Covers, labels and dates food items and leftovers for storage.
+·         Takes and documents refrigerator/freezer temperatures as required.
+·         Stores and holds all foods at the proper temperatures with documentation.
+·         Completes weekly cleaning assignments.
+·         Cleans and sanitizes equipment after each use as assigned.
+·         Completes other duties as assigned to meet the goals and objectives of the department and 
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="51">
+<TITLE>
+Room Service Attend
+</TITLE>
+<DESC>
+The Room Service Attendant enhances the patient experience by interacting with patients and their families in a responsive, friendly, professional and resourceful manner. The Room Service Attendant instructs patients on the meal ordering system, assists patients in placing meal orders, and assesses the patient's capabilities to utilize the meal order system. Translates Physician's diet orders; answers the telephone and is able to properly follow through; corrects patient menus accurately; maintains Call Center.
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="52">
+<TITLE>
+Room Service Server
+</TITLE>
+<DESC>
+As a Room Service Server, you’ll work with the Restaurant and Culinary department with the main job function of providing prompt and courteous delivery of all room service orders. 
+Job Responsibilities 
+Key responsibilities of a Room Service Server include: 
+•	Delivering food to guest rooms 
+•	Ensuring that all orders are accurate prior to leaving the room service kitchen 
+•	Memorizing the room service menu and food preparation methods as to better serve the guest 
+•	Working with the front office team to ensure accurate and prompt delivery of guest amenities and packages 
+•	Communicating professionally with hospitality agents and cook regarding room service requests 
+•	Being courteous to guests and accommodating any requests for items not listed on the room service menu 
+•	Completing daily side work including the pick-up and break down of all room service equipment from guest rooms and hotel hallways 
+•	Expediting room service deliveries by helping fellow employees setup and complete their orders when needed 
+•	Cleaning and breaking down trays in the dish area 
+•	Ensuring that the oncoming shift has adequate supply of silverware, trays, napkins, condiments, etc. 
+•	Using Micros POS to enter orders and tender payment 
+•	Ensuring that proper payment is received from guest prior to leaving their room and that all payments are properly tracked and managed 
+Job Requirements 
+The ideal Room Service Server candidate will possess strong communication skills and a clear understanding of guest service in a hotel environment. 
+The minimum qualifications for the Room Service Server position are: 
+•	1 year previous room service experience or 3 years of general serving experience preferred 
+•	Must have the ability to communicate clearly and directly with guests using a positive, clear speaking voice 
+•	Strong interpersonal skills including the ability to get along with diverse personalities, ability to tactful and flexible 
+•	Ability to work a varied schedule that may include evenings, nights and weekends 
+•	Ability to perform job functions with attention to detail, speed and accuracy 
+•	Possess a basic knowledge of food and beverage preparation, service standards, guest relations and etiquette 
+•	Ability to handle, carry and/or lift items weighing up to 40 pounds 
+•	Ability to stand, walk, and move around during entire shift 
+•	Must have a valid alcohol awareness certification or be capable of obtaining certification
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="53">
+<TITLE>
+Food Service Worker II
+</TITLE>
+<DESC>
+Come and join a food service team consistently mentioned on patient surveys for providing top notch food.  This position will work on our patient floors to help our patients make menu choices and will complete various customer service tasks.  A great candidate would have experience as a waitress in the fast paced food service industry or as a dietary aide in healthcare.  Saint Clare's food service department is not like normal hospitals, we employ cooks, chefs, and have a room service system for our patients.  Join this team to provide great customer service and continue the great reputation of food at Saint Clare's Hospital!  Please apply today!
+In this position, the incumbent may:
+Deliver food to patient rooms
+Cashier
+Prep work
+Assist with other food service related duties, including cross training into cook or chef positions
+And deliver great customer service at all times
+Qualifications
+High school diploma or equivalent preferred
+1 year of experience in food service or healthcare is strongly preferred
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="54">
+<TITLE>
+Dietary Aide
+</TITLE>
+<DESC>
+ssemble and serve meals in accordance with department standards. Complete daily responsibilities that may include meal assembly, cold food preparation, utility and dish room functions, nourishment preparation, sanitation duties, and tray passing.
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="55">
+<TITLE>
+Food & Nutrition Services Worker 
+</TITLE>
+<DESC>
+ 1. Processes all orders received over the computer and telephone requests.
+ 2. Updates patient records on Dietary Data Screen to reflect all diet changes and special needs.
+ 3. Assumes responsibility for checking menus/tray slips before each trayline.
+4. Maintains an accurate menu tally
+ 5. Demonstrates knowledge of procedures for processing tube feedings, nourishments, boxed meals and floor stocks.
+ 6. Maintains accurate records.
+ 7. Communicates with the clinical, management, and supervisory staff.
+ 8. Represents the entire Nutrition Services Department.
+ 9. Delivers tray trucks to units, delivers late trays to patients as assigned.  Performs other dietary related tasks as assigned.  Delivers floor stock as directed, dating all 4oz. juices, ice cream, sherbets and ices.
+10.Supports hospital and departmental goals and objectives.  Adheres to departmental and hospital policies and procedures.
+EXPERIENCE
+Preferred - Vocation training in food service preferred.
+EDUCATION
+Preferred - One year in a food service/customer service related field preferred.
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="56">
+<TITLE>
+ Food Service Worker
+</TITLE>
+<DESC>
+Responsible for portioning and serving food and the processes that support this activity for our customers and patients. They also perform routine clean-up while complying with sanitation regulations and procedures. Ability to read, write and speak the English language. 1-3 years previous food service experience in an employment setting is preferred.
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="57">
+<TITLE>
+Food Srvc Assistant
+</TITLE>
+<DESC>
+Ability to lift 25 lb#'s up to waist level, 10-15 lbs to chest level.  free range of body motion to accommodate physical requirements of role, prolonged periods of standing, visual acuity corrected to normal. Ability to communicate with co-workers.
+High school diploma or GED preferred..
+Job Detail
+Assigns work and assists with direction and training of food service aides.  Oversees tray line operation and checks trays for accuracy in keeping with individual diet orders and proper completion and appearance.  
+Assists with tray distribution and performs other duties of a food service aide as assigned.
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="58">
+<TITLE>
+Nutrition Services Associate
+</TITLE>
+<DESC>
+The Dietary Department at Borgess Pipp Hospital in Plainwell, Michigan is seeking candidates for a Nutrition Services Associate.
+Under close supervision of the Food Service Manager, Nutrition Services Associate performs tasks necessary for providing appropriate patient meals, cafeteria meals, and catering meals. Is responsible for maintaining HACCP standards for safety and sanitation, time and temperature logs, and proper cash handling procedures. In addition food service worker to assist dietitian in ensuring patients receive correct meals and proper nourishment in accordance with dietary prescriptions and individual menu selections. In addition, the Nutrition Services Associate must be able to assume a leadership role in absence of the manager. 
+Requirements:
+Ability to read, write, follow oral and written directions, and make simple calculations (e.g. carbohydrate counting).
+Ability to assess the quality and quantity of foods prepared.
+Basic knowledge of therapeutic diets and their restrictions.
+Knowledge of HACCP guidelines for safe handling, preparation, holding, and storage of food.
+Ability to interpret and follow a production sheet which specifies food preparation instructions, proper temperature, and presentations of foods.
+Demonstration of principles of hospitality service.
+Demonstration of teamwork behaviors and interpersonal skills necessary to work effectively with nursing staff, patients, families and other personnel.
+Demonstration of effective communication behaviors, including the ability to take patient food orders over the telephone in an accurate and courteous manner.
+Demonstration of effective problem solving skills.
+Requires knowledge of relatively structured work routines, procedures, materials and/or equipment that can be obtained in three to six months work experience.
+Educational Requirements
+High school diploma.
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="59">
+<TITLE>
+Food Services Worker Trayline 
+</TITLE>
+<DESC>
+Assists with the preparation of foods and beverages for patient tray lines by cleaning work areas, equipment, and utensils, set up, and service.  Serves a range of hot and cold food items.
+Essential Job Functions:
+1.    Demonstrates correct food handling techniques such as portioning serving sizes by using appropriate serving utensils, and controlling temperature of tray line foods in accordance to HACCP regulations.
+2.   Demonstrates a complete understanding of prescribed sanitation regulations such as washing hands, changing of gloves/aprons, and use of sanitized water.
+3.    Maintains and cleans  work areas, including floors, facilities, utensils, and equipment; collects and places garbage and trash in designated containers.
+4.    Demonstrate the ability to work at least 50% of the stations on tray line.
+5.    Replenishes foods, silverware, dishes, and trays at serving stations; may replenish condiments as needed.
+6.    Understands basic diet restrictions as applied to tray line operations, and adheres to established tray line procedures to meet the diet restrictions.
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="60">
+<TITLE>
+Food Service Aide
+</TITLE>
+<DESC>
+Performs a variety of food preparation tasks for the kitchen, patient meals and employee cafeteria. Assists in other daily production as needed. Completes other daily sanitation duties. Follows through according to standard policies and procedures in order to maintain safe, efficient and sanitary work environment.
+Requirements:
+High school diploma or equivalent preferred.
+Basic knowledge of nutrition and dietary modification would be beneficial.
+Experience related to position a plus.
+Involves a significant amount of standing, walking, reaching, bending and lifting up to 50 lbs.
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="61">
+<TITLE>
+Food Service Associate 
+</TITLE>
+<DESC>
+This position contributes to the mission and vision of the Nebraska MBO by supporting patient meals with the proper foods and beverages according to the menus and production sheets.  Assists in patient tray line assembly and related duties.  Loads, operates, and cleans the dishwasher.  Assists in the service of meals to Dining Center patrons and operates the cash register.  Maintains the records, inventories, surveys, and other controls relevant to the Dining Center.  Works as part of the team on proper storage, equipment operation, in all food service areas to maintain high standards of sanitation and safety requirements of the department, reporting all unsafe conditions.
+The incumbent reports directly to the Director, Nutrition Services.  The incumbent works with Supervisors/Executive Chefs to provide high quality, customer focused service.
+ESSENTIAL JOB FUNCTIONS
+Patient Tray Line:
+Accurate and timely patient tray assembly and portioning of food, beverages, etc., for the meal service.
+Works assigned position on trayline serving patient tray to present an appetizing appearance. 
+Utility/Dish Room:
+Disassembles returned patient trays, cleans and sanitizes equipment, dishes, trays and carts before and/or after each meal.  Prepares dishwasher for operation and empties and cleans when finished.
+Operates dishwasher to ensure thorough cleaning, sanitizing, and drying of dishware, pots and pans, and utensils.  Sorts, stacks, and soaks all dishes and flatware in proper containers according to standardized procedures.
+Keeps all equipment and working area clean and orderly.
+Maintains tray, china, and silverware supplies in the Dining Center.
+Loads, delivers, and returns food carts to and from all patient areas. 
+Dining Center:
+Sets up serving counters with hot and cold food items according to the established guidelines.
+Serves food graciously, attractively and accurately to all customers.
+Cleans and sanitizes tables, serving counters and other food service equipment.
+Prepares and serves grill menu items to order.
+Operates the cash register and maintains cash records per department policy.
+Maintains inventories, records temperatures, and assists in departmental quality assurance program.
+Assists with catering functions as needed.
+Other:
+Returns and stores all equipment to the proper areas.  Reports any needed supplies, faulty working equipment, accidents, problems, etc.
+Uses chemicals properly.  Cleans and sanitizes work areas and equipment and other areas assigned by the Lead.
+Follows departmental and hospital safety policies.  Participates in all safety, security and infection control programs that are mandatory as well as those required and provided by the department.
+Maintains a high standard of sanitation in area of responsibility to comply with all regulatory agencies including the JCAHO and CMS.
+Assumes responsibility for personal and professional growth through participation in department meetings, in service programs and continuing education programs.  Attends and follows directions from meetings and signs posted meeting minutes if meetings are missed.
+Maintains a professional attitude with patients, visitors, and other hospital personnel while assuring confidentiality of patient, hospital and department information.
+Performs other duties as assigned by Supervisor/Executive Chef.
+Must have ability to work effectively and collaboratively in a diverse and multicultural environment.
+A complete job description is available in Human Resources.
+Qualifications
+Education:
+High school diploma or equivalent preferred.
+Licensure/Certification:
+None.
+Experience/Pre-Requisites:
+Previous food service experience preferred.  For Dining Center duties cash handling experience preferred.
+Must be able to read and write or follow oral and written directions.
+Ability to communicate with co-workers, supervisor and management personnel.
+Must pass the health screening required by the hospital.
+Additional Responsibilities:
+Demonstrates a commitment to service, organization values and professionalism through appropriate conduct and demeanor at all times.
+Adheres to and exhibits our core values:
+Reverence: Having a profound spirit of awe and respect for all creation, shaping relationships to self, to one another and to God and acknowledging that we hold in trust all that has been given to us.
+Integrity: Moral wholeness, soundness, uprightness, honesty and sincerity as a basis of trustworthiness.
+Compassion: Feeling with others, being one with others in their sorrows and joys, rooted in the sense of solidarity as members of the human community.
+Excellence: Outstanding achievement, merit, virtue; continually surpassing standards to achieve/maintain quality.
+Maintains confidentiality and protects sensitive data at all times.
+Adheres to organizational and department specific safety standards and guidelines.
+Works collaboratively and supports efforts of team members.
+Demonstrates exceptional customer service and interacts effectively with physicians, patients, residents, visitors, staff and the broader health care community.
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="62">
+<TITLE>
+Food Service Associate
+</TITLE>
+<DESC>
+Job Summary: Prepares and serves meals to patients, employees, visitors, and catering customers. Maintains sanitation of equipment and work areas. 
+Responsibilities:
+Utilizes proper food handling, portioning and food storage techniques according to departmental standards/policy and regulatory guidelines.
+Maintains, assembles, and stocks adequate levels of food items, products, and supplies.
+Performs cleaning functions in assigned areas following established schedules and using prescribed methods and appropriate chemicals. Complies with all safety and infection control guidelines.
+Interacts and serves patients, visitors, and employees to ensure continuity of service.
+Performs all other duties assigned but not limited to cashier and/or catering functions and cart transport.
+Requirements:
+Experience in food service preferred.
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="63">
+<TITLE>
+Food Service Aide
+</TITLE>
+<DESC>
+This position is within the hospital. 
+Food Service Aide serves all customers in a friendly and efficient manner while upholding the mission, vision, quality statements and values set forth by the organization. This position also involves operating grill and cash register while maintaining a clean and sanitary environment. 
+Education Requirements 
+- High School Diploma or GED
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="64">
+<TITLE>
+Food Service Worker
+</TITLE>
+<DESC>
+The Food Services Worker assists with preparation, assembly and service of food and beverages.
+Responsibilities:
+Handles portions and serves food in accordance with menu and dietary restrictions.
+Adheres to Hazard Analysis and Critical Control Point (HACCP) guidelines in the sanitation and maintenance of work area.
+May plan, organize and serve food for large groups.
+Covers, labels and dates all food products to be stored.
+Education & Experience:
+Six months experience plus a high school diploma or equivalent required.
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="65">
+<TITLE>
+Food Concessions Worker
+</TITLE>
+<DESC>
+The ideal candidate will provide superior service to guests in various food venues located around the zoo. The candidate will follow all safety and sanitation procedures to ensure they provide guests with a quality product. They must work efficiently and accurately when handling cash to ensure the guest has a great experience.
+Provide friendly and efficient customer service to all visitors.
+Be responsible for your cash drawer and all daily transactions.
+Prepare quality food at all times.
+Uphold all safety and food sanitation procedures
+Ensure guest satisfaction at all times by displaying a positive attitude and friendly smile.
+Perform various cleaning and stocking as needed in kitchens
+Perform any other duties requested by management that are in the best interest of the zoo.
+Candidate must have availability to work during the months of August, September and October-Monday through Friday. Some weekends may also be required.
+Experience and Skills:
+Must be 16 years of age or older.
+Must pass various background checks as well as drug test.
+Ability to communicate with co-workers, supervisors and vendors in a courteous and professional manner.Cash Handling skills helpful
+Knowledge of food service practices and procedures helpful.
+Superior customer service skills.
+Ability to process basic math calculations.
+Ability to handle times of peak business in a calm and organized manner.
+Ability to lift up to 30lbs on a frequent basis.
+Ability to stand or walk for prolonged periods of time.
+Ability to tolerate exposure to extreme outdoor temperatures.
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="66">
+<TITLE>
+Concession Attendant - Hot Dog Cart
+</TITLE>
+<DESC>
+Up sells food and beverages within the restaurant; desserts, appetizers, etc. 2. Attempts to control food costs; throw away, etc. 3. Demonstrates exceptional guest service skills when selling F&B items to either guests or employees and informs guests of casino facilities and their location. 4. Continually operates cash register or cash bank and accepts payment for F&B product(s) ensuring accuracy when making change. 5. Is always extremely responsive to guest’s questions regarding food items, prices, methods of preparation, items on sale and availability of various F&B products. Continually up-sells F&B products offered. 6. Always ensures that assigned area is kept orderly and continually cleans and sanitizes counter in designated areas, as well as assisting in the dining area as needed. 7. Always takes a proactive approach in ensuring that food handling procedures are followed accurately. 8. Ensures proper procedures are followed when working with cooking equipment. 9. Continually assists in answering the telephone promptly, to ensure customers orders are communicated and ready in a timely manner. 10. Continually utilizes proper storage and care when handling guest take-out orders. 11. Ensures assigned area is stocked with product. 12. Ensures designated area is stocked in a clean and neat matter for maximum shop and cart efficiency. 13. Always prepares various products and ensures that the proper maintenance for the equipment is completed. 14. Ensures product being sold is cooked to perfection and enough products are being cooked to satisfy business demands so customers are not waiting. 15. Assists with cleanup service within the restaurant or outside area. 16. Consistently accepts food orders and delivers food to guests in a timely manner.
+JOB REQUIREMENTS:
+Must be able to speak English. 2. Must possess the ability to count money and make correct change. 3. Must have excellent interpersonal communication skills. 4. Must have the ability to ring in orders and settle checks on Point of Sale system. 5. Must be able to keep an accurate record of product and sold product 6. Previous Food & Beverage/Country Club experience a plus. 7. Must be able to demonstrate the ability to be safety oriented 8. Ability to work in a fast paced environment 9. Ability to accommodate a flexible work schedule. 10. Must be able to complete multiple tasks at once. 11. Must be able to take orders correctly over the telephone. 11. Team Members must follow procedures when working with hot dog carts or other cooking equipment
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="67">
+<TITLE>
+Lead Concession Worker
+</TITLE>
+<DESC>
+Under general supervision, prepares and serves menu items to guests and processes all sales transactions. 
+ESSENTIAL FUNCTIONS
+(The following statements are intended as general illustrations of the work in this job class and are not all inclusive for specific positions.)
+Determine guest needs and suggest menu items to enhance service and meet sales goals.
+Assist customers in the selection and purchase of menu items.
+Prepare a variety of food & beverage orders according to established recipes and outlet standards.
+Operate electronic cash register system to accurately and immediately account for payment transactions and transports monies to and from the main credit cage.
+Ensure outlet is setup, maintained and stocked according to established standards. Continuously making sure all areas are clean and organized.
+Uses and maintains all assigned areas and equipment in a sanitary, safe and effective manner.
+Perform other duties as assigned by management.
+Deliver internal and external guest service the Pinnacle Way.  Always exhibit a friendly and approachable demeanor.  Be polite and courteous when speaking with guests and team members.  Look for and act upon opportunities to assist guests and team members.  Be sincere and genuine during all interactions.  Be prepared with the knowledge and skill required to be responsive to guests and team member’s needs and questions.
+Job Requirements:
+JOB QUALIFICATIONS
+Demonstrated ability to effectively communicate guests.
+Demonstrated money-handling and math skills.
+Demonstrated ability to operate computerized cash register.
+Leadership experience preferred.
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="68">
+<TITLE>
+Concession Stand Workers
+</TITLE>
+<DESC>
+Duties:
+- Fast pace environment with positive attitude and customer service skills
+- Operate cash register, close out sales, process transactions, and inventory checks
+- Prepare foods based on customer orders
+- Keep the facility clean to food standards
+Job Requirements
+- Must have food service and customer service experience
+- Must have positiive attitude and able to perform the duties listed above
+- Must be dependable, hard working, and professional
+- Will be required to pass drug test and background check
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="69">
+<TITLE>
+Part-time Concession Stand Attendant
+</TITLE>
+<DESC>
+Responsible for running the operations of a specific concession kiosk for the event or assisting the Stand leader. Ensure that inventory is maintained according to management guidelines. May be responsible for instructing other employees per management instruction. Must provide exceptional customer service to the guests. Ensure that management and alcohol guidelines are followed; perform duties as necessary to accomplish delivery of concessions menu. Must be capable of operating independently or jointly with another co-worker.
+Qualifications:
+Must be at least 21 years old. Previous cashier experience required.
+Other job requirements are but not limited to the ability to lift up to 50 lbs; ability to walk, reach, stand, bend and stoop for long periods of time; climb stairs as needed. Must be able to read and write English.  Must have good basic math skills and be familiar with the operation of computers.
+Must be able to work in mentally and physically demanding environment.
+Must be able to work flexible work schedule including nights, weekends, and holidays. Must be able to report to work by 5:00 PM on weekdays.
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="70">
+<TITLE>
+Concessions Stand Prep
+</TITLE>
+<DESC>
+The Concessions Stand Prep is responsible to prepare or assist with the food preparation, or assist the cashiers with facilitating the orders to the guests. All Concessions Stand Preps report directly to the Concessions Stand Manager of the assigned stand. Responsibilities will include but are not limited to:
+Primary responsibilities:
+• Serving customers in a timely and friendly manner.
+• Properly handling inventory.
+• Preparing the product. 
+• Ensuring that all food warmers are kept full.
+• Maintaining proper food handling procedures.
+• Organizing their station.
+• Proper cleaning and sanitizing procedures.
+• Organizing and cleaning the stand, removing garbage, and cleaning equipment.
+Qualifications:
+• All applicants must be at least 18 years of age
+• Ability to interact with co-workers in order to assure compliance with company service standards.
+• Ability to multi task in a fast paced, team orientated setting.
+• Must be able to work fluently in English
+• Ability to work in an open aired environment during all climate conditions.
+• Ability to lift and carry items weighing 10-30 pounds, occasionally 50 pounds, up and down stairs/ramps.
+• Ability to work all Yankee Stadium events, including: extended hours, nights, weekends, and holidays.
+• Must have sufficient mobility to perform assigned production tasks including: constant reaching, bending, stooping, wiping, pushing, and pulling for extended periods of time
+• Must meet state and local health requirements for food handlers and alcoholic beverage services.
+Education:
+• High school diploma or equivalent. Some college preferred
+Compensation:
+• Seasonal, part-time, non exempt
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="71">
+<TITLE>
+Concessions Worker
+</TITLE>
+<DESC>
+-Sells concessions including soft drinks and food items to spectators at various events.
+-Receives money and makes correct change for the customer.
+-Monitors money in cash drawer to ensure adequate change is available.
+-Cash handling and credit card transactions. -Customer service and satisfaction.
+-Performs other duties such as clean up of concession stand and counting revenues as assigned by supervisor.
+Other Work/Responsibilities	
+Minimum Experience/Education	
+Departmental Required Skills	
+-Knowledge and skill in handling money accurately and ability to make change.
+-Provide exemplary customer service to every guest.
+-Skill in public relations.
+-Ability to communicate effectively with customers, supervisors, and peers.
+-Maintain Grade A sanitation rating.
+-Must be able to work events including evenings and weekends and some holidays.
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="72">
+<TITLE>
+CONCESSION WORKER
+</TITLE>
+<DESC>
+Duties and Responsibilities:
+Greet guests in a timely manner with a smile and a pleasant disposition.
+Must be familiar with menu, preparation of drinks and food and prices.
+Use suggestive selling techniques.
+Explain the ingredients to the coffee
+Carry on a friendly conversation with the guests, as coffee is prepared.
+Prepare for the next shift by filling the supplies, cleaning and sanitizing the workstation and equipment.
+Work as a Barista making coffee, blended beverages, etc.
+Work the cash register and maintain an accurate bank, maintain cleanliness and adhere to all Starbucks standards
+ Perform miscellaneous duties as assigned.
+Required Education and Work Experience:
+Previous cash handling experience an asset.
+High School graduate or GED equivalent preferred.
+Ability to communicate effectively with others.
+Excellent customer service skills
+Previous Food & Beverage experience helpful.
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="73">
+<TITLE>
+Deli & Concessions Supervisor
+</TITLE>
+<DESC>
+Your daily responsibilities include:
+Provides fast, friendly, professional and responsive customer service to restaurant guests and restaurant staff
+Operates a cash register/POS System, ringing proper amount into the register and giving the guest or server the correct change; accounts for all cash, charge and complimentary sales according to established procedure; maintains integrity of all financial controls and responsibilities
+Keeps designated working area clean and organized, and assists in maintaining cleanliness of dining room, including host stand area, as necessary or required, in accordance with established health and safety standards
+Resolves service issues according to the service recovery toolbox
+Knows and promotes current casino events and programs and can give guests directions to all casino areas
+Thanks customers, invites them back, wishes them luck and makes it easy for them to get back in play
+To be successful in this position it will require the following skill set:
+Must be at least 18 years of age
+High school diploma or GED
+Prior customer service in a fast paced environment preferred
+Previous cashiering experience in a high volume restaurant preferred
+Read, write, speak and understand English
+Excellent customer service/communication skills
+Available to work required schedule which may include nights, weekends, holidays and overtime as needed
+Must meet professional appearance standards as prescribed by company policy
+Must be physically mobile with reasonable accommodations
+Able to work at a fast pace in an often crowded/noisy environment
+Must be able to accurately and quickly process all cash transactions
+Must be able to reach above and below the shoulder, grip small items (i.e., pens, money, credit cards), bend, stoop and twist while handling financial transactions;  stand and walk for up to four hours; able to use hand motions when receiving payment and giving change, when using the cash register/POS system and when cleaning and wiping cashier areas
+Must be able to tolerate industry standard chemicals used for cleaning and sanitizing
+Able to work in constricting areas
+Able to tolerate second-hand smoke, noise, bright lights
+Must be able to maintain a neat and professional appearance and uphold the company appearance standards
+Physically mobile with reasonable accommodations including ability to push, pull, carry and lift up to 25 lbs., and the ability to push, pull, reach, bend, twist, stoop, stack, crouch, kneel and balance when performing job duties in varying work areas such as confined spaces
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="74">
+<TITLE>
+Athletics Concessions
+</TITLE>
+<DESC>
+Athletics Dining is hiring temporary seasonal workers to work concessions for IU hosted sport events. Responsibilities include, but are not limited to: receive deliveries and stock concession stands at Memorial Stadium, Assembly Hall, Armstrong Stadium, Bart Kaufman and Andy Mohr Field; food prep, customer service, cash handling, inventory control, merchandise and supply restocking and facility upkeep. 
+Previous retail or food service experience is preferred. Must be responsible, courteous, possess good communication skills, accurate cash handling skills, good work ethic and ability to work without close supervision. Work hours are determined by scheduled games and may decrease in the event of inclement weather. Hours may vary between 10-29 hours a week. 
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="75">
+<TITLE>
+Ice Center Concessions Attendants
+</TITLE>
+<DESC>
+Provide customer service to ice center concession patrons as requested or needed. Takes food order and prepares food. Stock concession supplies and food. Takes money and gives customer correct change back. Maintain concession area in a sanitary and organized manner.
+ Essential Functions:
+Concession sales / ticket sales for public skating
+Takes food order from customer and prepares food by following sanitary guidelines
+Receives money and makes correct change for customer
+Completes necessary reports and duties
+Balances receipts with cash till
+Performs clean-up duties in the stand to maintain the quality appearance of the work area including cleaning equipment and surrounding area
+Work assigned hours or find appropriate substitute
+ Qualifications:
+Friendly personality
+Detail oriented
+Self-motivated
+Honest and trustworthy
+Knowledge and skill in handling money including making change
+Ability to communicate with the public
+Ability to stand for an extended period of time
+Able to work evening and weekend hours.  Includes holidays.
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="76">
+<TITLE>
+Food & Nutrition Service Worker
+</TITLE>
+<DESC>
+Assists workers engaged in preparing foods and beverages for one or more food service outlets by cleaning work areas, equipment, and utensils, assisting in food preparation, set up, and service, and collection/removal of garbage and trash. Serves a range of hot and cold food items.
+Essential Job Functions:
+1.      Demonstrates the correct operation and cleaning of the Dish machine. Completes the dish
+room operation in a timely manner.
+2.      Demonstrates appropriate pot and pan washing, sanitizing, and drying when utilizing a three-
+compartment sink. Organizes and replaces service ware to appropriate location.
+3.      Cleans and maintains work areas, including floors, facilities, utensils, and equipment; collects and
+removes garbage/trash from designated containers to the outside dumpster .
+4.      Understands basic diet restrictions as applied to late tray operations, and adheres to established procedure to meet the diet restrictions, and delivers the late trays in a timely manner.
+5.      Delivers/retrieves food carts to/from patient units in a timely manner while adhering to established.
+procedures.
+6.      Checks and records dish machine temperatures at specified times, and check for appropriate sanitizer in sanitizing solutions.
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="77">
+<TITLE>
+Dietary Aide/Cook 
+</TITLE>
+<DESC>
+The primary responsibility of this position is to provide assistance in all food functions for our residents as directed by the Dietary Supervisor.
+Responsibilities:
+Set up, deliver and serve food as directed.
+Serve meals that are palatable, appetizing in appearance and in accordance with established portion control procedures, on a timely basis.
+Assist Cook in preparing meals and checking diet trays before distribution.
+Prepare kitchen, food and supplies for the next meal.
+Return clean utensils to proper storage areas and maintain a clean, dry work environment free of hazardous conditions or equipment.
+Assist in daily cleaning duties including sweeping, mopping, dishwashing, etc.
+The responsibilities described above represent the primary responsibilities of the job. Other responsibilities may be assigned by the supervisor as warranted by business needs. The incumbent is expected to perform all assigned tasks.
+Qualifications and skillsets:
+Maintain confidentiality of all resident care information in accordance with HIPAA guidelines.
+Create and uphold an atmosphere of warmth, patience, enthusiasm, and a calm and cheerful environment.
+Ability to handle multiple priorities.
+Ability to read and interpret documents such as safety rules, operating instructions, handbooks, and procedure manuals.
+Previous experience working in a skilled nursing community preferred.
+Strong interpersonal, teamwork, customer service, and problem solving skills.
+Strong organizational skills, including meeting deadlines
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="78">
+<TITLE>
+Dietary Aide
+</TITLE>
+<DESC>
+The diet aide is responsible for providing assistance in all dietary functions as directed by the Nutrition Service Director in accordance with established policies and procedures.   
+Reporting to: 
+•    Nutrition Services Director and Administrator of the facility 
+Essential Duties and Responsibilities: 
+•    Work with the facility dietitian/Nutrition Services Director as necessary to carry out recommended therapeutic restrictions with regards to residents’ nutritional care plans. 
+•    Serve meals and snacks in accordance with approved menu spreadsheets in a palatable and appetizing manner. 
+•    Serve meals in accordance with established portion control procedures. 
+•    Prepare food in accordance with sanitary regulations as well as established procedures. 
+•    Assist in daily or scheduled cleaning duties and in accordance with established procedures. 
+•    Clean all work spaces. 
+•    Take soiled utensils, plates, etc. to dishwashing area. 
+•    Return all clean utensils, plates, etc. to proper storage areas. 
+•    Carry out garbage and keep work areas clean. 
+•    Set up meal trays or dining room areas as instructed. 
+•    Assist cook in preparing meals as necessary. 
+•    Obtain food supply for next meal. 
+•    Assist in checking meals or trays for accuracy of resident restrictions before serving. 
+•    Serve residents in all dining areas as instructed. 
+•    Perform dishwashing and cleaning procedures. 
+•    Remove plates or food trays from dining table or food trucks and take to dishwashing area. 
+•    Prepare and deliver snacks as instructed. 
+•    Report all hazardous conditions/equipment to Nutrition Services Director. 
+•    Assist in maintaining all food storage areas including refrigerators and freezers in a clean and sanitary manner. 
+•    Report any food complaints to the Nutrition Services Director. 
+•    Any other tasks as deemed necessary by the Nutrition Services Director, Registered Dietitian or facility administrator. 
+Job Requirements •    Experience in Long Term Care is preferred, however, we are willing to train reliable candidates. 
+•    Flexibility to work all shifts and the right attitude are the most important aspects for success in this position.   
+•    Must be able to work weekends. 
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="79">
+<TITLE>
+Dietary Aide
+</TITLE>
+<DESC>
+Assist in serving meals as necessary and on a timely basis.
+Assist in daily or scheduled cleaning, including carry out garbage and keeping work areas clean, dry, and free of hazardous equipment, supplies, etc.
+Clean and set up trays, food carts, the dining room, etc. as instructed.
+Work as a Cook as directed.
+Maintain proper temperature of food during preparation and service.
+Assist in checking diet trays before distribution.
+Deliver food carts, trays, etc., to designated areas.
+Perform dishwashing/cleaning procedures. Assure that utensils, etc., are readily available for the next meal.
+Prepare food and supplies for the next meal.
+Prepare and deliver snacks, etc., as instructed.
+Assist in inventory and storing of food, supplies, etc., and maintain food storage areas in a clean, properly-arranged manner at all times.
+Assist in food preparation for special events.
+Dispose of food and waste in accordance with established policies.
+Make only authorized food substitutions.
+Perform additional duties as assigned.
+Education and Experience
+High school diploma or equivalent preferred. No experience required. On-the-job training provided. Must complete Serve Safe Program.
+Physical Requirements for Essential Job Functions
+Must be able to move about consistently throughout the workday.
+Must be able to reach, bend, and/or stoop intermittently throughout the workday.
+Must be able to push, pull, move, and/or carry up to 50 pounds utilizing proper body mechanics and assistance.
+Must be able to push, pull, or move a minimum of 100 pounds utilizing proper body mechanics and assistance.
+Must be able to see and hear or use prosthetics that will enable these senses to function adequately to ensure that the requirements of this position can be fully met.
+Must be able to cope with the mental and emotional stress of the position.
+Must be able to walk/stand 75% of the day.
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="80">
+<TITLE>
+DIETARY AIDE
+</TITLE>
+<DESC>
+Dietary Aides - Five Star Senior Living has a great opportunity available for you!
+Cherrelyn Healthcare Center is a large Skilled Nursing Community for seniors.  We pride ourselves on providing excellent resident care in a caring environment.  At this time we are seeking Dietary Aides to join our team. 
+Responsibilities include but are not limited to:
+Preparing food or readying pre-portions food using proper food handling and food safety techniques
+Maintaining proper temperatures of food at all times
+Ensuring that food is served in an attractive and appetizing manner
+Assisting with the set up of the tray line
+Storing food properly
+Required Skills
+On the job training will be provided but our ideal candidates will meet the following qualifications:
+Completion of a high school diploma
+Strong communication skills
+The desire to work with the senior population
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="81">
+<TITLE>
+DIETARY CLERK/DIETARY AIDE
+</TITLE>
+<DESC>
+High school diploma or equivalent is required
+Experience is preferred
+Summary: Performs a variety of patient food service duties, as well as other food service related tasks.  Provide nutritional care services through diet order processing, menu collection and modification, and general direction of the trayline.    
+Qualifications: Ability to speak, read, and write English.  Ability to follow direction and work independently.  Some knowledge of food preparation, sanitation, cleanliness, and neatness.  Previous experience in the food service area preferred.  Excellent communication and customer service skills required.  Knowledge of nutrition and hospital procedure required; experience in hospital dietetics is desirable.  Good organizational skills, ability to work cooperatively with others, be accurate in all phases of job, and take decisive action when necessary.
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="82">
+<TITLE>
+Ambassador Room Service
+</TITLE>
+<DESC>
+Primary responsibilities will be to instruct each patient on the Room Service meal ordering system and to assist guests (patients) and/or family members in placing meal orders. Assesses patients on their ability to utilize the meal order system and makes appropriate decision. This position is responsible for processing all diet requests, while serving each guest in a timely, professional, and efficient manner. Reliably delivers the correct diet compliant menus to each guest. Is a patient advocate and takes ownership of patient concerns, and immediately makes independent decisions within scope of care and follows up each concern to a positive resolution.  To conform to JCAHO standards, uses two patient identifiers to positively I.D. each patient before a meal is served. This person will act as a liaison between the patient, Nutritional Services, nursing, and any other department involved, creating a positive service culture. This will require independent thinking, multi-tasking, prioritization, and communication skills. Must be self-motivated and be able to work independently with minimal supervision. The primary responsibility of this position is direct one-on-one patient service.
+KEY RESPONSIBILITIES / ESSENTIAL FUNCTIONS
+Consistently serves each guest in a professional and efficient manner.
+Instructs each guest, visitor, and family member on the Room Service meal system.
+Inventories, records, and replaces bulk supplies on their designated nursing unit as needed.
+Has knowledge of all diet restrictions/menus utilized.
+Delivers between meal nourishments (when needed) directly to each guest.
+Total responsibility for all Quality Assurance control points for every aspect of the Room Service system ensuring all actions reflects the overall Room Service goal of achieving a
+ “5“on patient satisfaction goals.
+Must participate as a team member by anticipating guest/team member needs and being proactive to the concern.
+Working in the kitchen to dry trays, bag silverware, clean carts, etc., when needed.
+Demonstrates computer literacy.
+Responsible for active participation in performance improvement standards.
+Maintains performance, patient and employee satisfaction and financial standards as outlined in the performance evaluation.
+Performs compliance requirements as outlined in the Employee Handbook
+Must adhere to the DCH Behavioral Standards including creating positive relationships with patients/families, coworkers, colleagues and with self.
+Requires use of electronic mail, time and attendance software, learning management software and intranet.
+Must adhere to all DCH Health System policies and procedures.
+All other duties as assigned.
+MINIMUM KNOWLEDGE, SKILLS, EXPERIENCE REQUIRED
+High school graduate or equivalent preferred. Absolutely crucial to be able to have positive one-on-one interaction with different levels of patients, patient’s families, doctor’s, nursing, and other staff within the hospital setting. Knowledge of Microsoft Windows and Word is strongly recommended.  Working with laptops and using cell phones are required. This position will require strong customer relation, communication, prioritization, and multi-task skills.  Will be required to complete the ServSafe class within six months after hire and score a minimum of 75% on the written test. Must be able to read and write legibly, speak, and comprehend English and be able to follow written and oral instructions.
+WORKING CONDITIONS
+Environmental:   May require working in a hot humid environment around food service equipment for most of shift.  Will also require going into walk-in refrigerators at <40 degrees and walk-in freezers at <0 degrees for extended periods of time; possible risk of injury from sharp objects, hot surfaces,  steam, cleaning/sanitizing agents, and moving equipment.
+Physical: Medium work. An individual must be able to exert 20 to 50 lbs. of force occasionally and/or 10 – 25 lbs. of force frequently on a regular basis. Physical requirements also include the abilities to stand, constant walking, kneel, sit, or stoop, and reach over head with good balance on wet tile floors for extended periods of time. Occasionally having hands in water and cleaning solutions. Maximum exposure to patients in patient rooms and PPE protocols will be required.  Physical presence onsite is essential. Hearing and vision must be normal or corrected to within normal range. Also must be able to perform the duties with or without reasonable accommodation.
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="83">
+<TITLE>
+Overnight Room Service Server
+</TITLE>
+<DESC>
+Responsible for providing restaurant service to guest rooms in a timely and efficient manner. Must be courteous and customer service oriented. Previous server experience required. Will be responsible for taking guest in room dining orders. Must possess excellent oral and written communication skills. Will perform all control and revenue related paperwork. Computer skills are essential. Must be 21 years of age and available to work a flexible schedule to include weekends, holidays, and overnight shifts.
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="84">
+<TITLE>
+Room Service Server
+</TITLE>
+<DESC>
+Is currently seeking a Room Service Server to work on a full time status.  The Room Service Server is responsible for receiving orders, preparing orders and delivering items to guestrooms in an attentive, courteous and efficient manner.
+Fundamental Requirements:
+Employees must at all times be attentive, friendly, helpful and courteous to all guests, managers and fellow employees.
+Prepare station in anticipation of the day's business. Stock work areas with china, glassware, linen, coffee pots, napkins and ensure that stock is clean and polished.
+Check VIP list, and communicate orders to the kitchen and the next room service shift.
+Set trays and tables according to established standards.
+Deliver orders according to established standards.
+Retrieve trays on a timely basis.
+Ensure quality of food & beverage being delivered and communicate with Manager/Captain/Kitchen.
+Prepare and deliver amenities. Replenish as needed.
+Call all guests before delivery of order.
+Perform opening and closing duties according to established sidework checklist.
+Have a thorough knowledge of menus and current specials and upsell items to guests.
+Assist order taker in the answering of the telephone while maintaining the established standards.
+Communicate guest needs to proper department.
+Handle guest's complaints and communicate to management.
+Ensure overall guest satisfaction.
+Qualifications
+Education & Experience: 
+High School diploma or equivalent and/or experience in a hotel or related field preferred.
+Physical requirements:
+Flexible and long hours sometimes required.
+Medium work - Exerting up to 50 pounds of force occasionally, and/or 20 pounds of force frequently or constantly to lift, carry, push, pull or otherwise move objects.
+Ability to stand during entire shift.
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="85">
+<TITLE>
+Room Service Food Cashier
+</TITLE>
+<DESC>
+Responsible for taking room service orders on the telephone and providing accurate time estimates for food delivery; provides friendly, efficient service and ensures guest satisfaction.
+Qualifications:
+Previous customer service experience preferred.
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="86">
+<TITLE>
+Room Service Server
+</TITLE>
+<DESC>
+Room Service Server
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="87">
+<TITLE>
+he Room Service Server is responsible for the prompt delivery of orders and amenities to guest rooms and serving guests. Duties include setting orders and trays, setting and breaking down functions, tray retrieval, pool area maintenance, clearing and cleaning tables, assisting bartenders and other servers of the resort. At times, will be required to serve, bus, bar-back, expedite and food run in all Food and Beverage outlets of the resort.
+Qualifications: Must be of legal age to serve alcohol. A Food Handlers Card is required for this position. A valid Drivers License is also required for this position (golf carts). High School Diploma is preferred.
+Important Personal Characteristics: Must be able to communicate well with others and capable of working under pressure. Must have organizational, and customer service skills, and able to work with minimal supervision. Must be a flexible and versatile team member of the resort and willing help when, where, and as needed.
+Physical Requirements: This position requires some moderate to heavy lifting, continuous walking outside and carrying trays (sometimes up the stairs).
+</TITLE>
+<DESC>
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="88">
+<TITLE>
+Room Service Server
+</TITLE>
+<DESC>
+The Room Service Server is responsible for ensuring accurate food orders as well as timely delivery. 
+Additional responsibilities include:
+- Assist with preparing food trays; ensure proper appearance standards
+- Deliver Room Service trays to guest rooms
+- Maintain an up to date working knowledge of all amenities and mini bars, notifying housekeeping of any issues
+- Maintain daily can checklist and inspection
+- Complete opening, ongoing and closing sidework
+- Communicate with kitchen staff to ensure guest satisfaction
+- Remove serving trays from guest rooms
+- Engages in friendly and professional conversation with guests
+- Addresses any guest issue promptly and with great concern
+- Maintain an up to date working knowledge of all hotel amenities as well as any special events.
+Position Requirements 
+-Prior food and beverage experience in similar position preferred;
+-At least six months POS system experience preferred;
+-Ability to work under pressure in a fast paced environment;
+-Must possess excellent listening and communication skills;
+-Must be able to accurately follow instructions, both verbally and written;
+-Must possess solid computer skills with working knowledge of Microsoft Office programs;
+-Must be able to work a flexible schedule that includes evenings, weekends and holidays;
+-Excellent attention to detail 
+-Must possess the ability to handle multiple tasks
+-Ability to effectively communicate with department managers, team members and guests
+-Must possess a strong team spirit
+-Experience working in upscale hotel environment that provides a superior level of guest service with professionalism and discretion
+PHYSICAL DEMANDS:
+During the majority of the shift, must be able to:
+-Must be able to work indoors or outdoors;
+-Perform repetitive hand and arm movements;
+-Ability to lift, pull, carry, push up to 50 pounds; 
+-Continuous standing and climbing of stairs throughout the day during service hours;
+-Must be able to squat, bend, kneel and twist;
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="89">
+<TITLE>
+Room Service Assistant
+</TITLE>
+<DESC>
+Job Summary: Performs a variety of food service duties to facilitate efficient workflow within food and nutrition services. Prepares and serves food and beverages. Cleans and sanitizes facilities, equipment, dishes and utensils.
+Requirements:
+·         Computer skills or ability to use computers.
+·         Must be able to communicate effectively and tactfully interact with others
+·         Must be able to read, write and follow directions
+Preferences:
+·         High School Diploma or GED
+·         Food service experience in a healthcare setting
+·         Must rotate different hours, shifts and/or assigned areas, etc.
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="90">
+<TITLE>
+Room Service Server
+</TITLE>
+<DESC>
+The Opportunity 
+We are currently looking for a Room Service Server to join our team at our property. 
+As a Room Service Server, you’ll work with the Restaurant and Culinary department with the main job function of providing prompt and courteous delivery of all room service orders. 
+Job Responsibilities 
+Key responsibilities of a Room Service Server include: 
+•	Delivering food to guest rooms 
+•	Ensuring that all orders are accurate prior to leaving the room service kitchen 
+•	Memorizing the room service menu and food preparation methods as to better serve the guest 
+•	Working with the front office team to ensure accurate and prompt delivery of guest amenities and packages 
+•	Communicating professionally with hospitality agents and cook regarding room service requests 
+•	Being courteous to guests and accommodating any requests for items not listed on the room service menu 
+•	Completing daily side work including the pick-up and break down of all room service equipment from guest rooms and hotel hallways 
+•	Expediting room service deliveries by helping fellow employees setup and complete their orders when needed 
+•	Cleaning and breaking down trays in the dish area 
+•	Ensuring that the oncoming shift has adequate supply of silverware, trays, napkins, condiments, etc. 
+•	Using Micros POS to enter orders and tender payment 
+•	Ensuring that proper payment is received from guest prior to leaving their room and that all payments are properly tracked and managed 
+Job Requirements 
+The ideal Room Service Server candidate will possess strong communication skills and a clear understanding of guest service in a hotel environment. 
+The minimum qualifications for the Room Service Server position are: 
+•	1 year previous room service experience or 3 years of general serving experience preferred 
+•	Must have the ability to communicate clearly and directly with guests using a positive, clear speaking voice 
+•	Strong interpersonal skills including the ability to get along with diverse personalities, ability to tactful and flexible 
+•	Ability to work a varied schedule that may include evenings, nights and weekends 
+•	Ability to perform job functions with attention to detail, speed and accuracy 
+•	Possess a basic knowledge of food and beverage preparation, service standards, guest relations and etiquette 
+•	Ability to handle, carry and/or lift items weighing up to 40 pounds 
+•	Ability to stand, walk, and move around during entire shift 
+•	Must have a valid alcohol awareness certification or be capable of obtaining certification 
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="91">
+<TITLE>
+PM Room Service Server
+</TITLE>
+<DESC>
+JOB REQUIREMENTS:
+Minimum lifting 10 lbs.
+Ability to verbally communicate effectively with guests and co-workers.
+Pushing, pulling, bending, stooping, upward reaching.
+Exposure to cleaning chemicals.
+Prolonged periods of standing and/or walking
+JOB FUNCTIONS:
+Set up orders and deliver to rooms. 
+Correctly use the Point of Sales equipment and follow procedures. 
+Complete all daily and weekly-assigned sidework. 
+Check corridors and retrieve trays when returning from taking orders. 
+Clean and break down trays in dish area. 
+Each associate is expected to carry out, within their capabilities, all reasonable requests by management.
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="92">
+<TITLE>
+ROOM SERVICE SERVER
+</TITLE>
+<DESC>
+Responsible for accurately taking orders, assembling trays, and delivering the room service orders. Assembles room service orders to standard and efficiently, insuring that the order is complete and that all foods, beverages and other components meet established quality standards. Our ideal candidate has a positive attitude, a willingness to be a team player, and exceptional guest service skills. As a part of our hiring process, we require at least two positive verifiable references, a negative result on a pre-employment substance abuse test, and a stable work history verified by a background check.
+The Crowne Plaza Northstar seeks to hire dedicated and hospitable associates that will celebrate many years of service with Marcus Hotels and Resorts. As a valued member of our team, you will be empowered to shape every guest's journey into an experience that they will never forget! We offer excellent benefits, competitive wages, and hotel room discounts with IHG Hotels and Marcus Hotels and Resorts.
+Job Requirements
+Must have effective communication skills and must also be courteous and professional in behavior with guests. Ideal candidate will have previous experience in same or similar position.
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="93">
+<TITLE>
+Food Server-Room Service
+</TITLE>
+<DESC>
+Must be completely familiar with all food and beverage outlets, all support departments, events, promotions and physical layout of The Eldorado
+Deliver in room dining order to the guests in a timely manner, within the quoted time
+Set up trays or dining tables up to Eldorado standards as per side work description.
+Set up the dining table and or tray according to the order accurately and in timely manner
+Pick up the table after the use by the guests or as per guest's request.
+Verify guest satisfaction before leaving the room.
+Handle guest’s complaints
+To wish each and every guest a good day/evening before departing the room.
+Check accuracy of order before delivering - be sure it is complete.
+Extensive knowledge of food and beverage in order to assist guests with suggestions and up sell our product, including liquors and cocktails.
+Do all the side work and preparations of the equipment for the continuation of the operation
+Make sure that all silverware and glasses are wiped and spotless
+Make sure that all product served are accounted for on the final bill before presenting it.
+Anticipate guest needs, as to where guests will never have to ask for anything
+Provide excellent service at all times to all of our guests.
+Assist Guest courteously and efficiently, providing service for any guest's request
+Attend all food and beverage training classes.
+Set and maintain the Room Service equipment. Maintain cleanliness and functionality.
+Follow posted opening and closing duties and side work sheet.
+Contribute to the creation of a positive and productive work environment.
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="94">
+<TITLE>
+Room Service Server
+</TITLE>
+<DESC>
+Delivers food and beverage orders to guest rooms according to Hotel specifications, courteously and efficiently.  Deliver all guest requests to rooms.  Kepp coffee station in lobby stock and fresh. Act as bellperson as needed.
+ESSENTIAL JOB FUNCTIONS
+Maintain complete knowledge of and comply with all departmental policies/service procedures/standards.
+Maintain complete knowledge of correct maintenance and use of equipment. Use equipment only as intended. 
+Anticipate guests’ needs, respond promptly and acknowledge all guests, however busy and whatever time of day. 
+Maintain positive guest relations at all times. 
+Be familiar with all Resort services/features and local attractions/activities to respond to guest inquiries accurately. 
+Resolve guest complaints, ensuring guest satisfaction. 
+Monitor and maintain cleanliness, sanitation and organization of assigned work areas. 
+Maintain complete knowledge of all liquor brands, beers and non-alcoholic selections available in Room Service. 
+Maintain knowledge of the particular characteristics and description of every wine/champagne by the glass and major wines on the wine list. 
+Maintain complete knowledge of designated glassware and garnishes for drinks. 
+Maintain complete knowledge of all menu items, preparation method, ingredients, sauces, preparation time, garnishes, presentation and prices. 
+Maintain complete knowledge of guest room layout, locations and room numbers/names. 
+Maintain complete knowledge and strictly abide by state liquor regulations, particularly those prohibiting service to minors, intoxicated persons and drunk driving. 
+Maintain knowledge of P.O.S. and manual systems. 
+Answer Room Service phone within rings, using correct salutations and telephone etiquette. 
+Complete opening side duties as assigned: 
+Check quality and amount of all Room Service stock and supplies using checklist.   
+Fold/stack Room Service napkins.   
+Requisition all necessary supplies and transport from storeroom to Room Service.   
+Set tables and trays.   
+Set up all condiments (butter, jellies, syrups, juices) and beverages (alcoholic and non-alcoholic).   
+Ensure a sufficient supply of all silverware, glassware and chinaware for service.   
+Check cleanliness and condition of all equipment for use in Room Service area, rectify any deficiencies.   
+Ensure all flowers and decorative items are fresh for guest use. 
+Retrieve all food orders from kitchen and place on table/tray.   
+Retrieve all alcoholic beverage items from bar and place on table/tray in accordance with the departmental standards. 
+Transport tables/trays from Room Service area to guest rooms, ensuring all standards of food presentation are maintained and that no spillage occurs. 
+Enter the guest room and place the table/tray by following the established departmental procedures. 
+Serve the food items and beverages to the guest. 
+Open and serve wine/champagne bottles. 
+Present check to guest for signature/payment. Adhere to all payment procedures established by Accounting. 
+Set up and deliver amenities to designated rooms. 
+Monitor and maintain cleanliness, sanitation and organization of all service areas, guest rooms and guest corridors. 
+Transport all tables/trays from guest rooms to Room Service area as assigned. 
+Clean and reset tables/trays, maintaining sufficient supply in the Room Service area. 
+Collect and report tips at the end of the assigned shift. 
+Complete closing side duties: 
+Properly store all reusable goods.      
+Clean all equipment as assigned in the side duties.   
+Restock items for next service.   
+Remove all dirty linen; fold napkins.    
+Reset tables/trays.   
+Complete all closing reports as assigned.  
+Required Qualifications	
+Excellent customer service focus and communication skills. 
+Previous upscale hotel banquet or restaurant experience required. 
+TIPS Certified. 
+Ability to interpret/extract information and/or perform arithmetic functions. 
+Must be able to stand/walk for 6-8 hours/shift. 
+A minimum formal education of a high school diploma and a minimum of one year job-related experience. 
+Meets age to serve alcoholic beverages. 
+Prior experience as a Room Service Server. 
+Food handling certificate. 
+Fluency in English both verbal and non verbal. 
+Compute basic arithmetic. 
+Provide legible communication. 
+Ability to: 
+Perform job functions with attention to detail, speed and accuracy. 
+Prioritize and organize. 
+Be a clear thinker, remaining calm and resolving problems using good judgment. 
+Follow directions thoroughly. 
+Understand guest’s service needs. 
+Work cohesively with co-workers as part of a team. 
+Work with minimal supervision. 
+Maintain confidentiality of guest information and pertinent hotel data.
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="95">
+<TITLE>
+Room Service Server 
+</TITLE>
+<DESC>
+Responsible for set-up of room service area, delivery of food and beverages and serve food and or beverages in a friendly, courteous and professional manner according to established standards set by the hotel.
+RESPONSIBILITIES:
+Ensures complete guest satisfaction.
+Responsible for setting up of room service carts as instructed by and Food & Beverage Manager.
+Responsible to answer all Room Service calls in a timely manner.
+Responsible for delivering food & beverages to guests rooms and respond to requests in a friendly and courteous manner.
+Responsible for serving food and or beverages in the order and to the expectation of the Manger to ensure consistency throughout the guests dining experience. Follow up by calling guests rooms to inquire if they need anything else. Promptly bus trays / dishes as guests complete meals..
+Responsible once the restaurant is closed, to reset room service area according to Manager’s specifications to ensure the readiness of the room for the following day.
+Responsible for performing all assigned side-work to include replenishing condiments and restocking shelves with supplies.
+Responsible for performing general cleaning tasks using standard hotel cleaning products as assigned to adhere to health and sanitation standards.
+Responsible for abiding by all State, Federal and Corporate liquor regulations pertaining to serving alcoholic beverages to minors and intoxicated guests.
+Ensures that Quality Standards and Service are maintained for Property, Product, and People.
+Must be able to work all shifts.
+Ensures Security for the hotel’s customers, employees, and property assets.
+Enforces established policies and procedures for WinStar World Hotel and the hotel’s brand.
+TECHNICAL EXPERIENCE:
+Must have comprehensive knowledge of food and beverage preparations, service standards, guest relations and etiquette.
+Knowledge of the appropriate table settings and service ware.
+Must have the ability to remember, recite a variety of menu items.
+Knowledge of all applicable federal, state and local health and safety regulations.
+Comprehensive knowledge of the English language in order to read event orders and effectively communicate with guests and employees.
+Must have good basic mathematical skills.
+Must have ability to lift 30 pounds.
+PHYSICAL, MENTAL & ENVIRONMENTAL DEMANDS:
+Physically mobile with reasonable accommodations.
+Must be able to lift and carry upwards to 25 pounds.
+Must be able to bend, reach, kneel, twist and grip items while working at assigned desk area.
+Manual dexterity and coordination to perform all job duties including lifting of trays, etc.
+Read, write, speak, and understand English.
+Operate in mentally and physically stressful situations.
+Respond to visual and aural cues.
+Work in cold & hot temperatures.
+Possibly be exposed to second hand smoke.
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="96">
+<TITLE>
+PT ROOM SERVICE ORDER TAKER
+</TITLE>
+<DESC>
+This position is responsible for the transportation of food and beverage items to and from the guests via the room service operation and its related functions. 
+The hourly pay rate for this position is $8.25.
+This is a part-time year round position.  The working schedule for this position may include days, evenings, weekends, & holidays based on operational needs.
+Job Functions:
+Arranging room service carts in a professional and appealing manner
+Maintaining an adequate amount of room service supplies
+A complete knowledge of menu and all related menu items
+A complete knowledge of the room service process to be able to direct the guest and answer any questions; an ability to complete fundamental mathematics
+Ability to function with the Point of Service System
+Ability to handle guest concerns and questions in a thorough and professional manner.
+The position is also responsible to complete other duties as assigned by management.
+JOB REQUIREMENTS:
+Basic Qualifications:
+Must be at least 18 years of age.
+Additional Qualifications:
+Valid drivers license, a condition of continued employment.
+Must demonstrate a capacity to operate the Point of Sale system and complete elementary math functions.
+Must be responsible for cash, credit card and room charge handling.
+Must demonstrate complete organizational skills both in paperwork and work area.
+Must be able to communicate effectively to co-workers and other staff
+Must successfully complete TIPS training by passing the required test within the established probationary period. 
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="97">
+<TITLE>
+Room Service Server
+</TITLE>
+<DESC>
+You will serve meals to hotel guests according to established rules of etiquette, and to ensure a more pleasant stay.
+Essential Responsibilities are but are not limited to:
+-Answers room service phone within 3 rings, answers questions, and takes orders from guests.
+-Relays order to kitchen and/or bar.
+-Arranges orders on service trays, ensuring flair, sanitation, and timeliness of delivery.
+-Completes sidework as deemed necessary by management to ensure the smooth operations of department.
+-Replenishes supplies of clean linens, silverware, glassware, and dishes at the room service station.
+JOB REQUIREMENTS
+-Must be a citizen of this country or possess a valid work permit.
+-NM Alcohol Certification required
+-Prior Hotel Room Service experience required
+Technical Requirements:
+-Must live in the local area or within commuting distance.
+-Local applicants will be considered first.
+-Must be willing to work a variety of day/night and weekend shifts.
+-Must be able to read, write and speak English.
+-Must be able to converse in basic English.
+-Requires strong organizational skills.
+-Must be able to work independently.
+-Able to be on your feet for long periods of time.
+-Able to lift at least 50 pounds.
+-Excellent people skills.
+-Must meet grooming standards.
+-We provide a substance free environment. Substance testing is mandatory.
+-Candidate must be able to pass background and credit check.
+-Meet/exceed customer expectations.
+-Must meet or exceed the team expectations.
+-An energetic personality.
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="98">
+<TITLE>
+Room Service Server
+</TITLE>
+<DESC>
+The candidate will follow all sequence of service guidelines according to Kimpton Hotels & Restaurant standards.
+Memorize current menu items and price. Have knowledge of food quality standards. Be familiar with the proper use of room service carts. Have knowledge of food and wine presentation. Maintain the hotels standards of service etiquette. Set up scheduled coffee service each morning by 6:00am. Be familiar with ticketing and cash handling. Insure that an order is reviewed at the time the ticket is put into the kitchen and that the correct amount of silver, napkins, condiments, and vases are properly prepared. Ensure that orders are checked for presentation and completeness, covered and placed in the cart for delivery, and water and beverage are added last. Insure the meal completion time is monitored; if meal delivery will be beyond 5 minutes of estimated times, guest is contacted, offered apologies ad advised of new time. Ensure that guest name and room number is confirmed at time order is up; guest door knocked upon and guest greeted by name upon entry. Ensure that guest preference for set up is determined and prepared; dining areas are set with silver, condiments, beverages, cold items and soup; entrees are left covered or inside room service care. Insure that wine if ordered is verified with guest, corked and offered for the guests approval.
+Ensure that guest check is presented for signature; guest is thanked by name and asked to call when they would like the service removed. Insure that guest check is turned into room service cashier. Ensure that stations are properly cleaned, stocked and organized. Insure that linen, silver, condiments are available. Ensure that salt and pepper shakers are cleaned and filled; and vases are properly prepared. Be familiar with state liquor laws. Clean spills, broken glass and debris promptly after incidents. Avoid cuts and burns by protecting hands against direct contact with hot plates and broken glass. Ensure that room service carts and trays are properly stacked and transported. Pick up trays en route back to station and during slow periods.
+Required Skills & Experience:
+Required Experience and Attributes: High degree of self-motivation, ability to work well both as an individual contributor and within a team environment. Excellent written communication, organizational/presentation skills. Highly motivated and flexible, possessing the ability to take initiative. Flexible schedule to work AM/PM, weekends to include holidays
+QUALIFICATION RQUIREMENTS:
+To perform this job successfully, an individual must be able to perform each essential duty satisfactorily. The requirements listed below are representative of the knowledge, skill, and/or ability required. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+EDUCATION and/or EXPERIENCE:
+High school diploma or general education degree (GED); or 1 year minimum of customer service experience related experience and/or training; or equivalent combination of education and experience.
+LANGUAGE SKILLS:
+Ability to read and comprehend simple instructions, short correspondence, and memos. Ability to write simple correspondence. Ability to effectively present information in one-on-one and small group situations to customers, clients, and other employees of the organization.
+MATHEMATICAL SKILLS:
+Ability to add, subtract, multiply and divide. Ability to perform these operations using units of American money and weight measurement, volume, and distance.
+REASONING ABILITY:
+Ability to apply common sense understanding to carry out detailed but uninvolved written or oral instructions. Ability to deal with problems involving a few concrete variables in standardized situations.
+PHYSICAL DEMANDS:
+The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+While performing the duties of this job, the employee is regularly required to stand, walk, and talk or hear. The employee frequently is required to use hands to finger, handle, or feel objects, or telephone. The employee is occasionally required to reach with hands and arms and taste or smell.
+The employee must regularly lift and/or move up to 10-25 pounds and frequently lift and/or move up to 50 pounds. Specific vision abilities required by this job include close vision, distance vision, and the ability to adjust focus.
+WORK ENVIRONMENT:
+The work environment characteristics described here are representative of those and employee encounters while performing the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="99">
+<TITLE>
+Room Service Server
+</TITLE>
+<DESC>
+The Room Service Server is responsible for the prompt delivery of orders and amenities to guest rooms and serving guests. Duties include setting orders and trays, setting and breaking down functions, tray retrieval, pool area maintenance, clearing and cleaning tables, assisting bartenders and other servers of the resort. At times, will be required to serve, bus, bar-back, expedite and food run in all Food and Beverage outlets of the resort.
+Qualifications: Must be of legal age to serve alcohol. A Food Handlers Card is required for this position. A valid Drivers License is also required for this position (golf carts). High School Diploma is preferred.
+Important Personal Characteristics: Must be able to communicate well with others and capable of working under pressure. Must have organizational, and customer service skills, and able to work with minimal supervision. Must be a flexible and versatile team member of the resort and willing help when, where, and as needed.
+Physical Requirements: This position requires some moderate to heavy lifting, continuous walking outside and carrying trays (sometimes up the stairs).
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>
+<JOB GROUP_ID="100">
+<TITLE>
+Food Service Assoc II
+</TITLE>
+<DESC>
+The role of a Food Service associate is to provide extraordinary service to patients, their families and staff by providing a clean and sanitary environment for the preparation and delivery of food.  They are responsible for obtaining food and supplies from the storeroom, cleaning and restocking supplies during down times, operating dishwashing machines, cleaning floors, delivering food carts to patient floors and assisting the food and nutrition services with other duties as assigned. 
+The food service associate can truly make a difference by giving friendly, caring, courteous and professional service to every customer.  Through their commitment to excellence and dedication, they ensure our healing commitments are met.
+Minimum Requirements
+Read, write, and communicate effectively
+Food Handler's Permit (as required by the County)
+Ability to work independently and as part of a team
+Ability to follow instructions
+Excellent customer service skills
+Ability to handle problems and difficult situations
+Basic math skills
+Physical Requirements
+Stand, lift, push, pull, stoop, bend and stretch
+Preferred Qualifications
+Food service or cashier experience
+</DESC>
+<TAG>
+130500
+</TAG>
+</JOB>

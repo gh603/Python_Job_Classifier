@@ -1,0 +1,2825 @@
+﻿<JOB GROUP_ID="1">
+<TITLE>
+Executive Chef/Manager 
+</TITLE>
+<DESC>
+A little bit about the job. . .
+We are looking for someone ready to start today.
+This is a full time job working any day of the week including weekends, lunch, dinner and late night.
+You will be required to meet the truck in different locations therefore a car is required.
+You will be running the truck, supervising all staff, shopping and updating the menu.
+Required qualifications
+-- At least two years of experience managing in the food service industry
+-- Ability to give and receive feedback
+-- Must have a valid California driver's license
+-- Successful history of strong customer service skill with positive attitude
+-- Ability to work under pressure and multi-task in a fast-paced environment
+-- Must be able to read and communicate in English
+-- Must be able to lift 50 pounds
+-- ServSafe Certification required
+-- Successful history of working in a team environment
+-- Must have reliable transportation
+-- Open availability
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="2">
+<TITLE>
+Sous Chef 
+</TITLE>
+<DESC>
+At least 21 years of age. 
+Written and verbal comprehension of English language. 
+Basic computer skills. 
+Basic mathematical skills. 
+Must be able to deal with all guests and staff in a courteous & professional manner. 
+Maintain a polished professional appearance 
+Strong sense of urgency. 
+Must have high school education or equivalent. 
+Minimum 1+ years Culinary Management experience in a high volume fine dining food service restaurant. 
+Must be extremely creative and have a palate for combining flavors and textures with strong knowledge of classical 
+steak house preparations. 
+Broiler experience a must 
+Butchering experience a must 
+Culinary institute education, formal apprenticeship, multiple stagier or equivalent is preferred. 
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="3">
+<TITLE>
+Chef
+</TITLE>
+<DESC>
+BASIC FUNCTION: Responsible for culinary operations and supervision of food production for the community. Provides mentoring and leadership to dining services staff to meet and/or exceed appropriate performance standards with regard to all aspects of the dining experience, including cooking, food presentation and service, food waste management, and sanitation. Participates in food preparation for meal and catered functions as needed. Ensures that food is prepared and presented in an appealing and appetizing manner according to consistently high standards. Adheres to all corporate dining services quality and service standards and all applicable safety and sanitation regulations and guidelines.
+Job Responsibilities
+ESSENTIAL FUNCTIONS:
+The employee must be able to perform each essential function effectively to be successful in this position.
+1.	Supervise and participate in food preparation for meals and assist with catered functions.
+2.	Work with the Director of Dining Services to develop applicable training programs for both front-of-the-house and back-of-the-house community staff.
+3.	Encourage, coach, and support team members to inspire compassionate and effective performance.
+4.	Assist the community in utilizing the appropriate resources to implement the menus.
+5.	Coordinate with the Dining Services Director on the development and implementation of appealing, nutritionally adequate menus for the community based on guidelines in the company Dining Manual, within budgetary constraints, incorporating formulary specified products and regional preferences to the extent possible.
+6.	Participate in monthly menu review meetings. Conduct daily resident visitation in the dining room and follow up with the Dining Service Manager/residents as circumstances dictate. Know and be sensitive to customer needs, preferences, and expectations. Make recommendations and/or develop resources to ensure the highest level of customer service and satisfaction.
+7.	Assist the Dining Services Director in the planning and preparing of special meals for special events.
+8.	Provide input to the Dining Services Director for the development and modification of food service order guides.
+9.	Assist in applying appropriate safety procedures.
+10.	Assist Dining Services Director in maintaining cost control, adhering to company purchasing practices and productivity standards, adhering to food service regulatory requirements, and minimizing the use of commercial supplements.
+11.	Assist in regard to kitchen cleanliness, safe food handling, preparation and storage, to maintain adherence to state and local health department code requirements.
+12.	Develop and maintain a good working rapport with interdepartmental personnel to support efforts to meet the needs of the residents; work with the community’s dietician to implement recommended changes.
+13.	Identify any significant food service trends and make recommendations for improved performance and operations.
+The preceding list of essential functions is not exhaustive and may be supplemented. 
+KNOWLEDGE, SKILLS, AND ABILITIES: Can read, write, and make simple mathematical calculations. Ability to understand and carry out instructions that are provided in written, oral, or diagram form. Possess well-developed communication and interpersonal skills. Demonstrate expertise in a variety of dining service concepts, practices and procedures. Possess solid judgment to plan and accomplish goals; and to discern solutions to problems and obstacles that might deter the department from achieving quality service. Ability to get along well with diverse personalities; tactful, mature and flexible. Ability to establish credibility and empower supporting members of management and staff. Microsoft Office computer skills are required.
+Job Requirements
+EDUCATION, QUALIFICATIONS, CREDENTIALS: High School Diploma, or equivalent, required. Formal culinary training and ServeSafe certification required. Prefer ACF certification or accomplish within the first 90-days of employment. Must have excellent food presentation and preparation skills including substantial knowledge of scratch cooking, baking, and pastry. Must strictly adhere to local and state health sanitation and safety regulations. CDM certification and/or prior healthcare of assisted living experience a plus. Three years of foodservice supervision experience preferred, including experience with purchasing, personnel management/scheduling, and menu/inventory management. Must have broad institutional and batch cooking experience; a level of comfort in high volume, complex foodservice operations; and experience with dining room or customer relations. Must have strong leadership skills, and solid culinary skills with the ability to mentor, develop, and coach culinary staff. Must demonstrate comprehensive knowledge of current culinary trends with a focus on top notch quality, production, sanitation, food cost controls, and presentation. Must adhere to continuing education requirements to maintain ACF, CDM and/or sanitation certification requirements, as applicable.
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="4">
+<TITLE>
+Full Service Chef 
+</TITLE>
+<DESC>
+As a Teppanyaki (Hibachi) Chef, you will cook a full rotation of tables, making top-quality, authentic Japanese meals in an entertaining setting. This position pairs the preparation of a delicious meal with the benefit of watching customers devour the results of your work.
+At our high-dollar, low-volume restaurant we retain a strong base of loyal customers with consistent, delicious fare.
+This working role will include (but is not limited to):
+- Cooking a full rotation of tables
+- Guest relations, ensuring a positive experience for your own tables and those of your team
+- Regular, consistent, punctual attendance
+- A flexible schedule, including evenings and weekends, as it meets the needs of the business
+- Keeping a clean and safe work station
+- Working as a team while maintaining individual initiative to get work complete in a timely manner
+An ideal candidate:
+- Has 2-3 years food prep experience - Japanese cuisine experience will be very helpful, but not required
+- Is familiar with best practices for a cost-effective kitchen
+- Shows longevity with previous positions
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="5">
+<TITLE>
+Chef / Team Lead: Cooking 
+</TITLE>
+<DESC>
+The Restaurant Chef  will assist the restaurant General Manager and Assistant Manager in daily functions of restaurant service to ensure guest satisfaction through supervision of employees and service to guests. The Chef will assist in effective management and direction of restaurant operations including supervising employees, scheduling, payroll, monitoring quality and consistency in food production, cost control, and inventory.
+Responsibilities:
+Responsible for proper operations in the designated outlet.  This includes, but is not limited to, stocking outlet with product to PAR levels, ensuring all menu items are prepared correctly and with the highest regard for food safety and sanitation, menu engineering and menu costing, maintaining the targeted food costs designated for the restaurant; ensuring employees have the necessary tools and training, filling in to break employee and working the line, holding employees accountable for all policies and procedures and generally assisting management in daily operations.
+Qualifications:
+Educational Requirements: HS Diploma or GED
+Communication Requirements: Ability to speak, read and communicate clearly in English.
+Guest service skills: Professionalism and strong guest service skills, attention to detail and timeliness.
+Flexible schedule required during peak times throughout the year.
+Able to lift 50 lbs
+Previous resort mountain dining experience
+Previous supervisory or management experience
+Experience working a guest service related field - Preferred
+Previous food and beverage experience - Preferred
+Previous experience with menu engineering
+Must be able to provide ServSafe/Prometric/California Food Handlers car
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="6">          
+<TITLE>
+Sous Chef
+</TITLE>
+<DESC>
+As a Levy Restaurants Sous Chef, you will be responsible for maintaining recipes to meet Levy standards, ensuring all safety and sanitation standards, presenting quality food and continuing to gain culinary expertise. Overall, you will create "The Levy Difference" with cuisine that exceeds the guests’ expectations while providing strong leadership and delivering cost goals.
+Responsibilities will include but not limited to:
+Responsible for managing day-to-day operations of the culinary department with the oversight of the Executive Sous Chef and/or Executive Chef. 
+Recruit, hire, train, schedule and coach team members consistently and effectively.  
+Supervise assigned areas for proper safety and sanitation compliance. 
+Manage inventory to maintain appropriate par levels and turn rates. 
+Create new menus for various events. 
+Deliver the Partner difference to clients. 
+Support off-site events at other Levy properties as needed. 
+Basic, Preferred Qualifications:
+Minimum 2 years culinary management experience.
+ServSafe, local and state regulatory certificates or the ability to obtain required.
+Previous experience in high volume restaurant, hotel, table service and/or quick service restaurants.
+Proven ability to use cooking skills in the creation of menus that reflect current culinary trends as well as meet the dietary needs of Guests.
+Ability to build relationships and work in a rapidly changing environment.
+Demonstrated strong verbal and written communication skills with direct reports and strategic partners.
+Demonstrated organizational skills with attention to detail
+Proficient in MS Office programs.
+Proven ability to be a self start and initiator
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="7">
+<TITLE>
+Sous Chef 
+</TITLE>
+<DESC>
+full service retirement community offering Independent Living at this time, we are seeking a Sous Chef to join our team who will primarily cook and prepare meals for our residents this will also involve supervising other kitchen staff and working with our Executive Chef.
+Experience and/or knowledge of meal preparation for large groups and safe food handling techniques are required. Additionally this person will need to be able to read and understand recipes, work in a team environment, work flexible shifts, handle multiple tasks at one time and have strong verbal and written communication skills. Minimum 3yrs experience required.
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="8">
+<TITLE>
+Sous Chef
+</TITLE>
+<DESC>
+This location is currently seeking a Sous Chef. This is a key position in our restaurant and we're seeking the best of the best! 
+Position Requirements: 
+Responsible for maintaining food quality and ensuring guest satisfaction
+Maintain standards of hygiene and safety throughout the kitchen
+Verifies that all portion sizes, a quality standard, department rules, polices, and procedures are maintained by kitchen team members.
+Verifies that all sanitation and nutrition practices maintained by kitchen employees.
+Motivating team to complete the food preparation process, ensure customer satisfaction, comply with company procedures and maximize productivity and profitability 
+Leading your team in promoting quality first, sanitation standards and recipe adherence
+Set standards and maintain food presentation quality in the outlet at all times
+Motivate staff and maintain discipline at all times
+Receive all goods and ensure that they meet company quality specifications and reject those items that do not
+Ensure that standard recipes are being followed at all times
+In-depth skills and knowledge of all kitchen operations
+Capability of producing a consistent product to meet and exceed guests' needs in a timely manner
+Ability to create standard recipes
+Open availability to work days, nights, weekends and holidays.
+Flexible and long hours sometimes required
+Ability to educate and demonstrate fundamental and advanced cooking skills
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="9">
+<TITLE>
+Ass't Chef - Cook
+</TITLE>
+<DESC>
+The Chef is responsible for providing dining services oversight at an Enlivant Community. Lead the dining services team with preparing meals for our residents. This is a FT position Fri., Sat. and Sunday. 
+EMPLOYMENT QUALIFICATIONS: 
+Required Qualifications
+Minimum of one year senior living, skilled nursing facility, or hospitality experience in a dietary supervisory role
+Experience with food preparation which includes cooking and serving meals
+The ability to maintain inventory control, placing food orders and verify, stock and rotate inventory
+The ability to comply with state sanitation codes
+The ability to work a full shift, come to work on time, and work overtime as needed
+The ability to work according to the necessary schedule to meet job requirements with or without reasonable accommodation is an essential function of this position
+Preferred Qualifications
+Possesses good interpersonal communication skills. Ability to work harmoniously with other employees and develop/maintain good employee relations and employee morale.
+Possesses good time management and organizational skills.
+Excellent verbal and written communication skills to perform the tasks required.
+Actively express compassion for residents, staff, and guests
+Engage others in fun and creative activities
+Strive for excellence in all aspects of the job
+Work with integrity in all interactions
+Demonstrate humility
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="10">
+<TITLE>
+SOUS CHEF
+</TITLE>
+<DESC>
+This is an exciting opportunity for an energetic, entrepreneurial Culinary professional who is constantly seeking a better way to conduct business.  This hands-on leadership position is directly responsible for the successful operation of the Culinary Department in an Acute Care Hospital.  The Sous Chef will assist in supervising the preparation and cooking of various food items, developing daily menu items and their preparation and garnishment. You may be responsible for supervising hourly kitchen employees. You may assist with employee training and scheduling of hourly cooks and hourly staff.  You may assist in monitoring payroll costs & overtime and will support the culinary direction of the Chef and adhere to all brand standards.  May manage the department scheduling, discipline, and/or hiring.  You may work with the Executive Chef or Chef in developing new menus and recipes and may be involved with ordering. The Sous Chef usually reports directly to the Executive Chef or Chef. 
+If you are a hands-on Culinary Professional seeking a position with a fantastic quality of life environment and growth opportunities, then you do not want to miss out on this great opportunity.
+Join our team and be eligible for comprehensive medical and dental benefits, relocation assistance, a matching 401K plan, and many other benefits.
+Qualifications:
+A.O.S. Degree in Culinary Arts or culinary certificate and required experience
+Some progressive culinary/kitchen management experience, depending upon formal degree or training
+Catering experience a plus
+High volume, complex foodservice operations experience - highly desirable
+Institutional and batch cooking experiences helpful
+Comprehensive knowledge of food and catering trends with a focus on quality, production, sanitation, food cost controls, and presentation
+Must be experienced with computers; to include Microsoft Office (Word, Excel and Power Point), Outlook, E-mail and the Internet
+Must be willing to participate in patient satisfaction programs/activities 
+ServSafe certified - highly desirable
+Must be able to successfully complete criminal background checks (State and Federal) and drug screenings
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="11">
+<TITLE>
+PANTRY CHEF
+</TITLE>
+<DESC>
+The Pantry Department Personnel is responsible for assuring that all Pantry food items are professionally prepared and displayed for the Grey Rock Mansion Restaurant. The Pantry Personnel will have the ability to prepare cold items and baked goods, as well as assuring that all Pantry Department staff is properly trained to prepare and display the same. This individual is responsible for preparation and display of all, restaurant baking, lunch and dinner salads, desserts, brunch salad, brunch bakery, and brunch desserts, as per the established recipes and portion sizes found in the Specification Manual. Must ensure proper labeling, dating, and proper rotation of all pantry items. This individual must be able to communicate effectively and work well with all staff. The Pantry Personnel must be adaptable to any immediate changes that may occur.
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="12">
+<TITLE>
+Chef Restaurant Assistant
+</TITLE>
+<DESC>
+Responsible for the preparation of food and the activities of food preparation workers during assigned shift.
+Assures that food presentation is timely and meets quality standards assisting cooks as needed.
+Communicated with department heads and restaurant management to appropriately plan for business volume.
+Assists superiors with the coordination of menus recommending cooking techniques.
+Communicates to management the need for supplies and equipment.
+Responsible for communicating to appropriate department any hazardous situations that may potentially effect the health of employees or patrons.
+Follows progressive disciplinary program and coordinates with the Labor Relations Department to handle employee problems.
+Responsible for the training and supervision of food prep staff and assists in the preparation of food.
+Ensures that proper sanitation procedures are followed.
+Oversees the maintenance of the pantry area in an organized manner.
+Assists in the control of food & labor costs by eliminating waste and over production.
+Assures quality production levels are maintained.
+Expresses knowledge of union contract and company policies and procedures.
+Previous experience in all facets of food preparation.
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="13">
+<TITLE>
+Chef Cook Sous Chef
+</TITLE>
+<DESC>
+Ember Woodfire Grill is seeking the employment of an experienced chef/sautee/line cook to join our culinary team. Experience with fresh, from scratch ingredients, cooking techniques, and equipment is a plus. We are a fast paced, high traffic establishment, and are looking to expand our culinary team.
+Applicants must also possess the following attributes:
+Communication skills
+Team player
+Transportation
+Flexible hours (30-40 hours per week)
+Be able to work in a fast paced environment
+Be coachable/trainable
+Drug free
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="14">
+<TITLE>
+Chef 
+</TITLE>
+<DESC>
+Searching for a proven Chef to establish an innovative curve on a proven classic theme. Create a food and service culture that produces unrivaled guest experiences.
+Chef will be heavily involved in developing the brand, menu development, food presentations, selection of opening brigade, and opening of the new kitchen. 
+Qualifications:
+Completion of Culinary education
+High end dining experience 
+Steakhouse experience
+Passion for food and the business
+Proven team development
+Management experience
+Capable of producing a consistent product in a timely manner
+Strong training and communication skills
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="15">
+<TITLE>
+Event Chef Lead
+</TITLE>
+<DESC>
+Must have a Minimum 2 years Experience in leading Events for Off-Premise Catering,
+Reliable Transportation to and from Events, and Valid Driver's License with a Good Driving Record.
+Can Pick up and Move Average of 50lbs,
+Able to Work any day of the week,
+Sanitation Knowledge, Serve Safe Certification a Plus.
+Hard Working, Dependable, and Friendly,
+Speak English
+Ability to Multi Task, Work Under Timelines and Pressure
+High Level of Self Managed Work Ethic Required.
+Desired Skills
+Serve Safe Certification a Plus.
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="16">
+<TITLE>
+EXECUTIVE CHEF
+</TITLE>
+<DESC>
+This is an exciting opportunity for an energetic, entrepreneurial Culinary professional who is constantly seeking a better way to conduct business.  This key leadership position is directly responsible for the successful operation of the Culinary Department in an Acute Care Hospital. The Executive Chef ensures client, customer service/satisfaction with efficient cost effective management meeting and exceeding stated expectations. You will be responsible for all foodservice related activities which includes managing the daily operations of the kitchen area, implementing the production process, managing food cost / labor cost and having overall understanding of HACCP, under the direction of the Director of Food and Nutrition.  You will also be responsible for developing, mentoring and coaching internal associates.
+If you are a Culinary Professional seeking a position with a fantastic quality of life environment and growth opportunities, then you do not want to miss out on this great opportunity.
+Join our team and be eligible for comprehensive medical and dental benefits, relocation assistance, a matching 401K plan, and many other benefits.
+Qualifications:
+B.S. Degree in Culinary Arts, Food Services Technology/Management/or related field; or A.O.S. Degree in Culinary Arts or culinary certificate and required experience
+Minimum of three (3) to five (5) years of progressive culinary/kitchen management experience, depending upon formal degree or training
+Extensive catering experience a plus
+High volume, complex foodservice operations experience - highly desirable
+Institutional and batch cooking experiences
+Hands-on chef experience a must
+Comprehensive knowledge of food and catering trends with a focus on quality, production, sanitation, food cost controls, and presentation
+Must be experienced with computers; to include Microsoft Office (Word, Excel and Power Point), Outlook, E-mail and the Internet
+Must be willing to participate in patient satisfaction programs/activities 
+ServSafe certified - highly desirable
+Must be able to successfully complete criminal background checks (State and Federal) and drug screenings
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="17">
+<TITLE>
+Executive Chef
+</TITLE>
+<DESC>
+The Executive Chef is responsible in managing the daily operations of the kitchen area, implement and be accountable for high quality standards in the production process, menu planning, catering, manage food cost, and labor cost in the dining operation. 
+ESSENTIAL DUTIES & RESPONSIBILITIES
+Develop and be accountable for a safety culture that creates a work environment that is accident free.
+This position establishes quality standards for all menu items and for food production practices.
+Provides leadership in culinary production, operations and procurement
+Trains employees in cooking methods, presentation techniques, portion control and retention of nutrients.
+Controls food cost by establishing purchasing specifications, storeroom requisition systems, product storage requirements, standardization of recipes and waste control procedures.
+Responsible for assuring all quality and sanitation objectives are met by training kitchen personnel in sanitation practices, establishing cleaning schedules, stock rotation schedules, refrigeration temperature control points, and other sanitary controls.
+Coordinates with Unit Manager for appropriate service in all aspects of the food service.   
+Oversees the receiving and storage of products.
+Courteously serves customers in a timely manner.
+Follows recipes, and complies with all portion sizes, quality standards, department rules, policies and procedures.
+Recommends personnel actions consistent with employee performance.
+Controls labor schedules in accordance with budgeted costs.
+Regular and punctual attendance is required
+KNOWLEDGE, SKILLS, ABILITIES
+Basic knowledge of spoken and written English sufficient to understand instructions.
+Basic knowledge of arithmetic (addition, subtraction, multiplication, division, percentages).
+Possess expert knowledge of food preparation methods and procedures.
+Possess expert knowledge of sanitation, infection and spoilage control procedures.
+Skill in the use of materials and equipment used in a volume dining or food service facility.
+Skill in operating, disassembling and cleaning basic food service equipment.
+Skill in cooking a variety of foods or short order foods.
+Ability to learn and apply State health, safety, and sanitation regulations and procedures as they relate to operation of a volume dining or food service facility.
+Ability to follow and apply food service policies and procedures.
+Ability to maintain production as required by menus, recipes, and work schedules. 
+Ability to work independently.
+Ability to follow verbal and written instructions.
+Ability to exercise leadership
+Ability to organize and prioritize work
+Ability to communicate verbally with others such as staff members and clients.
+Ability to safely perform repetitive moderate to heavy lifting.
+Ability to handle and use chemicals and disinfectants with safety.
+Ability to walk or stand on industrial floors for extended periods of time
+Ability to lift or move objects up to 50 pounds unassisted, and occasionally lift or move objects weighing over 50 pounds with the assistance of other workers or lifting devices.
+Preforms other duties as assigned by supervisor
+EDUCATION & EXPERIENCE
+Degree from a postsecondary culinary arts training program –
+Bachelor’s degree in Restaurant Management preferable
+Ten (10) years of Chef experience.
+CERTIFICATES, LICENSES, REGISTRATIONS
+ServSafe Managers Certification
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="18">
+<TITLE>
+CHEF ASST
+</TITLE>
+<DESC>
+Assist in the coordination, preparation, display and serving of foods, specifically, special and unique cuisine entrees, creative food displays and garnishing for special functions, and the preparation of seafood, meat, vegetable, dessert, vegetarian and special dietary entrees for very large scale special functions.
+In the absence of the Chef, carry out his/her instructions and follow established work procedures for special functions.
+Assist the Chef in the implementation, follow-through and verification of quality and production standards.
+Organizing sanitation and upkeep of work areas including coolers, storage areas, work areas and food storage practices.
+Meeting food production needs in a timely manner to fulfill the needs of special functions.
+Estimate the consumption levels to generate lists of food items and quantities needed for preparation of the event.
+Coordinate and assign the food preparation, portioning and distributing of salads, entrees, hors d?oeuvres, side dishes and desserts for special functions in the absence of the Chef.
+Coordinate the work, assign the work and inspect the food production of assigned assistants, including Cook I?s, Food Service Workers and Kitchen Cleaners, to insure that timely production is accomplished and quality standards are met in the areas of cost control, food appearance, quality, taste, texture and quantity.
+Operate a full range of kitchen equipment including mixing machines, steamers, toasters, grills, slicers, fryers, choppers, smokers, char-grills, broilers and steam kettles.
+Preparation of hot and cold foods to include: hors d'oeuvres, breakfast entrees, lunch entrees, sauces, soups, salads, cold displays, beverages and desserts if necessary.
+25% 
+Daily communications with the Chef regarding products, supplies, equipment and staffing needs in order to meet production assignments.
+Adherence to established sanitation procedures.
+Assist in the development of menus, special entrees, desserts, hors d'oeuvres and specialty dietary food in accordance with customer orders or at the direction of the Chef.
+Assist in the planning, ordering and production with the direction of the Chef for special functions.
+Assistance in produce, dairy, meat, seafood, and staple ordering and receiving.
+25%
+Documenting and communicating critical issues to appropriate staff members: i.e. production problems, sanitation, quality issues, health and safety issues and maintenance issues.
+Assist in loading, unloading and the service of all special functions including off premise. This may include heavy food warmers and equipment.
+Verify food amount necessary for production needs.
+Assistance in recipe and menu development and the related portioning and costing out procedures.
+Creating of special menus and entrees with the assistance of the Chef, with special emphasis Vegetarian and Special Dietary.
+Preparation of sauces to include: compote, coulis, buerre blanc, all mother sauces and their derivatives.
+Assistance in the development of existing staff to raise their culinary skill levels.
+Required Qualifications*
+Must be able to read and write English
+Culinary degree from an accredited school and or a minimum five years' experience in a high volume catering/restaurant operation 
+Proven organizational abilities as they apply to food production.
+Experience in providing leadership of quality oriented work teams.
+Proven supervisory skills.
+Must be able to work per business needs including weekends, holidays etc. 
+Must have prior food production experience
+Must be able to work as a productive member of a team
+Proven excellence in customer service
+Ability to safely perform physical job tasks as listed above
+Desired Qualifications*
+Serve Safe Certification
+Banquet production experience
+Prior University Experience
+Culinary education
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="19">
+<TITLE>
+Prepared Foods Chef 
+</TITLE>
+<DESC>
+Your role as a Prepared Foods Chef will include oversight of the food preparation process, creation of recipes and the selection of the items in the Prepared Foods case. Additionally you will maintain attractive Prepared Foods displays and support the regional Prepared Foods vision. You will ensure a positive company image by providing courteous, friendly, and efficient service to customers and team members.
+DUTIES:
+- Give every customer immediate and undivided attention. Surprise and delight the customers with consistent, delicious food.
+- Ensure that food quality, quantity, freshness, and presentation meet all Regional standards.
+- Provide or follow complete recipes for all products produced in the kitchen; develop and test new recipes.
+- Supervise production for all Prepared Foods venues.
+- Ensure all prepared items are labeled, dated, initialed, covered, and rotated.
+- Know product availability, preparation, storage and nutritional aspects.
+- Ensure that product mix meets varied customer dietary needs and requests.
+- Document waste and spoilage using appropriate forms, and meet all spoilage targets.
+- Maintain high productivity levels, and ensure that kitchen schedules are kept within budget.
+- Support national, regional, and store programs.
+- Responds promptly to customer needs and questions and requests assistance when necessary, including answering the store phone system.
+- Ensure that production is done using correct measuring devices, and all recipes are followed.
+- Ensure that walk-ins and freezers are kept clean and organized.
+- Responsible for catering production.
+- Communicate team concerns to the Team Leader and Associate Team Leader.
+- Follow and comply with established procedures, including Weights and Measures, health and sanitation, and adhere to safe work practices.
+- Operate and sanitize all equipment in a safe and proper manner.
+- This job posting is intended to describe the general requirements for the performance of this job. It is not a complete statement of duties, responsibilities or requirements. Other duties not listed here may be assigned by leadership.
+REQUIREMENTS:
+- Previous kitchen, culinary, deli, restaurant, kitchen management, cooking or customer service experience preferred.
+- Excellent communication skills and willingness to work as part of a team; ability to communicate effectively with customers and team members.
+- Ability to follow instructions and procedures.
+- Ability to successfully delegate production tasks.
+- Basic knowledge of ingredient information and nutri-facts for Prepared Foods products.
+- Understand and communicate quality goals and ingredient information to customers.
+- Ability to visually examine products for quality and freshness.
+- Effective time management skills.
+- Strong work ethic and integrity.
+- Proper handling of knives and other cutting equipment.
+- Available for flexible scheduling to meet the needs of the department.
+Essential Job Functions:
+Stand and walk for extended periods of time.
+Bend and stoop to grasp objects and climb ladders. Bend and twist neck and waist, reach above and below shoulders and squat.
+Bend and lift loads, not to exceed 50 pounds.  Push and pull carts weighing up to 100 pounds.
+Repetitive use of hands for grasping, pushing, pulling, and fine manipulation.
+Environmental exposure to extreme temperatures (coolers, ovens, freezer, outdoors, etc.)
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="20">
+<TITLE>
+SOUS CHEF III
+</TITLE>
+<DESC>
+The Sous Chef III position is an hourly position and reports to a more senior Sous Chef or Executive Chef.  It is the first level of supervision within a Centerplate commercial kitchen, performing functions and responsibilities that require a minimal to moderate level of difficulty and a less sophisticated level of detail, experience and expertise and complexity than Sous Chef II or Sous Chef I. The Sous Chef III assures that foods are prepared using fundamental cooking techniques, seasoned for maximum taste and flavor, and served in an aesthetically pleasing manner. 
+The Sous Chef III directs some aspects of foodservice production and service, ensuring that approved food safety and sanitation guidelines are followed.  With guidance, the Sous Chef III supervises the preparation and production of the unit’s menus and manages a shift or station in the hot kitchen, the cold kitchen and/or the bakery and pastry shop. 
+The Sous Chef III assists in training, mentoring and helping to develop other Culinarians, and in monitoring and organizing the flow of activity within the kitchen in a way that complements and supports the overall operation. 
+Essential Responsibilities
+Participate as part of Culinary Leadership Team to supervise a culinary department for the preparation of foods served to the customers in a consistent and timely manner.
+Ensure Kitchen Safety and Sanitation conforms to all Centerplate, regulatory, and governmental standards to provide a safe workplace producing high quality food products.
+Contribute to goal of 100% customer satisfaction through personal commitment to customer service and leading the culinary team by example.
+JOB REQUIREMENTS
+Qualifications/Skills
+Required:
+Minimum of 2 years in a food preparation position.
+Ability to promote and participate in a team environment.
+Ability to understand written and oral direction and to communicate same with others.
+Preferred:
+Degree from a postsecondary culinary arts training program.
+ACF Professional Certification.
+Other requirements include but are not limited to:
+Subject to wet floors, temperature extremes and excessive noise; must be able to lift up to 50 pounds in weight (pots, pans, etc.); must be able to maneuver in an often tightly-quartered environment.
+Hours are often extended or irregular to include nights, weekends and holidays.
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="21">
+<TITLE>
+Sous Chef
+</TITLE>
+<DESC>
+The Sous Chef is responsible for supporting the Executive Chef in leading a team of culinary professionals that deliver high-quality, great tasting food; proper food safety and sanitation procedures and profitability.  The Sous Chef contributes to building top line sales and guest count through the delivery of a competitively superior team member and guest experience.  The Sous Chef supports the Executive Chef to ensure menu items are executed with excellence in the restaurant.  Additionally, the Sous Chef supports managing quality in all aspects of their job.
+Job Requirements
+*  Proven success as an Sous Chef, Executive Sous Chef or Kitchen Manager in a high- volume upscale restaurant or high end resort restaurant
+*  Strong passion for culinary excellence, wine knowledge and service
+*  Proven ability to develop team
+*  Knowledge of systems, methods and processes that contribute to great execution
+*  Stable job history which demonstrates upward career progression
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="22">
+<TITLE>
+Sous Chef
+</TITLE>
+<DESC>
+1) Assist the Unit Manager and Unit Chef in directing and organizing food production and utility staff including training in production, presentation, service, food and physical safety. Supervise the on-time set up of Kinsolving Dining Display Station for lunch and dinner and consistently meet standards for food presentation, quality and safety. 2) Train and develop food production and utility staff to comply with all University and DHFS policies and procedures including scheduling, daily monitoring of work schedules, coaching, counseling and evaluating as needed. 3) Communicate and coordinate with the Unit Manager and Supervisors in multiple food service facilities to ensure on-time and day of quality food products at correct temperature in forecasted amount. 4) Utilize departmental food production system (FoodPro) for forecasting, ordering, production, inventory and financial evaluation; including responsibility and accountability for food cost as directed. 5) Actively participate in menu development and special events planning and execution in conjunction with the Director III, Director II, Associate Director, Campus Chef, Chef and Unit Manager. 6) Monitor condition of physical plant and equipment. Place work orders as needed with the Administrative Assistant. Demonstrate proper use of equipment and chemicals. Drive UT Vehicle.
+Marginal/Incidental functions
+Work as a team member in a diverse environment, encourage and promote diversity. Other related functions as assigned.
+Licenses: Class "C" Operator's Driver's License. Applicant selected must provide a current three year Driving Record from the current state of residence. If not currently a Texas resident, must obtain a Texas Driver's License within 30 days after entering Texas as a new resident.
+Required qualifications
+High school graduation or GED. Two years experience in food service. Two years of high volume display cooking presentation and teaching cooking techniques. One year experience in a supervisory capacity. Equivalent combination of relevant education and experience may be substituted as appropriate.
+Preferred Qualifications
+Associate degree in Culinary Arts, Hospitality Management or a related field. More than 2 years experience as Chef/Sous Chef in large commercial kitchen with hands on production serving 1000+ meals daily. More than 2 years experience training culinary arts to employees. Demonstrate excellent working knowledge of current ServSafe guidelines. Experience with computerized food management systems and forecasting food usage for display cooking environment. Demonstrated ability to receive, respond and follow through with verbal work related instructions from supervisors, customers and co-workers. Demonstrated excellent interpersonal communication skills. ServSafe Certificate or a current Travis County Food Handlers Card. Licenses: Class "C" Operator's Driver's License. Applicant selected must provide a current three year Driving Record from the current state of residence. If not currently a Texas resident, must obtain a Texas Driver's License within 30 days after entering Texas as a new resident. Applicant selected must have an acceptable 3 year driving record and maintain an acceptable driving record and valid license throughout employment. Bilingual in English and Spanish.
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="23">
+<TITLE>
+Chef 
+</TITLE>
+<DESC>
+He/She is responsible for planning, directing, and conducting food preparation and service in the kitchen. 
+Responsibilities include: 
+•	Supervise the proper preparation of menu items 
+* Development of menu items and specials
+• Maintain fast, accurate service, and ensure service is consistent with quality standards
+• Ensures recipes, method of cooking, portion controls, presentation and quality specifications are followed
+• Ensure proper receiving, storage, and rotation of food products to comply with Health Department regulations 
+•	Ensure food safety procedures are executed according to policy and health/sanitation regulations 
+•	Monitor inventory levels to ensure product availability 
+•	Manage and maintain safe working conditions 
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="24">
+<TITLE>
+Prepared Foods Chef
+</TITLE>
+<DESC>
+Your role as a Prepared Foods Chef will include oversight of the food preparation process, creation of recipes and the selection of the items in the Prepared Foods case.  Additionally you will maintain attractive Prepared Foods displays and support the Company Prepared Foods vision.  You will ensure a positive company image by providing courteous, friendly and efficient service to customers and team members.
+Applicant will have demonstrated a passion for fresh, seasonal and local food, work well under pressure, be organized, flexible, self-motivated, have a great sense of humor, a positive mental attitude and an outgoing personality.
+This position requires candidates to have a US work permit.  Please do not apply if you are not legally able to work in the United States.
+Requirements  
+Requirements include a minimum of 5 years full-service, high quality restaurant experience.
+Managerial/supervisory experience
+Associates or Bachelor’s degree in Culinary Arts or equivalent experience
+Experience working in a multi-faceted food service facility, including restaurant, hotel, country club, conference center, casino, theme park, etc.
+Excellent communication skills and willingness to work as part of a team; ability to communicate effectively with customers and team members.
+Ability to follow recipe instructions and procedures.
+Ability to successfully delegate production tasks.
+Basic knowledge of ingredient information and nutria-facts for Prepared Foods products.
+Understand and communicate quality goals and ingredient information to customers.
+Understand and communicate quality goals and ingredient information to customers.
+Understand and embrace the seasonality of local produce.
+Awareness of local food trends.
+Ability to visually examine products for quality and freshness.
+Effective time management skills
+Strong work ethic and integrity.
+Proper handling of knives and other cutting and cooking equipment.
+Available for flexible scheduling to meet the needs of the department.
+Essential Job Functions:               
+Stand and walk for extended periods of time.
+Bend and stoop to grasp objects and climb ladders.  Bend and twist neck and waist, reach above and below shoulders and squat.
+Bend and lift loads, not to exceed 50 pounds.  Push and pull carts weighing up to 100 pounds.
+Repetitive use of hands for grasping, pushing, pulling and fine manipulation.
+Environmental exposure to extreme temperatures (coolers, ovens, freezer, outdoors, etc.)
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="25">
+<TITLE>
+Executive Chef
+</TITLE>
+<DESC>
+The Executive Chef will be responsible in managing the daily operations of the kitchen area, implement production process, menu planning, catering, manage food cost, labor cost and have overall understanding of HACCP. The ideal candidate for this position will have experience supervising and supporting production functions of the kitchen employees, ability to motivate staff and to continually improve performance.
+Essential and Key Tasks
+Provides leadership in culinary production, operations and procurement
+Plans menus for daily food service operations
+Develops culinary team members through appropriate coaching, training and mentoring
+Maintains compliance standards for meal service, food quality and task performance
+Performs daily audits of safety, sanitation, food quality, meal delivery at point of service, and quality standards to optimize financial and operational productivity
+Oversees managers in a diverse environment; establishes and maintains effective client and resident relations
+Education and Experience:
+Minimum 2-5 years related experience as an Executive Chef or Chef Supervisor or equivalent level. An undergraduate degree in Food Science, Nutrition, Culinary Arts or Hotel/Restaurant Management is highly desirable; having completed the Certified Dietary Management program preferred. The successful candidate will thrive in a fast-paced environment that offers unlimited growth opportunities and rewards achievements.
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="26">
+<TITLE>
+Catering Chefs
+</TITLE>
+<DESC>
+Experience in a high-volume kitchen atmosphere
+Restaurant/A La Carte experience a plus
+Experience with purchasing of food products
+Must possess a high level of organization and the ability to handle multiple tasks / diverse duties while determining appropriate priorities for their completion
+Responsible for administrative duties as well. Must be computer literate
+Must work well individually and as a team player
+Must be flexible to work any and/or all shifts, includes nights, weekends, and holidays as needed
+Culinary education a plus
+Must be flexible to work any and/or all shifts, includes nights, weekends, and holidays as needed
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="27">
+<TITLE>
+Sous Chef
+</TITLE>
+<DESC>
+Second Chefs are involved with all aspects of food production including breakfast, lunch and passenger dinner. American Cruise Lines Second Chefs are key contributors to the culinary operation shipboard.
+While living onboard, our Chefs enjoy comfortable living quarters and a challenging culinary working environment.  Our Galleys are new and well equipped with a spectacular view.  The freshest regional ingredients will be supplied to you.   American Cruise Lines offers a very competitive pay rate, comprehensive benefits and a 401K.  Travel expenses are also paid for by the company to and from our ships.
+Desired Qualifications and Requirements:
+Minimum 3 years Executive Chef in full service resort, hotel or cruise ship 
+Familiar with food safety standards
+Pre-employment drug test
+Complete criminal background check
+Training and Teaching experience
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="28">
+<TITLE>
+Chef 
+</TITLE>
+<DESC>
+Plan and coordinate all aspects of menu development, food preparation, presentation, and food service for Union Pacific staff and their guests at company sponsored hospitality events and venues. Venues may include Heritage Operations business car functions and trips, UP Center events, and various other event venues held across the continental USA.
+This is a temporary position and will work during the peak season in the Food Services group, generally March 1 - November 30.
+Accountabilities
+Develop guest menus, ensuring a high level of culinary standards are achieved through creative, personalized menu development.
+Prepare food for meals according to guest plans, ensuring special dietary needs and guest requests are understood and accommodated.
+Supervise presentation of food, assessing visual appeal, taste, and temperature.
+Maintain a safe and clean work environment in food preparation areas, ensuring health standards and regulations are observed.
+Qualifications
+Required
+A high school diploma or GED (Graduate Equivalency Diploma)
+5 year(s) experience / knowledge working in culinary services
+Preferred
+An Associate degree Prefer Associate Degree in Culinary Arts
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="29">
+<TITLE>
+CHEF ASSOCIATE
+</TITLE>
+<DESC>
+Under the supervision of the Executive Sous Chef, the Cook is responsible for the preparation of nutritious attractive and tasty food items within the guidelines set fourth by the department. Must have a complete working knowledge of all kosher procedures and must know various cooking practices, which relate to the kosher production of foods. Reviews menus and daily production assignments with the Executive Chef. Assists in the production of breakfast, lunch and supper meals as well as assisting in catered functions and holiday meals. Maintains proper sanitation standards in work area. Assists in re-stocking food items and assist in plate presentation as needed. Maintains daily production records and counts. Reports production concerns or problems to the Sous Chef or Executive Chef. Maintains proper food handling procedures and techniques. Ensures proper food temperatures and follows all HACCP guidelines and procedures. Maintains thorough knowledge of Kashrut procedures. 
+Requirements: 
+Have a minimum of 1 year cooking experience, with a kosher background preferred. Knowledge of sanitation, food borne illness, and cross-contamination polices and procedures. Have a complete and through understanding of all Kashurt procedures. Ability to complete work in a timely manner and meet deadlines. Ability to relate appropriately with staff, members and families and have a positive customer service approach to meeting various needs. Ability to read, write and communicate in an effective manner. Ability to answer phone calls and communicate requests as needed. 
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="30">
+<TITLE>
+Chef/Manager 
+</TITLE>
+<DESC>
+Waterville Valley Resort is currently seeking a full-time, seasonal Chef/Manager. Responsibilities include, but are not limited to: Working with, supervising and training line cooks, prep cooks, and stewards; overseeing and participating in preparation of foods and meals; menu creation, watching for efficiency; recording inventory; ordering supplies. Requirements include: high school diploma; supervisory and inventory experience; 3 – 5 years professional cooking experience. Must be able to work weekends and holidays. 
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="31">
+<TITLE>
+EXECUTIVE CHEF
+</TITLE>
+<DESC>
+Papa Razzi Trattoria in Massachusetts & Rhode Island is currently searching for an Executive Chef to join their culinary team!
+We are looking for an experienced, quality driven leader with a food first mentality!
+In addition to menu engineering, food cost and quality control, this person is also responsible for the management and development of a team of 20+ employees, including Sous Chefs and Kitchen Supervisors. 
+We are looking for someone with a minimum of 3 years of previous experience as an Executive Chef or Executive Sous Chef in a full service restaurant.
+The right candidate is a creative and highly motivated individual able to lead and develop our team of professionals.
+We are seeking a true leader who is professionally polished with a strong work ethic.
+Papa Razzi is part of an Employee Owned company that prides itself in developing long term relationships with its employee-owners. We believe in creating a respectful and enjoyable work environment that encourages teamwork and personal growth. We are dedicated to making our company a place where you can see yourself putting down roots!
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="32">
+<TITLE>
+Sous Chef 
+</TITLE>
+<DESC>
+This individual must have a friendly, professional, and energetic personality and have a passion for improving the lives of others. The successful candidate for this position must be 18 years of age and have two years’ experience in institutional or full service restaurant cooking. This individual will have knowledge of and ability to conform to food service sanitation practices and will maintain food handlers permit as necessary to fulfill state regulations. The successful candidate for this position will communicate in a clear and concise manner with our residents and staff. This individual will possess organizational skills as well as excellent customer service skills. In addition, the successful candidate will work well under time constraints and be able to meet deadlines. We offer competitive compensation and a great work environment.
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="33">
+<TITLE>
+Sous Chef 
+</TITLE>
+<DESC>
+The right candidate will have a strong culinary background and be passionate about food and the guest experience. We are seeking culinary leaders who are professionally polished with a strong work ethic.
+A minimum of 3 years of previous experience as a Kitchen Manager or Sous Chef in a full service establishment is required for consideration. Culinary Arts degree preferred, but we will hire candidates with exceptional experience. . Our restaurant is managed with a fresh perspective on strength in teamwork, recognition and support for advancement, and a shared goal of inspirational culinary creativity and unparalleled service.
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="34">
+<TITLE>
+Chef
+</TITLE>
+<DESC>
+This location is currently seeking a Sous Chef. This is a key position in our restaurant and we're seeking the best of the best! 
+Position Requirements:
+Responsible for maintaining food quality and ensuring guest satisfaction 
+Maintain standards of hygiene and safety throughout the kitchen 
+Verifies that all portion sizes, a quality standard, department rules, polices, and procedures are maintained by kitchen team members. 
+Verifies that all sanitation and nutrition practices maintained by kitchen employees. 
+Motivating team to complete the food preparation process, ensure customer satisfaction, comply with company procedures and maximize productivity and profitability 
+Leading your team in promoting quality first, sanitation standards and recipe adherence 
+Set standards and maintain food presentation quality in the outlet at all times 
+Motivate staff and maintain discipline at all times 
+Receive all goods and ensure that they meet company quality specifications and reject those items that do not 
+Ensure that standard recipes are being followed at all times 
+In-depth skills and knowledge of all kitchen operations 
+Capability of producing a consistent product to meet and exceed guests' needs in a timely manner 
+Ability to create standard recipes 
+Open availability to work days, nights, weekends and holidays. 
+Flexible and long hours sometimes required 
+Ability to educate and demonstrate fundamental and advanced cooking skills 
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="35">
+<TITLE>
+SOUS CHEF
+</TITLE>
+<DESC>
+Management position with extreme degree of responsibility and accountability
+Must have a minimum of 3+ years progressive BOH experience in professional culinary-driven kitchens.
+Must be able to demonstrate full competence with food and beverage costing, labor costing, purchasing leverage, inventory control, hiring/training/retention, health and sanitation
+Must provide 3 employer references (email and phone)
+Job is rigorous requiring extreme attention to detail and high sense of urgency: selection process will involve 3 months of OTJ training by Executive Chef
+Must have excellent knife skills.
+Must have Health Card.
+Must be able to move with a sense of urgency at all times.
+Must be able to taste/adjust dishes and work with a chef for constant direction
+Must show attention to detail.
+Must have experience working in a professional culinary environment.
+Background checks conducted.
+Police Clearance a must
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="36">
+<TITLE>
+Sous Chef 
+</TITLE>
+<DESC>
+The role of our Sous Chef is to prepare culinary delights for our guests and execute
+the menu, ensuring a high level of performance, guest satisfaction and profitability.
+Guest satisfaction in our restaurant revolves around the food appearance, high quality of the
+food and overall dining experience. The Sous Chef is responsible for the daily preparation of food
+items in the restaurant and in the Special Event Dept.
+HIGH VOLUME MANAGEMENT EXPERIENCE IS REQUIRED.
+General Responsibilities
+Comply with Standards of Service and assists in assuring the same from all kitchen
+employees.
+Assists in manage a day-to-day operation of the kitchen, coordinate food production
+schedules and ensure highest level of food quality, taste and presentation.
+Participate in actual food preparation, produce food consistently high quality, taste and
+presentation and expedite during peak meal periods as needed.
+Control food cost by assisting in training kitchen staff on the proper methods of food
+preparation and handling, by training kitchen, restaurant and steward employees on how
+to handle leftover food items.
+Ensures that all kitchen employees consistently adhere to uniform, grooming and
+appearance standards.
+In conjunction with the Executive Chef & Executive Sous Chef, establish goals for the
+kitchen, anticipate and resolve problems concerning all facets of the kitchen, anticipate
+trends, enact approved profit-oriented and cost saving ideas/activities.
+Establish and require strict adherence to health department and restaurant sanitation and food
+handling guidelines
+In conjunction with the Executive Chef and Executive Sous Chef, develop menus & create
+and ensure adherence to recipes and product specifications. Train kitchen staff on all new
+menus.
+The Sous Chef must maintain effective communication within the kitchen, be responsive
+to staff suggestions and concerns and work to resolve problems
+Maintain effective working relationship with food and beverage management, staff and
+Special Event department.
+Complete daily food orders based upon scheduled banquet events and projected levels of
+business.
+Conduct regular inspections of the entire kitchen/dishwashing areas and coolers and
+promptly act to correct deficiencies found during inspection.
+Requirements:
+Job Qualifications
+Experience/ Knowledge:
+Intermediate understanding of professional cooking and knife handling skills.
+Understanding and knowledge of safety, sanitation and food handling procedures.
+Previous kitchen management/supervisory experience required.
+Skills/Aptitudes:
+Professional communication skills are required.
+Ability to take direction.
+Ability to work in a team environment.
+Ability to work calmly and effectively under pressure.
+Must have problem solving abilities, be self-motivated and organized.
+Commitment to quality service, and food and beverage knowledge.
+License/Qualifications:
+Food Handlers permit required.
+Must be able to work nights, weekends and some holidays.
+Must be able to speak, read and understand basic cooking directions.
+Management Activities
+Assist Executive Chef/Executive Sous Chef with training of kitchen staff.
+Assist Executive Chef/Executive Sous Chef with food management/menus.
+Discretion/Independent Judgment
+As a Sous Chef you will be expected to work with Associates to ensure satisfaction. A Sous
+Chef will have to take initiative and get creative in resolving challenges and involve a Manager
+only when previous methods have been unsuccessful.
+Physical Requirements
+Ability to speak and hear
+Close vision, distance vision, color vision, peripheral vision, depth perception, and the
+ability to adjust focus.
+Constant standing with some walking
+Be able to work in a standing position for long periods of time (up to 10 hours).
+Be able to reach, bend, stoop and frequently lift up to 35 pounds and occasionally
+lift/move 50 pounds.
+Continual use of manual dexterity and gross motor skills with frequent use of bi-manual
+dexterity and fine motor skills
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="37">
+<TITLE>
+Sous Chef 
+</TITLE>
+<DESC>
+Inspired by a commitment to excellence, the service team at the Company creates unforgettable memories for our guests. The successful Sous Chef, in conjunction with the Executive Chef, participates in managing back-of-the-house dinner execution to ensure consistently high levels of quality, sanitation, service and customer satisfaction while maintaining a high level of profitability. 
+Essential Functions: 
+Execution 
+Acts as the on-duty kitchen manager for service and manages the kitchen staff to ensure adherence to procedures detailed in the Product Management Guide and Galley Operating Manual  
+Ensures that all staff consistently follows and adheres to all health department sanitation codes and requirements thereby maintaining the Companys strict standards of sanitation  
+Maintains close liaison between the kitchen and other departments including the front-of-the house  
+Recommends and executes approved programs that improve the level of service and product quality  
+Executes other projects as assigned by management 
+Kitchen Team Management:  
+Recruits new kitchen staff when necessary to fill vacant positions  
+Participates in training of all new kitchen staff  
+Participates in scheduling kitchen staff according to staffing matrix 
+Customer Service  
+Ensures effective execution of service (back-of-the house only) according to the specifications of the Product Management Guide so that guests receive a quality, seamless experience  
+Resolves guest service issues, in conjunction with the on-duty Restaurant Manager, utilizing strong customer service skills and exercising diplomacy in keeping with company objective of customer retention  
+Participates in implementing and maintaining effective safety programs in conjunction with the Operations Department  
+Maintains high standards of sanitation in accordance with Spirit standards and in accordance with health department codes & requirements 
+Administration  
+Participates in monitoring and controlling all costs associated with the operation of the kitchen in accordance with budget  
+Participates in the inventory process to ensure adequate stock  
+Participates in processing all invoices in a timely manner to maximize corporate rebate program.  
+Participates in administering the payroll system including scheduling, checking, transmitting and processing  
+Participates in maintaining food, suppliers and equipment purchasing systems, which ensure maximum quality, least cost and high reliability  
+Participates in scheduling kitchen staff work periods to achieve maximum payroll efficiency 
+Accountabilities: 
+The successful sous chef will personally contribute to the unforgettable guest experience, be favorably viewed by supervisors and peers, and be swift and efficient in the execution of their assigned duties. Performance will be measured by quality, service, departmental tests, management evaluation, and feedback from peers on the citys team. 
+Job Specifications / qualifications:  
+Minimum of 3 years of total kitchen experience in full-service/banquet, high volume environment. Must include 1 year of kitchen staff management experience  
+High school graduate AND Minimum 2 years formal culinary training; OR 2 years additional kitchen experience in a full-service/banquet, high volume environment  
+ServSafe Certified 
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="38">
+<TITLE>
+Media Sous Chef
+</TITLE>
+<DESC>
+As Sous Chef, you would be responsible for assisting with the direction and oversight of all culinary operations in the hotelÆs continuing effort to deliver outstanding guest service and financial profitability. Specifically, an Executive Chef would be responsible for performing the following tasks to the highest standards:
+Assist the Executive Chef in the direction and oversight of all culinary operations, to include, but not limited to, preparation and production of all hotel meals, food quality and presentation, compliance with all safety and sanitation standards and regulation, team member productivity and performance, implementation of policies and procedures, cost controls and overall profitability
+Create and implement menu selections for special banquet themes and events based on current food trends and regional tastes in partnership with the Executive Chef and Director of Food and Beverage, as needed
+Ensure compliance with federal, state, local and company health, safety, sanitation and alcohol awareness standards
+Assist in monitoring and developing team member performance to include, but not limited to, providing supervision, conducting counseling and assisting with evaluations, training, scheduling and assigning work and delivering recognition and reward
+What are we looking for?
+Since being founded in 1919, Hilton Worldwide has been a leader in the hospitality industry. Today, Hilton Worldwide remains a beacon of innovation, quality, and success. This continued leadership is the result of our Team Members staying true to our Vision, Mission, and Values. Specifically, we look for demonstration of these Values:
+H Hospitality - We're passionate about delivering exceptional guest experiences.
+I Integrity - We do the right thing, all the time.
+L Leadership - We're leaders in our industry and in our communities.
+T Teamwork - We're team players in everything we do.
+O Ownership - We're the owners of our actions and decisions.
+N Now - We operate with a sense of urgency and discipline
+In addition, we look for the demonstration of the following key attributes in our Team Members:
+Living the Values
+Quality
+Productivity
+Dependability
+Customer Focus
+Teamwork
+Adaptabilit
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="39">
+<TITLE>
+Sous Chef 
+</TITLE>
+<DESC>
+Working with the Golden Door Culinary team, the Sous Chef will have the ability to train and give direction as well as oversee the daily operation in the kitchen and food production areas.
+*The Sous Chef will also need to work with the Executive Chef, Nutritionist and Dining Room Supervisor to resolve any special food requirements.
+*Check all areas for proper food storage, sanitation and equipment storage.
+*Check food purchases for proper ordering and quality
+*In absence of the Chef conduct weekly cooking classes
+Requirements and Skills:
+-Candidate must have at least 4 years of progressive experience or a culinary graduate degree with 3-4 years of progressive solid work experience.
+-Previous supervisory experience preferred
+-Knowledge of payroll/time edit program
+-Knowledge of food preparation techniques, health department rules and regulations.
+-Ability to work well in high pressure situations
+Working at Golden Door:
+At the Golden Door we are grounded in tradition and committed to innovation. We consistently strive to lead the destination spa business with new and effective products, treatments and wellness programs
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="40">
+<TITLE>
+Executive Chef
+</TITLE>
+<DESC>
+We are seeking a Working Executive Chef to serve our Seniors. You will be an active member of the community management team responsible for leading the culinary team in providing nutritious high quality meals in a gracious environment. Responsible for the total food experience, interacting with our Residents, and working with our management team on special events.
+In this role, you will have a regular schedule with two back-to-back days off.
+Industry competitive salary with bonus program.
+Full benefits which include medical, dental coverage and vision care, and paid vacations.
+We are seeking:
+A Certified Chef de Cuisine designation or Culinary Arts Diploma.
+Min. 2 years supervisor experience
+Experience working with high volume food preparation experience.
+Human Resource and staff management experience
+Budgeting and cost control experience.
+Min. 2 years supervisor experience
+Strong computer skills
+Strong interpersonal skills
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="41">
+<TITLE>
+Sous Chef 
+</TITLE>
+<DESC>
+Culinary degree from approved school or completion of an approved apprentice program helpful but not required. Extensive knowledge of Steakhouse cuisine and experience working on restaurants with various Cuisine. Minimum of 5 years experience in supervisory kitchen position. Extensive food production experience plus management and administrative skills. Arizona Food Handlers card required.
+What Makes Desert Mountain So Special?
+-A great team of employees dedicated to providing exceptional service to members.
+-The opportunity to work at one of the nation's premier award-winning recreational and residential communities.
+-Spectacular surroundings: majestic mountains, wildlife, the Tonto National Forest and beautiful desert flora.
+At Desert Mountain Club we value our employees and recognize they are the key to our company's success.
+We provide an array of comprehensive benefit options that satisfy our workforce needs.
+Benefits include:
+Health Coverage
+Employee Assistance Program (EAP)
+401(K) Retirement Savings
+Tuition Reimbursement
+Pet Insurance
+Employee Parking and Meals
+Employee Discounts at Desert Mountain Retail Stores
+Free Golf and Tennis
+Transportation Programs
+Employee Recognition Programs
+Employee Uniforms Provided
+Interested candidates should submit their resume through this website OR
+Apply in person Monday - Friday from 9am-4pm in the Human Resources Office located at:
+Fairways Building
+10550 East Desert Hills Drive
+Scottsdale, AZ 85262
+Located 2 miles east of Pima and Cave Creek Rd.
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="42">
+<TITLE>
+SOUS CHEF
+</TITLE>
+<DESC>
+The Sous Chef is responsible for assisting the Executive Chef in operating clean, safe kitchen and dishroom facilities while meeting or exceeding food quality and speed of service requirements. He / She is directly responsible for the entire kitchen and dishroom operations in the absence of the Chef.
+Responsible for assisting in the organization of work schedules, establishing and delegating work duties for employees with appropriate coverage of all kitchen area.
+Interviews, selects, counsels, appraises performance, disciplines, and recommends salary and other personnel actions. Makes recommendations for hiring and terminations. Responsible for the departmental orientation of new employees.
+Supervises kitchen to ensure preparation for service of all stations. Coordinates activities concerning food preparation, kitchen, and storage areas.
+Verifies that portion sizes, quality standards, department rules, policies and procedures are maintained by kitchen employees.
+Monitors food production areas for safety and sanitation practices and procedures. Checks walk-in refrigerators and dry storage areas for cleanliness and orderliness, and provides direction/ takes action as necessary.
+Sets up food production line by checking the work table, counter, broil station, fry station and line freezer to ensure they are properly stocked during and after service.
+Sets up production cycles, ensures proper inventory levels are available, and calls to back up or replenish items as necessary.
+Participates with recipe development and maintains the in-house core recipe files. Maintains current information of seafood and other food products.
+Hands on execution of the line; directing kitchen employees with food production.
+Conducts proper premeals and other educational seminars with front of the house employees.
+Purchases food items and various products for the operation.
+Is knowledgeable with menu, food, and corporate philosophy.
+Fills in behind other kitchen positions as needed.  Must be able to perform various kitchen duties.
+Functions as a supportive team member during the course of their shift.
+Demonstrates positive interpersonal skills with guests and co-workers.
+Position is full-time and requires regular, reliable attendance
+SUPERVISORY RESPONSIBILITIES
+In conjunction with Executive Chef, supervises hourly kitchen employees. Carries out responsibilities in accordance with the organization's policies and applicable laws.  Responsibilities include interviewing, hiring, and training employees; planning, assigning, and directing work; appraising performance; rewarding and disciplining employees; addressing complaints and resolving problems.
+Required Experience
+2-5 years of Sous Chef experience in a reputable restaurant
+Prior experience training and mentoring an hourly line cook team
+Excellent meat/fish butchery skills and know all properties of making stocks & sauces
+A great work ethic and commitment to uncompromising quality
+A passion for high quality ingredients and dynamic cooking technique
+Strong leadership skills and the ability to lead-by-example
+A minimum of an associate’s degree from a culinary focused university preferred
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="43">
+<TITLE>
+Junior Chef 
+</TITLE>
+<DESC>
+This entry-level position supports both the Product Development program with continuous production and/or improvement of new and existing products consistent with company strategy, commitments, and goals. 
+Duties and Responsibility 
+• Spends 50-60% of time in the test kitchen preparing product. Responsible for cleanliness, organization, and sanitation of the test kitchen. 
+• Responsible for new product development across all segments of the business and as dictated by the PMI product pipeline. Researches and catalogs new ideas, inspiration from other chains, and recognized trends to create new ideas for exploration. 
+• Assists with new product research including but not limited to assembling new product for baking off in test kitchen, sampling new products, and assisting in gathering focus group data and opinions on proposed new products. 
+• Maintains and organizes new product pantry recipes. Develops and communicates New Product Recipe Cards and IFC sheets and provides product development updates at regular meetings. 
+• Assists with Franchise Advisory Board, Board of Directors, executive lunches and other PMI food functions, providing an opportunity to test new products. Also, assists to coordinate Taster’s Club tasting events. Helps with hosting vendors and assist in showing new products and ideas. 
+• Assists with photo styling that includes running footage, simultaneous still photography, product photo shoot for website development, and training video shoots. Also includes house photo shoots for test products. Style, make, and bake products using appropriate props. 
+• Provides information to the Operations and Training Departments about the effectiveness of new product operations and production procedures through test kitchen and in-store observations. 
+• Participate in specification tests on new and existing products and store operations procedures. 
+• Performs and summarizes routine product testing of currently approved ingredients. 
+• Maintains constant line of communication regarding progress and development of all projects with Director of Product Development via weekly reports and interim updates as needed. 
+Required Qualifications 
+Education: High School diploma or GED. College degree preferred. 
+Experience: Minimum 1 year experience in product development or at least 3 years of experience as a Chef. 
+Knowledge, Skills, and Abilities: 
+• Must be able to stand on a hard surface for long periods of time. 
+• Able to regularly lift and/or move 25-30 pounds. 
+• Must be able to reach with hands and arms and possess strong hand agility. 
+• Ability to maintain regular attendance. 
+• Must have strong self-direction, capable knowledge of food production and quality systems. 
+• Requires strong planning, organizational, and analytical problem solving capability. 
+• Must be able to communicate effectively through verbal and written form. 
+• Must be able to travel by air and ground. 
+• Must be an active listener and team player with a positive outlook and can do attitude. 
+• Requires the ability to approach challenges from a problem solving perspective; to reason and make sound decisions. 
+• Must have the ability to use Microsoft Word, Excel and PowerPoint. 
+• Able to maintain positive relationships with vendors, franchisees and staff. 
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="44">
+<TITLE>
+Sous Chef
+</TITLE>
+<DESC>
+Ability to work with chef overseeing and maintaining high food quality and consistency.
+Ability to maintain the standards of cleanliness.
+Able to handle multi-task work and work in a fast pace environment.
+Highly motivated, friendly, outgoing and energetic.
+Creative and passionate about food.
+Must be a team player.
+Experience in French or Japanese cooking is a plus but not necessary, we will train you in all aspects of working in our kitchen.
+Ability to handle volume services with extensive menu items.
+Knowledgeable in ordering, receiving, food storage and organization.
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="45">
+<TITLE>
+Sous Chef/Kitchen Manager 
+</TITLE>
+<DESC>
+The Sous Chef III position is an hourly position and reports to a more senior Sous Chef or Executive Chef. It is the first level of supervision within a Centerplate commercial kitchen, performing functions and responsibilities that require a minimal to moderate level of difficulty and a less sophisticated level of detail,
+experience and expertise and complexity than Sous Chef II or Sous Chef I. The Sous Chef III assures that foods are prepared using fundamental cooking techniques, seasoned for maximum taste and flavor, and served in an aesthetically pleasing manner.
+The Sous Chef III directs some aspects of foodservice production and service, ensuring that approved food safety and sanitation guidelines are followed. With guidance, the Sous Chef III supervises the preparation and production of the unit’s menus and manages a shift or station in the hot kitchen, the cold kitchen and/or the bakery and pastry shop.
+The Sous Chef III assists in training, mentoring and helping to develop other Culinarians, and in
+monitoring and organizing the flow of activity within the kitchen in a way that complements and supports the overall operation.
+Essential Responsibilities
+Participate as part of Culinary Leadership Team to supervise a culinary department for the
+preparation of foods served to the customers in a consistent and timely manner.
+Ensure Kitchen Safety and Sanitation conforms to all Centerplate, regulatory, and governmental
+standards to provide a safe workplace producing high quality food products.
+Contribute to goal of 100% customer satisfaction through personal commitment to customer
+service and leading the culinary team by example.
+Qualifications/Skills
+Required:
+Minimum of 2 years in a food preparation position.
+Ability to promote and participate in a team environment.
+Ability to understand written and oral direction and to communicate same with others.
+Preferred:
+Degree from a postsecondary culinary arts training program.
+ACF Professional Certification.
+Other requirements include but are not limited to:
+Subject to wet floors, temperature extremes and excessive noise; must be able to lift up to 50 pounds in weight (pots, pans, etc.); must be able to maneuver in an often tightly-quartered environment.
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="46">
+<TITLE>
+Chef
+</TITLE>
+<DESC>
+Provide direction and leadership for employees in the kitchen. While producing great quality food served in a timely manner prepared in a clean and sanitized kitchen.
+ESSENTIAL DUTIES:
+Coach, teach and train kitchen staff on quality and consistency of product through use of standardized recipes and best practices.
+Develop Sous Chef through written goals and objectives. This would include master projects and serve safe.
+Maintain a fair and safe environment that is conducive to growth and development for all staff members.
+Adhere to best practices regarding food prep and execution to minimize food waste.
+Adhere to recipes and purchasing guidelines.  
+OTHER DUTIES:
+Understand SLII, One-Minute Management and R.I.S.E in order to effectively communicate performance appraisals.
+Able to work closely and communicate with HOH & FOH, in constant high pace doing a variety of "time restraint" tasks.
+Other functions assigned by management.
+Job qualifications:
+Experience:
+Minimum of 1 year as a Sous Chef in concept or 1 years-previous chef experience.
+Understanding of high volume operations. 
+ Knowledge, Skills, and Ability:
+Complete working knowledge of all phases of kitchen.
+Ability to be self-starter. 
+Strong interpersonal skills. 
+Strong organizational skills.
+Physical Requirements:
+ 100 %    Stand or walk.
+    80%     Interact verbally with other line position.
+    75%     Work at Approx. 36" table/stove and reach in approx. 36”.
+    75%     Reach (6” to overhead) bend, stoop and wipe.
+    60%     Perform job at continuous high pace, under pressure, while maintaining quality & speed standards.
+    50%     Lift and carry sacks, boxes, product up to 50 pounds from floor to above waist level, approx. 20 feet and sometimes involving stairs
+Education:
+Culinary degree or equivalent. 
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="47">
+<TITLE>
+Sous Chef
+</TITLE>
+<DESC>
+In conjunction with the Chef, the Sous Chef will have the task of ensuring that all kitchen workers are performing at the level required by a professional kitchen in standardized and culinary practices.
+Follows and develops recipes, portion controls, and presentation specifications in conjunction with the Chef and trains staff for implementation.
+Ability to set up and work all station(s) in accordance with restaurant and Chef’s guidelines.
+Delegates as well as, prepares and cooks menu food items, ensuring the quality and presentation of all items placed in the window for service to guests by kitchen staff.
+Ensures cleanliness, practicing good safety, sanitation and organizational skills at all times.
+Has understanding and knowledge to properly use and maintain all equipment in the kitchen.
+Professionally communicates and works with co-workers to ensure prompt efficient service, with the resultant goal of customer satisfaction by providing every customer with a quality dining experience.
+Requirements and Relevant Work Experience:
+Good interpersonal/communication skills in the English language, the ability to take direction and maintain a professional, friendly, “Yes I can” and “Customer First” attitude.
+Understands culinary practices and professional cooking methods. Creative in the culinary arts.
+Maintains a high standard of personal hygiene and health at all times. Understands and directs the safety, sanitation and food handling procedures.
+Ability to maintain good, cooperative working relationships with colleagues, working calmly and effectively under pressure. Ability to deal with problems involving several variables in routine and complex situations.
+High School diploma or equivalent and 3+ years in a kitchen production and management.
+Drug Free Workplace
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="48">
+<TITLE>
+Sous Chef 
+</TITLE>
+<DESC>
+We are currently looking to hire an experienced chef to join our growing team as a Sous Chef. The club offers a full service food and beverage experience to its members, which includes fine dining, casual poolside dining, and banquet services. We are looking for an energetic, knowledgeable individual to join our team to assist in further enhancing our members’ dining experiences, and to grow into a chef’s position.
+Responsibilities include: planning, prepping, setting up and providing quality service in all areas of food production for menu items and specials; maintaining organization, cleanliness and sanitation of work areas and equipment.
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="49">
+<TITLE>
+Chef
+</TITLE>
+<DESC>
+The Chef position will be responsible for the management and development of the Back of the House staff. The Chef position requires experience in the food service industry as well as excellent training, employee development, leadership skills, knowledge of financials and the ability to execute hands on culinary preparation and presentation.
+This position is responsible for managing all culinary functions for this property.  The Candidate will manage and lead a team of associates and oversee all safety and sanitation as it pertains to the account. 
+The Chef will supervise cooks and manage the preparation, portioning, service, and storage of food. Responsibilities also include the overall operation and maintenance of kitchen and storage facilities.
+Additionally, this position is responsible for recruitment, onboarding, training, development and retention of BOH unit personnel.
+Additionally, as the Chef of the account, you will be responsible for the following:
+·         Continually measure customer satisfaction levels and resolve any service issues immediately.
+·         Manage all BOH financials and provide input with budget development and forecasting.
+·         Manage BOH head count and labor dollars by %.
+·         Manage food cost controls and control expenditures for the account.
+·         Plan and create all menus.
+·         Cost out all recipes with both the café and catering
+·         Purchase and manage all inventory including pantry supplies.
+·         Roll out new culinary programs quarterly.
+·         Anticipate trends and roll out new concepts and ideas.
+·         Act as a liaison with the client.
+·         Stay on top of all equipment maintenance and work with client on preventive maintenance policies
+·         Other duties as required or assigned.
+At Quest Food Management, our balance of creativity, quality and our high level of service to our clients will succeed in satisfying our guests each day.  With that in mind, the most successful candidates will have, at a minimum, the following background:
+·         An undergraduate degree in culinary arts from an accredited* college or university is preferred.
+·         Three to five years of culinary and P&L management experience in the contract foodservice, fine dining, or restaurant industries with overall accountability for inventory, purchasing, and cost control.
+·         High volume production and catering experience is essential.
+·         Desire to learn and grow with a leading foodservice company.
+·         Demonstrated knowledge of food and catering trends with a focus on quality, production, sanitation, food cost controls, and presentation.
+·         ServSafe certification is preferred.
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="50">
+<TITLE>
+Sous Chef 
+</TITLE>
+<DESC>
+f you have at least 3 years of full service, high-volume casual dining kitchen or sous chef experience, knowledge of and passion for scratch cooking, and thrive on creating the ultimate guest experience, please show us your talent and submit your resume today. Bring your expertise and energy to Keystone Bar & Grill and discover the enriching rewards of joining one of Cincinnati’s most vibrant companies.
+Keystone Bar & Grill is a rapidly growing, privately held casual concept, based in Cincinnati, Ohio. Our growing restaurant brand is committed to providing a superior experience and the highest quality customer service and products for every guest while they relax and sample one of our many craft beers, small batch bourbons or signature cocktails. We offer a menu for lunch, dinner, and weekend brunch, filled with high quality, fresh, made-from-scratch items, including our famous mac & cheese.
+Keystone Bar & Grill has locations in Covington, KY, and Cincinnati, OH, including Hyde Park and Clifton.
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="51">
+<TITLE>
+Sous Chef
+</TITLE>
+<DESC>
+This position is an onboard position.  Candidate will live onboard the boat in the assigned crew areas.  They will be on a 12-week on/4-week off rotation, meaning they will live entirely on the vessel for 12 weeks (including weekends), then have 4 weeks off.  This position requires a clean background and drug screen.  Our company prides itself on customer service, professionalism, and neat appearance.  Candidates with previous cruise industry experience and four-star service experience are encouraged to apply. 
+ESSENTIAL FUNCTIONS - The following are essential functions of the job but are not all-inclusive
+Partner well with all departments
+Inspect pre-opening progress and direct/assist as needed to ensure that all food operations meet or exceed standards and passenger expectations
+Responsible for supervision and administration of the line cooks on a daily basis
+Ensure that all Galley departments are always in full compliance with all company, USCG, and Federal Drug Administration rules and regulations at all times
+Attend shift meetings and attend inter-departmental meetings
+Ensure that all food and beverage related specifications and presentations are adhered to, together with the General Manager, Executive Chef, Bar Steward, and Maitre d' onboard the vessel
+Daily attention to all cost control systems
+Review daily work schedules for shift to ensure optimum efficiency
+Meet and exceed passenger expectations by ensuring departments provide "Yes, I Can!" service
+Maintain compliance with the company grooming and uniform standards
+Demonstrate a management style conducive to exceeding standards and maximizing crew retention
+Responsible for assisting with all mandated inventories and orders
+Participate and ensure participation of all USCG mandated drills and emergency procedures as directed
+Other duties as directed
+MINIMUM REQUIREMENTS
+High school diploma
+3 years' experience in full-service culinary operations
+Experience in supervision and training of employees
+Proficient in the use of personal computers
+Cruise industry experience preferred
+Submit to and pass alcohol and drug tests including but not limited to pre-employment, random, and post-accident testing
+An equivalent combination of education and experience may be substituted
+WORKING CONDITIONS
+Outside conditions, extreme heat
+Marine operation subject to varied wake and motion
+Living onboard the boat in close quarters with fellow co-workers for 12-weeks at a time
+Ability to maneuver tight quarters of the boat including many stairs, crew areas, engine room, and rooms without windows
+Moderate noise level
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="52">
+<TITLE>
+Chef
+</TITLE>
+<DESC>
+The Chef is responsible for managing all daily functions of the kitchen and kitchen staff. Duties will include but not be limited to: overseeing all food production and execution on property including menu development, catering and special events, supervising and training staff, adhering to and enforcing portioning guidelines, interviewing and hiring staff, ordering food product and kitchen supplies via guides with on-hands, staff scheduling, employee performance evaluations, general filing and other administrative duties, managing food and labor cost, ensuring food is expedited in a timely manner, attending department head meetings, facilitating regular staff and manager meetings, taking and extending the monthly inventory, menu development, and development of food specials. Catering duties include, but are not limited to: attending weekly contract meetings, tracking contract change orders and making the necessary adjustments, consistent communication with sales and catering department, ensuring food gets to the events by the established deadline, and overseeing product quality and presentation, staffing for carving stations, and menu planning. The Chef must also have the ability to work well independently and as a member of a team. Each employee will be expected to perform their job in a safe manner and report any safety concerns to Management. All McMenamin employees will also be expected to keep current on all company events, history, and products. Other duties may occur as assigned.
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="53">
+<TITLE>
+Chef
+</TITLE>
+<DESC>
+Responsibilities
+Create decorative food displays
+Create new recipes
+Instruct cooks in basic tasks
+Plan menus and daily specials
+Plate foods in an aesthetically pleasing way
+Prepare and cook meals or specialty foods
+Requisition food and kitchen supplies
+Supervise cooks and other kitchen staff
+Education
+Apprenticeship completed, culinary arts
+Associate's Degree, culinary arts
+College Diploma, culinary arts
+High School Diploma (or equivalent)
+Qualifications
+Chef de cuisine certification
+Cook's trade certification or equivalent
+Food Handler certification
+Good eyesight
+Red Seal certification
+Serv Safe certification
+Several years experience in food preparation
+Skills
+Creative thinker
+Develops plans effectively
+Good manual dexterity
+Good sense of smell and taste
+Great knife skills
+Great leadership ability
+Performs well under stress
+Works accurately
+Works well with others
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="54">
+<TITLE>
+Pastry Chef
+</TITLE>
+<DESC>
+To succeed in this role you are an individual who:
+Is a positive leader and motivator who works well with multiple personalities and collaborating across various departments for mutual success
+Has a creative approach to cuisine as well as a desire for quality and consistency
+Has strong attention to detail and a proven track record of implementing and monitoring various controls and protocols to ensure a profitable business
+What you will be responsible for:
+Day-to-day operations of the pastry kitchen and all food-related events involving pastry items
+Create and design pastry menus for multiple restaurant outlets, in-room dining and banquet operations in line with overall culinary concepts and in collaboration with the Executive Chef
+Develop, implement and train on detailed recipes to ensure quality and consistency
+Oversight and execution of all ordering, storage, preparation, cooking and presentation of pastry items served to guests via multiple outlets and event space
+Assist with purchasing of inventory, control of food, labor and supply cost
+Holds direct responsibilities and supervision over the sanitation and personal hygiene of the kitchen facilities and staff.
+Overall guidance and oversight of training, supervision, and development of all pastry staff
+High school diploma or equivalent required.  Associate’s or Bachelor’s Degree in Culinary Arts or equivalent experience required.
+Minimum 4 years experience as a Pastry Chef, preferably in a full-service boutique or luxury resort environment with multiple outlets and concepts.  Prior experience designing menus, developing unique pastry creations and standardizing recipes.
+Prior experience using Microsoft Office required.  Experience with Google Apps or other web-based communication programs helpful.
+Must be able to communicate professionally in English, both written and verbal.  Conversational abilities in Spanish helpful.
+Must be able to multi-task and display ability to recognize that the team members’ and guests’ needs are always primary.  Must be able to lift up to 50 lbs.  Must be able to work evenings, weekends and holidays as business dictates.
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="55">
+<TITLE>
+Experienced Sushi Chef 
+</TITLE>
+<DESC>
+2 years experience
+Applicants must be comfortable working in a busy environment.
+Attention to detail
+Creative in presentation and in creating new rolls
+Passionate about the Restaurant/Food Industry
+Ability to work positively with other staff and in productive manner.
+Ability to work fast & efficiently under pressure.
+Able to maintain the highest quality standards of fish and all ingredients.
+Proficient in fish breakdown with minimum waste.
+Conscious of food & labor cost.
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="56">
+<TITLE>
+Sous Chef 
+</TITLE>
+<DESC>
+This location is currently seeking a Sous Chef. This is a key position in our restaurant and we're seeking the best of the best! 
+Position Requirements: 
+Responsible for maintaining food quality and ensuring guest satisfaction
+Maintain standards of hygiene and safety throughout the kitchen
+Verifies that all portion sizes, a quality standard, department rules, polices, and procedures are maintained by kitchen team members.
+Verifies that all sanitation and nutrition practices maintained by kitchen employees.
+Motivating team to complete the food preparation process, ensure customer satisfaction, comply with company procedures and maximize productivity and profitability 
+Leading your team in promoting quality first, sanitation standards and recipe adherence
+Set standards and maintain food presentation quality in the outlet at all times
+Motivate staff and maintain discipline at all times
+Receive all goods and ensure that they meet company quality specifications and reject those items that do not
+Ensure that standard recipes are being followed at all times
+In-depth skills and knowledge of all kitchen operations
+Capability of producing a consistent product to meet and exceed guests' needs in a timely manner
+Ability to create standard recipes
+Open availability to work days, nights, weekends and holidays.
+Flexible and long hours sometimes required
+Ability to educate and demonstrate fundamental and advanced cooking skills
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="57">
+<TITLE>
+Executive Chef 
+</TITLE>
+<DESC>
+Manage food and labor costs for the account. 
+Plan and create all menus. 
+Purchasing and managing inventory. 
+Roll out new culinary programs in conjunction with Eurest marketing and culinary team.
+Qualifications: 
+Culinary degree preferred. 
+Three years of culinary management experience. 
+High volume production and catering experience is preferred. 
+Previous experience managing cost controls. 
+Desire to learn and grow with a top notch foodservice company.
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="58">
+<TITLE>
+Restaurant Executive Sous Chef 
+</TITLE>
+<DESC>
+Managing all aspects of the kitchen in accordance with the goals, objectives and culture set forth by the company.
+Maintain a high standard of quality with regard to product, people, sanitation and safety.
+Responsible for the delegation of work, recommendation of action on team members.
+Regular team member meetings
+Responsible for team member schedules
+Development and implementation of Training Programs for assigned departments
+100% guest satisfaction
+Quality Standards
+Ensure the highest quality food, beverage and supply product
+Ensure the restaurant maintains the highest quality service and hospitality
+Communicate quality standards to the kitchen
+Motivate teams for success
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="59">
+<TITLE>
+Restaurant Executive Chef 
+</TITLE>
+<DESC>
+We are currently seeking an Executive Chef to join our already successful team. Qualified candidates will possess at least 4+ years of Executive Chef/culinary management experience with expert knowledge of food specifications, including but not limited to preparation, presentation, and cooking methods. In addition the successful candidate must be professional, innovative and possess well rounded culinary skills with creativity and passion for culinary arts.
+Duties Include:
+Managing all aspects of the kitchen in accordance with the goals, objectives and culture set forth by the company.
+Maintain a high standard of quality with regard to product, people, sanitation and safety.
+Responsible for the delegation of work, recommendation of action on team members.
+Regular team member meetings
+Responsible for team member schedules
+Development and implementation of Training Programs for assigned departments 100% guest satisfaction
+Ensure the highest quality food, beverage and supply product
+Ensure the restaurant maintains the highest quality service and hospitality
+Communicate quality standards to the kitchen
+Motivate teams for success
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="60">
+<TITLE>
+Executive Chef - Restaurant
+</TITLE>
+<DESC>
+Our [executive chefs] are responsible for optimizing profits by controlling food cost, production, labor and increase sales through food quality, speed of service, and food preparation to specifications in the back-of-the-house. Supervises the execution of and oversees all kitchen operations, ensuring Kona Grill's standards of quality and service are met and that the kitchen provides nutritious, safe, eye-appealing, properly flavored food, while maintaining a safe and sanitary work environment for all employees. 
+[responsibilities]:
+·         Forecasts loads and prepares work schedules for kitchen employees in advance to meet requirements.
+·         Ensures that all stations remain stocked before and during the meal period.
+·         Verifies that kitchen staff follow all recipes and portion servings correctly and according to menu specifications.
+·         Places food and supply orders.
+·         Receives products and verifies invoice pricing, quantity, and that product meet Kona Grill specifications.
+·         Assists in training and certifying employees to company standards.
+·         Maintains inventory systems.
+·         Posts invoices daily.
+·         Discusses in advance menu changes with managers to assure full understanding of new items.  
+[qualifications]:
+·         Minimum of three (3) years prior experience in a similar Executive Chef or Sous Chef position for a full service, high volume restaurant.
+·         College or culinary training and/or extensive cooking and production experience.
+·         Food and beverage knowledge.
+·         Understanding of proper use and maintenance of major kitchen equipment, including stoves, refrigeration, slicer, knives, and dish machine.
+·         Able to work in a high energy and demanding environment.
+·         Team player with strong leadership skills.
+·         Must be able to work a flexible schedule of nights, days, weekends and holidays.
+·         Service driven with a strong passion for culinary excellence.  
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="61">
+<TITLE>
+Executive Chef/kitchen Manager 
+</TITLE>
+<DESC>
+Seeking experienced Executive Chef who has a passion and creativity for developing and executing scratch cooking using high quality graded ingredients and creating seasonal menu items through classical techniques. This position requires leadership skills, ability to train, coach, align and hold direct line and prep. cooks accountable to established standards and procedures. This position works closely with the Owner/Manager.
+Partial Duties and Responsibilities:
+- Develops and helps cost yearly seasonal menus and daily specials items
+-Makes sure all menu ingredients, and prepared items are of high quality and prepared in accordance to standardized recipes through continued daily line checks
+-Makes sure all measuring/utensils are used during prep through final prep/plate-up
+-Trains all line and prep chefs in classical techniques and follows up with coaching to perform to position standards
+-Controls food cost through proper portioning in accordance with standardized recipes, producing required amounts posted production/par sets. Documents any waste.
+-Ensures proper food safety procedures are followed through flow of food: receiving,storage,prep., final production, possible reheating.
+-Always looks for ways to cross utilize products.
+-Ability to manually scale and cost out recipes.
+-Fills in where needed to ensure high quality in product and guest service
+-Always looks for areas of continuous improvement and shares information with management through daily meetings
+-Leads daily pre-shift meetings pertaining to food and tastings
+Qualification
+-A minimum of 5 years experience in a vartiety of kitchen positions including food preparation, line cooking, expediting
+-Two year culinary degree or certification prefered
+-At least 6 months kitchen management/executive chef experience in similar capacity
+-Must be able to communicate clearly with owners, managers, kitchen and dining room team members.
+-Be able to reach, bend, stoop and frequently lift up to 50 pounds.
+-Be able to work in a standing position for long periods of time (up to 12 hours)
+-40,000k+ possible and bonuses when exceeding to be determined operational objectives
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="62">
+<TITLE>
+Executive Production Chef
+</TITLE>
+<DESC>
+Successful candidates will have 5 plus years culinary experience, be passionate about the growing child nutrition movement, involved in local sustainable food advocacy, food equality issues. 
+Candidate can build, test, conduct, standardize, train staff on, orchestrate daily production schedules for recipes and cycle menus that change on a seasonal basis. 
+Working understanding of HACCP and innovative large scale cooking applications and equipment.
+Does not fear change, willing to innovate, adaptable and a yes person.
+Understanding on school nutrition, NSLP a bonus.
+Ability and understanding of children's palates, ability to use and understanding of mid-west growing cycles for local produce. 
+Understands, yields, software, food cost control, labor management, employee moral. 
+Conducts self with vigor and enthusiasm on a daily basis. 
+Help take Gourmet Gorilla to the next level in school food service. Come join this awesome and innovative company and their team.
+Duties and Responsibilities
+Entrepreneurial spirit and drive needed to work effectively within a young and growing company. 
+2-3 years culinary experience in a high unit volume food production facility; additionally 2+ years of proven experience in a kitchen management role is highly desired. Hands on production manager experience working in a high volume, food production facility. 
+Proven track record for delivering success in adverse environments. Proven management experience including training and development of team. Able to lift 50 pounds and physically perform requirements of job. Advanced knowledge of safe and proper knife and kitchen utensil use. Strong oral and written communication and interpersonal skills. 
+Strong computer skills are required with the ability to quickly learn new programs. Able to work well with others and participate as part of a team. Able to multi-task in a professional, respectful manner with keen attention to detail. 
+Committed to the Gourmet Gorilla mission that all children have access to nutritious, great tasting food to help grow healthy minds and bodies. Bi/Multi Lingual is a plus. Valid driver's license required.
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="63">
+<TITLE>
+EXECUTIVE CHEF
+</TITLE>
+<DESC>
+P&L Accountability
+Facility Management
+Retail & Merchandising
+Unparalleled Guest Service
+Community Service & Public Relations
+Inventory Control (Product & Food Cost)
+Live Music Experience - A Plus
+Banquet Experience - Mandatory
+Event Menu Development- Mandatory
+The Employee Life Cycle (selecting, hiring, training, developing, and retaining employees)  
+Ideal candidate will possess:
+*5+ years as a Kitchen Manager running a $3.5.0+ volume, full service, casual theme kitchen
+*Full understanding of cost centers and how to run & control
+*Extensive experience managing a large, diverse staff with an emphasis on training, coaching, and cultivating a teamwork atmosphere
+*You are a Standards Bearer-you don't settle
+*Passion for the industry with a wow the guest mentality
+*Ability to learn and bring "out of the box" ideas to their team
+*The ability to embrace and foster a diverse culture- LOVE ALL SERVE ALL-
+*The desire to be the best
+*A love for all that is Rock & Roll!
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="64">
+<TITLE>
+Corporate Executive Chef 
+</TITLE>
+<DESC>
+This position is responsible for overseeing the culinary function for a growing, successful restaurant company in Seattle. 
+You will manage and lead a team of employees and oversee all foodservice, safety, sanitation, purchasing, menu development, and menu costs for multiple restaurants. 
+Responsibilities: 
+Manage cost controls and control expenditures
+Purchase all food and non-food items
+Plan and create menus
+Manage inventory
+Implement new culinary programs
+Qualifications: 
+At least 6 years of culinary management experience at the Executive Chef level
+High-volume restaurant experience
+Strong leadership skills
+Experience purchasing and negotiating contracts
+P&L experience
+Good Knowledge of current culinary trends-creativity is a must!
+Culinary degree preferred
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="65">
+<TITLE>
+Executive Chef/Manager 
+</TITLE>
+<DESC>
+Our concept is culinary driven. We operate a Modern American Steakhouse Sushi concept within the resort/ski industry in Utah. We only use the freshest ingredients and have a well-trained kitchen and service staff. As Executive Chef, you manage both the back and front of house and are responsible for service and kitchen training, and creating seasonal menus.
+Job Requirements:
+3-4 Years of Culinary Management Experience
+Graduate of an accredited culinary program preferred
+Previous restaurant management preferred
+Must be able to facilitate and effectively execute training
+Ability to handle challenging situations and conversations
+Ability to manage a team while delegating tasks and ensuring consistent follow-up
+Strong communication and organizational skills
+Read, write and speak English fluently
+Must be able to stand and walk from 8-10 hours per shift
+Exhibit good working knowledge of meeting or beating budget for labor and food costs
+Have a genuine desire to lead the team in producing a high quality product
+Maintain sanitation procedures and organization of work area adhering to all OSHA regulations
+Exhibit working knowledge of scheduling
+Ability to create interesting seasonal menus
+Ability to manage on-site events
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="66">
+<TITLE>
+Executive Chef and Director of Food & Beverage
+</TITLE>
+<DESC>
+The Executive Chef and Director of Food and Beverage (Chef)  is responsible for overseeing all of the day-to-day culinary operations of the club.  Chef ensures the highest quality of food for Members and their guests, prepares an annual budget, coordinates the ordering and monitoring of all food, dining and kitchen supplies and designs innovative menus and oversees events. Chef is also responsible for the management of all dining and kitchen staff including hiring, training/development and creative instruction.  Chef and the team will deliver a memorable dining experience for all Members and guests. 
+Successful candidates will be creative and passionate about producing great food and innovative menus and enhancing the overall dining experience for our Members and their guests.  He or she will possess the interpersonal characteristics to command a presence in the dining room and be a team player able to build relationships with members, employees, vendors and guests.  He or she will also have a proven track record of leading, inspiring and motivating the team, creating a harmonious work environment with the ability to deliver results within a high pressure environment.  In addition, relevant experience at a head or executive chef level in a private club setting and a degree in Culinary Science or related certificate is a plus.
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="67">
+<TITLE>
+Executive Chef | In-Flight Catering
+</TITLE>
+<DESC>
+Role Purpose Statement: The job incumbent is responsible for the food production in a Customer Service Center (CSC) in accordance with company standards, menu specifications, and customer requirements.
+Main Accountabilities
+Food Production
+Oversees all food production activities in responsible CSC
+Responsible for deviations in inventories, initiates countermeasures if necessary
+Controls and adjusts production plans, estimates consumption of food and equipment
+Ensures compliance of recipe specifications and conducts sense-checks
+Participates in the development of food products and menus
+Must be aware of content in catering manuals; updates and distributes them within responsible CSC
+Responsible for cost controlling of the budget, personnel and material costs
+Participates in menu presentations
+Coordinates and controls countermeasures in the production in case of customer complaints
+Checks service schedules, assesses economic profitability and conducts sense-checks
+Establishes training strategy and training plans for kitchen staff in responsible CSC
+Represents kitchen and kitchen staff in front of external stakeholders
+Keeps himself/herself up to date regarding industry trends (research & development, food trends) and ensures alignment with design chefs
+Ensures that the appropriate production technology is in place
+Participates in marketing activities
+Quality
+Ensures quality of goods received
+Guarantees tidiness in food storage in the responsible CSC is maintained and first in - first out principle is followed
+Guarantees adherence to hygiene, health and safety standards and Hazard Analysis and Critical Control Points (HACCP) regulations in responsible CSC 
+Leadership
+Ensure that the area of responsibility is properly organized, staffed and directed
+Guide, motivate and develop the subordinate employees within the Human Resources Policy
+Make the company''s values and management principles live in the department(s)
+Implement and control the cost budget in the area of responsibility; initiate and steer corrective actions in case of deviations
+Participate and support company sponsored initiatives such as Global Quality Standard (GQS), HACCP, Lean Manufacturing
+Required Skills
+Five to seven years of experience in commercial cooking, out of those at least two years in a management position required
+Apprenticeship or Certification course from culinary school preferred
+Additional certifications (e.g. diet chef, industrial chef) or equivalent professional experience preferred
+Knowledge of food and hygiene regulations (example: HACCP)
+Financial understanding
+Cost consciousness
+Good communication and organizational skills
+Social competence/Team player
+Service orientation
+Leadership skills
+Good knowledge of Microsoft Office and Windows-based computer applications
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="68">
+<TITLE>
+Executive Sous Chef
+</TITLE>
+<DESC>
+The Sous Chef is responsible for supporting the Executive Chef in overseeing the day-to-day culinary operations of the Club. This employee partner supervises the training and development of the kitchen staff to ensure the highest quality of food service for Club members and their guests.  Technical responsibilities include recipe standardization, plate presentation, and inventory control. He/she maintains a well-organized kitchen in a clean and safe manner.
+Job Requirements
+Culinary school graduate 
+Two years experience in supervisory position 
+Understanding of a la carte and banquet revenue generation 
+General knowledge of expense control as it relates to kitchen payroll and the forecasting/budgeting of expenses 
+Technical literacy, including Microsoft Word and Excel, payroll management and point of sale systems 
+Diplomatic team player able to foster relationships with members, employee partners and guests 
+Bilingual (English - Spanish) communication ability preferred. 
+Possesses a passion for exceeding Member expectations and a commitment to excellence resulting in high quality Member and guest service. 
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="69">
+<TITLE>
+Executive Sous Chef
+</TITLE>
+<DESC>
+When the Chef is absent, the Executive Sous Chef is in charge and runs the operation. Even when the Chef is present, the Executive Sous Chef is entrusted with substantive leadership and management responsibilities, including responsibility on a daily basis for planning meals, procurement of food supplies and kitchen equipment, production of meals, supervising and coordinating the work of the kitchen personnel, assuring that food preparation is economical and complying with all ClubCorp quality standards. The Executive Sous Chef should have a working knowledge of applicable health, sanitation and licensing ordinances. He/she is also responsible for the profitable operation of the Food Preparation Department. The relationship between the Chef and the Executive Sous Chef is one of shared leadership and, through this developmental assignment, the Executive Sous Chef acquires the knowledge and problem-solving abilities in order to be promoted to an Executive Chef position.
+Essential Functions & Accountabilities
+1. Executing the creation of menus and meal planning/production based on forecasted Member and guest counts.
+2. Determining budgetary requirements and controlling the expenses relating to food supplies, kitchen equipment and materials.
+3. Analyzing food and labor production reports or other records, including menu engineering, for use in supervision and control of expenses.
+4. Procurement of food supplies and kitchen equipment, including organization of inventories and participating in actual inventory counts.
+5. Analyzing the workplace and implementing policies and ensuring policies are carried out to provide safe workplace practices for employees, including resolving all safe workplace practices issues.
+6. Representing the Club in Member interaction including daily table visits, soliciting Member and Guest feedback, working with various committees and promoting the Club within the community and industry.
+7. Interviewing, selecting and hiring of employees with particular weight being given to the Executive Sous Chef’s suggestions and recommendations.
+8. Suggestions and recommendations into the training, advancement and promotion of employees, again with particular weight being given to the Executive Sous Chef’s suggestions and recommendations.
+9. Planning, scheduling and adjusting hours of work and specific responsibilities among employees.
+10. Handling and resolving employee complaints and issues.
+11. Implementing company policies and supervising to ensure others properly implement and administer company policies, including disciplining employees, substance abuse, firing, etc.
+12. Customarily and regularly directing the work of at least two or more other full-time employee partners or their equivalent.
+Other Accountabilities
+1. Because of the fluctuating demands of the company’s operation, it may be necessary that each Employee Partner perform a multitude of different functions; therefore, as an essential part of your position, you will be expected to help others when the occasion arises, just as other Employee Partners are expected to help you. Accordingly, you may be expected to perform other tasks as needed or as directed.
+2. Adhere to all various written mandatory standards of operations, policies and procedures; manuals, memos, oral instructions, etc. all of which go to make up the essential functions of the job.
+3. All service administered to club Members, Guests and Employee Partners consistent with STAR service.
+4. Professional, impeccable appearance maintained by self and enforcement with all heart of the house personnel.
+5. Ongoing training and development of heart of the house personnel.
+6. Assist Executive Chef with Planning, organizing and executing one monthly heart of the house meeting/workshop with all heart of the house Employee Partners with documented minutes.
+7. Maintain the required ClubCorp standards of operation as they relate to the heart of the house.
+Reporting Relationships
+Reports Directly To EXECUTIVE CHEF
+Also Works For CLUB MANAGER AND ALL OTHER DEPARTMENT HEADS
+Other Jobs Reporting to This Supervisor ALL LINE-LEVEL EMPLOYEE PARTNERS
+Directly Supervises ALL HEART OF THE HOUSE PERSONNEL
+Indirectly Supervises N/A
+Work Experience
+Prefer a minimum of 3-5 years as a Sous Chef with skills supporting the items listed in this job description.
+Education
+High school diploma or equivalent required. College degree preferred.
+Culinary School graduate preferred.
+Certification/License
+Health & Sanitation Card pear state requirements
+Foodservice management certification as per state requirements
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="70">
+<TITLE>
+Executive Chef
+</TITLE>
+<DESC>
+The job duties described below are intended to describe the general nature and level of work being performed by people assigned to this job classification. They are not to be construed as an exhaustive list of all responsibilities, duties, and skills required of this position. All employees may be required to perform duties outside of their normal responsibilities from time to time, as needed. 
+Description of Position:
+The Chef is responsible for managing all daily functions of the kitchen and kitchen staff. Duties will include but not be limited to: overseeing all food production and execution on property including menu development, catering and special events, interviewing and hiring, supervising and training staff, adhering to and enforcing portioning guidelines, ordering food product and kitchen supplies via guides with on-hands, staff scheduling, employee performance evaluations, general filing and other administrative duties, managing food and labor cost, ensuring food is expedited in a timely manner, attending department head meetings, facilitating regular staff and manager meetings, taking and extending the monthly inventory, menu development, and development of food specials. Catering duties include, but are not limited to: attending weekly contract meetings, tracking contract change orders and making the necessary adjustments, consistent communication with sales and catering department, ensuring food gets to the events by the established deadline, and overseeing product quality and presentation, staffing for carving stations, and menu planning. The Chef must also have the ability to work well independently and as a member of a team. Each employee will be expected to perform their job in a safe manner and report any safety concerns to Management. All McMenamin employees will also be expected to keep current on all company events, history, and products. Other duties may occur as assigned. 
+Requirements of the Job:
+•	Previous culinary experience or education 
+•	Previous management or supervisory experience in a high volume kitchen 
+•	Excellent organizational and prioritization skills 
+•	Maintain a current Food Handlers card
+•	Flexible schedule required including days, evenings, weekends, and holidays required
+•	Ability to interact positively with other employees, vendors, departments, customers, and guests
+•	Ability to work efficiently & multi-task while meeting deadlines in a sometimes stressful environment
+•	Ability to work the hours necessary to complete the job
+•	Working knowledge of all company policies and procedures
+Essential Job Functions:
+•	Produce excellent quality food for customers
+•	Safely practice frequent heavy lifting and carrying of up to 50 lbs with the help of another person as necessary
+•	Work for long periods on feet, including standing, walking, and stair climbing
+•	Work around and with heat sources such as grills, ovens, hot-oil fryers etc.
+•	Work around and with knives, slicers, and other sharp objects
+•	Repetitive movements such as pushing, pulling, bending, some stooping and twisting
+•	Fine hand manipulation including chopping, slicing, writing, some typing, picking up small and larger items, etc.
+•	Ability to accurately work with numbers and recipe conversions
+•	Ability to communicate clearly in a positive and professional manner
+•	Strict adherence to deadlines, product quality, recipes, and food specs
+•	Ability to track on-hands & complete ordering
+•	Ability to maintain and update order & prep pars from on-hands
+•	Work with chemicals and used in cleaning and sanitizing 
+•	Provide customer service to guests as necessary
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="71">
+<TITLE>
+Executive Chef
+</TITLE>
+<DESC>
+Your role as an Executive Chef will include oversight of the food preparation process and recipe creation on all teams, and the selection and merchandising of the items in all food service cases. Additionally you will supervise and delegate kitchen staff, maintain attractive food displays and support the regional vision. You will ensure a positive company image by providing courteous, friendly, and efficient service to customers and team members.
+DUTIES:
+- Give every customer immediate and undivided attention. Surprise and delight the customers with consistent, delicious food. Serve as the voice and face of the store’s food program.
+- Oversee the selection and execution of all prepared items sold in the store ensuring the food quality, quantity, freshness and presentation meet all regional standards.
+- Train all Food Preparation Team Leaders and Team Members on execution of new menus, and programs.
+- Evaluate all menus and establish an action plan for raising the level of culinary offerings within regional objectives. This includes execution and food quality, financial viability, seasonality, locally appealing items, and utilization of culls.
+- Supervise production and quality of all prepared food in the store, including food service venues.
+- Train and supervise all food production team members.
+- Ensure all prepared items are labeled, dated, initialed, covered, and rotated. Document waste and spoilage.
+- Maintain high productivity levels, and ensure that kitchen schedules are kept within budget.
+- Ensure that production is done using correct measuring devices, and all recipes are followed.
+- Attend all monthly/weekly inventories.
+- Oversee Store Catering Program and assure Catering Specialist is meeting weekly sales goals.
+- Understand why our products are different than conventional stores, and be able to explain to customers.
+- Organize, stock, and rotate, while continuously checking and insuring freshness and quality of products.
+- Follow and comply with established procedures, including Weights and Measures, health and sanitation, and adhere to safe work practices.
+- This job posting is intended to describe the general requirements for the performance of this job. It is not a complete statement of duties, responsibilities or requirements. Other duties not listed here may be assigned by leadership.
+REQUIREMENTS:
+- At least 1 year as a Team Leader or Executive Chef.
+- Exceptional culinary skills in the preparation of all types of food
+- Ability to pair foods with wine, beer and spirits.
+- Ability to organize and delegate production tasks.
+- Excellent communication skills and willingness to work as part of a team; ability to communicate effectively with customers and team members.
+- Ability to work independently and meet deadlines.
+- Ability to work in a fast paced environment, with a sense of urgency.
+- Basic knowledge of ingredient information.
+- Ability to evaluate all products offered in the store.
+- Strong work ethic and integrity.
+- Proper handling of knives and other cutting equipment.
+- Available for flexible scheduling to meet the needs of the department.
+Essential Job Functions:
+Stand and walk for extended periods of time.
+Bend and stoop to grasp objects and climb ladders. Bend and twist neck and waist, reach above and below shoulders and squat.
+Bend and lift loads, not to exceed 50 pounds.  Push and pull carts weighing up to 100 pounds.
+Repetitive use of hands for grasping, pushing, pulling, and fine manipulation.
+Environmental exposure to extreme temperatures (coolers, ovens, freezer, outdoors, etc.)
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="72">
+<TITLE>
+EXECUTIVE CHEF - POOL CAFE
+</TITLE>
+<DESC>
+It is the primary responsibility of the Pool Cafe Executive Chef to oversee all culinary operations, including menu development. All duties are to be performed in accordance with departmental and property policies, practices, and procedures.
+Efficiently operates within pre-established food and labor cost controls and plays an active role in contributing to the various outlets profits.
+Maintains operational control of purchasing, receiving, purveyor lists, and inventory of all kitchen items.
+Design production schemes and assists in implementation of restaurant menu and menu engineering.
+Provides management and support of all kitchen employees ensuring proper scheduling and vacation planning.
+Maintains high customer satisfaction through consistently introducing innovative products.
+Establishes measurable goals and objectives that focus on profit, product and people.
+Ensures kitchen and employees meet both state and departmental requirements concerning sanitation and personal hygiene.
+Ensures that all hiring practices, employee disciplinary actions, and expectations of employees are in accordance with the Federal, state and local laws as well as the Culinary Union.
+Ensures that employees have all required certification validated, i.e., Sheriff Cards, Health Cards, and Alcohol Awareness.
+Provides employees with proper training and developmental opportunities that will aid in their career aspirations.
+Ensures kitchen equipment is properly maintained and functioning.
+Actively interacts with guests and consistently coaches’ staff on guest relations skills.
+Portrays a professional, charismatic image when interacting with all media.
+Performs all other duties as requested.
+JOB REQUIREMENTS:
+Required:
+At least 3 years of similar Food and Beverage experience.
+Possess good communication, organizational, and supervisory skills.
+Have prior experience in labor and food cost control.
+Have a working knowledge of knives, knife skills and small wares equipment.
+Ability to work in a high pressure environment.
+Have a working knowledge of health, safety and sanitation procedures.
+Have a working knowledge of weights and measures and various cooking techniques.
+Excellent customer service skills.
+Able to lead and mentor a team.
+Have interpersonal skills to deal effectively with all business contacts.
+Professional appearance and demeanor.
+Work varied shifts, including weekends and holidays.
+Associate’s Degree in Culinary Arts or recognized formal certified training program from a National Association.
+Able to effectively communicate in English, in both written and oral forms.
+Preferred:
+Formal culinary training.
+Previous experience working in a similar resort setting.
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="73">
+<TITLE>
+Executive Chef 
+</TITLE>
+<DESC>
+A top restaurant in Queens with high volume is seeking a talented and capable Executive Chef. The job requirements entail
+- Bilingual (English and Spanish)
+- At least 8 years restaurant cooking experience with high volume
+- Proficient with computer software such as Microsoft Excel and Word.
+- Certified food certificate with New York City.
+- Experience with Latin and Spanish cuisine.
+The Executive Chef job includes but not limited to the following responsibilities:
+-Create new creative menus and execute the food delivery.
+-Structure kitchen staff to be more efficient and organized.
+-Manage waste.
+-Create and document all recipes.
+-Tailor purchase orders based on recipes.
+-Rearrange placement of utensils, equipment and foods to maximize efficiency.
+-Comply with health safety codes.
+-Monthly internal checks for compliance with health safety codes.
+-Manage a staff of 10 people.
+-Create monthly staff schedules.
+-Check inventory.
+-Hire and fire personnel.
+-Maintain cleanliness at restaurant.
+-Enforce rules and regulations for staff.
+-Employee write ups.
+-Continuing education with kitchen staff.
+-Write up semi-annual performance reviews.
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="74">
+<TITLE>
+Executive Chef
+</TITLE>
+<DESC>
+Key responsibilities include:
+* Coordinating the daily menus and recipes, and managing multiple job tasks 
+* Directly supervising and training kitchen personnel on all related culinary activities in conjunction with Director of Food and Beverage Department 
+* Overseeing daily operations of the kitchen and ensuring the highest quality food products
+* Maintaining kitchen sanitation and safety standards 
+* Assisting with setup, service and cleanup of food production
+At Brookdale, you will enjoy a rewarding career with a forward thinking company while receiving an impressive portfolio of benefits designed to help you maintain a comfortable lifestyle for you and your family, including • Major Medical • Dental• Vision• Flexible Spending Account • Short-term Disability • Long-term Disability • 401(K) with Company Match • Life Insurance • Tuition Reimbursement • Paid Vacation & Holidays • Continuing Education • License Reimbursement
+We seek the following qualifications:
+* High School diploma or GED
+* Two (2) years of commercial kitchen cooking experience
+* Strong supervisory skills with the ability to lead a diverse group of people
+* Flexibility with schedule, including availability to work weekends and holidays
+* Must enjoy working with the senior population
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="75">
+<TITLE>
+Executive Sous Chef
+</TITLE>
+<DESC>
+As our Executive Sous Chef, you will be a part of our exciting, high-volume shipboard culinary operations and oversee its multicultural world-class team. You will be responsible for managing the culinary activities of our state of the art kitchens while executing international cuisine in multiple venues. In addition, you will have the opportunity to travel the world while working for a top global employer of choice.
+Career snapshot: 
+•Oversight and execution of culinary operations to deliver quality cuisine and create a superb dining experience, thereby ensuring guest satisfaction
+•Collaborate with the Executive Chef to forecast  and manage menu requirements and inventory
+•Manage and train large culinary staff to ensure performance standards are met on a consistent basis
+Qualifications
+Requirements:
+•Culinary school degree required from an accredited culinary or hotel school
+•Minimum of five years’ experience as a Sous Chef in an upscale hotel, resort, cruise ship or convention banqueting service
+•Understands the financial aspects of a food operation including the successful identification of expense reduction through cost control maintaining quality and standards
+•Ability to speak, read and write English clearly and distinctly with guests and employees
+•Enforce HACCP procedures for sanitation and cleanliness
+•All international applicants must have the ability to obtain C1/D visa (and other relevant visas) when applicable
+•Must meet all physical requirements, including the ability to participate in emergency life-saving drills and required training
+Preferences:
+•Ability to work with inventory related software (crunch time, etc)
+•Ability to speak, read and write multiple languages is a plus
+•Cruise ship experience and USPH knowledge
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="76">
+<TITLE>
+Executive Chef
+</TITLE>
+<DESC>
+The Executive Chef Partner is responsible for leading a team of culinary professionals that deliver high-quality, great tasting food; proper food safety and sanitation procedures and profitability.  The Executive Chef contributes to building top line sales and guest count through the delivery of a competitively superior team member and guest experience.  The Executive Chef supports the Culinary Development team to ensure menu items are executed with excellence in the restaurant.
+Job Requirements
+*  Proven success as head of kitchen operations in a high- volume upscale restaurant or high end resort restaurant
+*  Strong passion for culinary excellence, wine knowledge and service
+*  Proven ability to develop team
+*  Knowledge of systems, methods and processes that contribute to great execution
+*  Stable job history which demonstrates upward career progression
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="77">
+<TITLE>
+Urban Tavern Executive Chef 
+</TITLE>
+<DESC>
+On a daily basis oversee or delegate Purchasing. Handling and Storage techniques on all food and non-food items. Must be able to do portion cutting of meats and seafood accurately.
+Production schedules for Urban Tavern as well as daily food operations. Food costing, typing and computer experience required.
+Visual inspections on all kitchen equipment to see that all are in proper working condition and if not notify engineering.
+Scheduling for cooks as well as being able to fill in on any station to cover shortage of staff.
+Work closely with restaurant General Manager, assistants and Food service staff to eliminate challenges as they arise.
+Work closely with Executive Chef, Sous Chef and Kitchen staff on daily needs of the operations. Quality control and maintain food standards at all times. Must be able to stand long periods of time, 10-12 hour shifts.  Develop and update menus on an ongoing basis.
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="78">
+<TITLE>
+Executive Chef 
+</TITLE>
+<DESC>
+The ideal candidate will oversee every function of the kitchen to include: Purchasing, production, presentation and quality of food, hiring, training and development of employees. This job does require working the line during peak periods, supervising the employee cafeteria and the responsibility of reviewing and accomplishing cost goals in the areas of food cost, kitchen labor and related expenses. You will be in charge of developing performance standards, the procedures and rules used to insure safe work habits and regularly reviewing safety procedures with associates and correcting any hazards. The participation in staff and department meetings and property M.O.D. program will also be required. 
+The ideal candidate should have a minimum of 5 years experience as an Executive Chef working high volume banquet function production, front line productions and high end menus. Food handling certification required.
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="79">
+<TITLE>
+Executive Chef
+</TITLE>
+<DESC>
+As a Culinary Partner, you manage the back of the house. From training to food prep to the perfect execution of our recipes, our reputation is in your hands. If you’re looking for the chance to drive a global success story, we’ll give you the opportunity – and the rewards – you deserve. 
+Requirements	•	3-4 years of culinary management experience in a high-volume restaurant 
+•	Graduate of an accredited culinary program, preferred
+•	Previous restaurant management preferred 
+•	Must be able to work an average of 55 hours work per week 
+•	Work closely with the management team to identify and develop employees for future leadership roles 
+•	Must be able to facilitate and effectively execute training 
+•	Ability to handle difficult/challenging situations and conversations 
+•	Ability to manage a large team while delegating tasks and ensuring consistent follow up 
+•	Strong communication and organizational skills
+•	Read, write and speak English fluently
+•	Must be able to stand and walk for periods of eight to ten hours in length, each shift
+•	Must be able to reach, bend, balance and transport various objects weighing up to 50 lbs repeatedly during a shift 
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="80">
+<TITLE>
+Food Service Manager/Head Chef
+</TITLE>
+<DESC>
+The Food Service Manager will also assist with Manna's outreach programs including the Summer Teen Cooking Program, food drives and holiday food baskets.
+Full Time
+Specific Areas of Responsibility
+Plan and prepare nutritious meals for Manna's twice daily hot meals
+Manage the use of donated and purchased food
+Provide nutritional analysis of meals
+Ensure that alternative menu items for clients with special dietary needs are available
+Order food from donors and vendors and shop at local grocery stores as necessary
+Maintain records of meals served and donor deliveries for internal and external reports
+Assist with Manna's outreach programs by planning and supervising the summer teen cooking program
+Help manage donated food during food drives
+Assist with holiday food baskets
+Assist with client education programs focused on nutrition
+Desirable Characteristics and areas of expertise:
+Education
+Bachelor's degree required in food service, nutrition or related field.
+Current ServeSafe certification or equivalent required.
+Experience
+Two years minimum experience with food service management.
+Experience with nutritional analysis and planning.
+Experience with large group meal planning and preparation.
+Character Traits
+Enjoy working in a small, committed, closely-knit environment.
+Empathetic and caring with a desire to serve people in need.
+Sense of humor; ability to handle roadblocks and challenges with grace.
+Self-motivated with ability to see tasks/projects through to completion.
+Organized with the ability to accurately record information.
+Ability to communicate clearly with other team members.
+Ability to pro-actively anticipate tasks/needs and to plan accordingly.
+Skills
+Excellent, demonstrated skills in organizing materials and information
+Strong computer competency with MS Office applications
+Excellent interpersonal skills: able to interact over the phone, by email, and in person
+Excellent management skills: able to guide and supervise 5-7 volunteers in preparing and serving
+Excellent food preparation skills
+Driver's License required; reliable access to a car necessary
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="81">
+<TITLE>
+Sous Chef / Assistant Head Chef 
+</TITLE>
+<DESC>
+Key’s on the Green Restaurant in Evergreen is looking for a Sous Chef to assist our Head Chef with the operation of our kitchen. We offer our clientele fine contemporary American cuisine. Key’s is about 35 minutes from downtown Denver.
+This position will be in charge of the kitchen when the Head Chef is not there. You will be responsible for the daily operations of the kitchen including preparing, cooking, plating and expediting food orders. You will create and prepare daily specials. You will supervise and manage all kitchen employees during your shifts. Additionally, you will assist the Head Chef with food inventory management and ordering, employee hiring and training and other general duties as needed.
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="82">
+<TITLE>
+Head Chef/Kitchen Manager
+</TITLE>
+<DESC>
+Our ideal candidate:
+Is high-energy with a real passion for food
+A strong leader, able to develop a team
+Will demonstrate monster cooking skills with artistic creativity
+Will bring out the best in people
+The right candidate will thrive in our dynamic culture. This position will grow with our brand, the opportunities here are boundless. If you are interested in joining a team that loves what they do, if you want to lead with confidence and compassion, if you are passionate, highly accountable and want freedom to explore your culinary artistry, we would love to hear from you.
+Desired Skills and Experience
+Requirements
+3+ years of management experience in an upscale kitchen
+Strong, creative cooking skills and a developed palate
+Knowledge of systems, methods and processes that contribute to great execution
+Stable, mature approach to team leadership based on mutual respect
+Strong organizational and communication skills
+Preferred Qualifications
+Passion for gardening and small farms
+Passion for finding innovative techniques and ingredients
+Executive Chef experience with a boutique or independent restaurant (a plus)
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="83">
+<TITLE>
+Head Chef/Kitchen Manager 
+</TITLE>
+<DESC>
+As the leader of the dining department, the Head Chef is responsible for the superior culinary experience of all guests. Primary responsibilities include menu planning and recipe development, safety and sanitation, food costs and inventory control, as well as management and training of all culinary team employees.
+Responsibilities:
+Responsible for hiring, training, and developing all culinary team members. Create work schedules for all culinary employees.
+Directly responsible for food control, labor costs, menu development, recipe creation and standardization of recipes. Train staff in proper techniques to ensure consistency and efficiency.
+Responsible for establishing quality standards and proper food presentation.
+Ensure proper equipment operation, maintenance, safety and sanitation policies to be followed at all times in the workplace.
+Achieve complete guest satisfaction. Circulate during meals to connect with guests and provide a superior culinary experience.
+Consistently maintain a positive attitude and support a strong team environment.
+Ensure that all culinary team members are exhibiting a ‘customer first’ attitude in every interaction with guests. Instill an atmosphere of exemplary customer service through personal demonstration and leadership.
+Lead special events on an as needed basis.
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="84">
+<TITLE>
+Head Chef - Graton
+</TITLE>
+<DESC>
+* Hiring, training and discipline of kitchen Team Members * Reviewing and evaluating all kitchen Team Members * Responsible for all kitchen administration * Responsible for cost control * Works with Culinary in developing additional menu items * Ensures consistency and portioning of all food * Responsible for in-restaurant purchasing * Ensures a clean and sanitary kitchen * Ensures upkeep, repair and maintenance of all kitchen equipment
+Required Skills
+* Experience in all stations on the line * Has great decision making skills * Has superb organizational skills * Knowledge of correct portions and positions on plates * Proactive, punctual and a great communicator (must read, write and speak English) * Must be committed to our mission and culture
+Required Experience
+* Must have at least 5 years experience and a Head Chef or Kitchen Manager in an upscale or fine dining restaurant.
+**  Please apply online ONLY.  Do not apply in the restaurant.  No phone calls or emails please.  **
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="85">
+<TITLE>
+Head Chef
+</TITLE>
+<DESC>
+Responsibilities
+• Ensure food meets quality standards
+• Estimate food requirements
+• Oversee the operations of the kitchen
+• Plan and direct food preparation and cooking activities
+• Plan menus and daily specials
+• Prepare and cook meals or specialty foods
+• Recruit and hire staff
+• Supervise activities of chefs
+Education
+• College Diploma/Associate's Degree, culinary arts
+Qualifications
+• 5+ Years experience as a chef
+• 2+ Years experience in a supervisory position
+Skills
+• Creative thinker 
+• Great knife skills
+• Great leadership ability
+• Performs well under stress
+• Works well with others
+• Ability to inspire and lead team
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="86">
+<TITLE>
+Head Chef 
+</TITLE>
+<DESC>
+Directs and oversees the operations of the kitchen, including menu development, inventory, purchasing of supplies, and cost control. Creates and updates menus to maximize profits and minimize loss. Tests and develops recipes. Monitors guest satisfaction.
+Specific Duties Include:
+Recruiting, training, assigning, scheduling, coaching, counseling, and disciplining food production employees. Communicating job expectations and enforcing policies and procedures
+Meets culinary financial objectives; designing menus. Develops recipes and portion specifications, reviewing product specifications; evaluating ease of menu preparation
+Oversees food preparation, portion size; controlling productivity; providing culinary leadership in areas of personal expertise; monitoring presentations, garnishments, and sauces.
+Maintains safe, secure, and healthy work environment by establishing, following, and enforcing standards and procedures; complying with sanitation and federal, state, and local legal regulations; overseeing food preparation, safety, and security.
+Maintains food ingredients, food preparation, and general supplies by selecting and purchasing menu ingredients; evaluating the quality of fresh food and food product deliveries; maintaining general supplies; establishing inventory levels and cost-controls. Maintaining equipment supplies; performing preventive maintenance.
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="87">
+<TITLE>
+Head Chef / Executive Chef
+</TITLE>
+<DESC>
+The Executive Chef (Chef) is responsible for overseeing the day-to-day culinary operations .  This department head ensures the highest quality of food quality for Members and their guests.  The Chef prepares an annual budget and achieves these financial goals throughout the year, through proper forecasting, cost controls and labor management.  S/he coordinates the ordering and monitoring of all food and kitchen wares and the engineering of all menu items to maintain the proper contribution margin.
+The Chef is also responsible for hiring of all kitchen staff and their training/development through education and creative instruction.  By ensuring standardization of recipes and plate presentation for a la Carte venues and catered events, the Chef and his Culinary team deliver a memorable dining experience for all Members and guests.
+The Chef is an advocate and ambassador of Superior Service and understanding the critical role that membership and exceeding expectations play in regards to the success of the operation.
+JOB REQUIREMENTS
+Job Requirements
+Culinary School graduate.
+Two years’ experience as an Executive Chef or equivalent.
+Possesses characteristics that command a presence in the dining room.
+Proven track record of team management, organizational and coaching skills within the Heart-of-the House.
+Solid understanding of a la carte and banquet revenue generation.
+Comprehensive knowledge of expense control as it relates to Heart of the House payroll and the forecasting/budgeting of expenses.
+Experience with purchasing and inventory systems.
+Creative menu development skills.
+Strong technical literacy, including Microsoft Word and Excel, payroll management and point of sale systems.
+Diplomatic team player able to foster relationships with Members, Employee Partners and guests.
+Bilingual (English - Spanish) communication ability preferred.
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="88">
+<TITLE>
+Executive Sous Chef 
+</TITLE>
+<DESC>
+Executive Sous Chef will be responsible for the initial preparation and continued production of all ingredients for menu items including meat, seafood, fresh made pasta and sauces, etc. Ensure high standard of quality in all menu ingredients. Assist Executive Chef in all areas of kitchen operations.
+"Duties: "
+ *Assigning, supervising, coaching, and counseling all kitchen staff.
+ *Adhere and enforce all company rules and policies.
+ *Assist Executive Chef in contributing information to develop strategic plans; completing plans; implementing production, productivity, quality, and customer-service standards; identifying and resolving problems.
+ *Assist Executive Chef in meeting financial objectives by controlling cost, waste and inventory controls.
+ *Maintains safe, secure, and healthy food preparation environment by following and enforcing preparation standards and procedures; complying with sanitation and legal regulations.
+ *Maintains customer confidence and satisfaction by responding to their special requests.
+ *Maintains inventory supplies by assisting Executive Chef in purchasing ingredients; evaluating the quality of food product deliveries; maintaining inventory levels, re-order points, storage requirements, and cost-controls.
+ *Maintains kitchen equipment by following operating instructions; instructing staff in equipment use.
+ *Fill in for Executive Chef as required from time to time.
+"Skills/Qualifications: "
+ *Ability to work in support of the kitchen team.
+ *Professional kitchen experience and knowledge of complex food preparation required.
+ *Ability to lift up to 30 pounds regularly and up to 50 pounds occasionally.
+ *Good decision making, verbal communication skills.
+ *Good customer focus, food sanitation standards.
+ *Ability to emphasizing quality excellence.
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="89">
+<TITLE>
+Executive Chef 
+</TITLE>
+<DESC>
+If you have at least 5 years of full-service, high-volume casual dining kitchen management or sous chef experience, with proven leadership skills managing people and systems, knowledge of and passion for scratch cooking, and thrive on creating the ultimate guest experience, please show us your talent and submit your resume today. Bring your expertise and energy to Keystone Bar & Grill and discover the enriching rewards of joining one of Cincinnati's most vibrant companies.
+Keystone Bar & Grill is a rapidly growing, privately held casual concept, based in Cincinnati, Ohio. Our growing restaurant brand is committed to providing a superior experience and the highest quality customer service for every guest while they relax and sample one of our many craft beers, small batch bourbons or signature cocktails. We offer a menu for lunch, dinner, and weekend brunch, filled with high quality, fresh, made-from-scratch items, including our famous mac & cheese.
+Essential Duties and Responsibilities:
+Effectively manages the Keystone kitchen, including administration of policies and guidelines of the company, ensuring 100% customer satisfaction at all times.
+Ensures proper staffing by scheduling and coordinating the work of chefs, cooks and other kitchen employees to ensure that food preparation is economical and technically correct to meet high standards of quality, and within budgeted labor cost goals.
+Ensures a high level of profitability through closely monitoring food, labor and supply costs.
+Ensures food quality, consistency and efficiency through volume for 100% customer satisfaction. Maintains fast, accurate service, and positive guest relations, while ensuring products are consistent with company quality standards.
+Approves the requisition of products and other necessary food supplies.
+Collaborates with all front-of-house and back-of-house management, and ownership, to ensure that food production consistently exceeds the expectations of guests.
+Evaluates food products and collaborates with food supply partners to ensure that quality standards are consistently attained through the acquisition of the highest quality ingredients and products with a focus on local and family owned businesses.
+Ensures that high standards of sanitation, cleanliness and safety are maintained throughout all kitchen areas at all times. Ensures company safety and security policies, Occupational Safety Health Act, and local health and safety codes are met, in partnership and cooperation with inspectors. Follows and maintains a regular cleaning and maintenance schedule for all kitchen areas and equipment.
+Safeguards all food preparation employees by implementing training to increase their knowledge about safety, sanitation and accident prevention principles. Supports safe work habits and a safe working environment at all times.
+Ensures that representatives from the kitchen attend service lineups and meetings.
+Provides training and professional development opportunities for all kitchen staff.
+Other duties or projects as requested, directed or assigned.
+Skills and Requirements:
+Degree in culinary arts preferred, but not required.
+At least 5 years experience, including Sous chef level or higher in a high-volume, scratch cooking kitchen
+ServSafe Certification
+Systems oriented
+Proven leadership experience
+Hospitality focus with customer-first attitude; team coach with emphasis on culture leadership and commitment to company standards of excellence
+Effective communication and coaching skills to develop and motivate staff
+Knowledge of proper knife techniques
+Work well under pressure and maintain fast, accurate service
+Detail oriented
+Experience managing menu costs and labor
+Knowledge of Microsoft Office, especially Excel, basic computer skills and knowledge of, or ability to learn latest computer technology and working connection with all of company’s programs and systems (Apple Computer preferred). Compliance with company technology requirements is a must.
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="90">
+<TITLE>
+Executive Chef
+</TITLE>
+<DESC>
+The Executive Chef (Chef) is responsible for overseeing the day-to-day culinary operations of the club.  This department head ensures the highest quality of food quality for Members and their guests.  The Chef prepares an annual budget and achieves these financial goals throughout the year, through proper forecasting, cost controls and labor management.  S/he coordinates the ordering and monitoring of all food and kitchen wares and the engineering of all menu items to maintain the proper contribution margin.
+The Chef is also responsible for hiring of all kitchen staff and their training/development through education and creative instruction.  By ensuring standardization of recipes and plate presentation for a la Carte venues and catered events, the Chef and his Culinary team deliver a memorable dining experience for all Members and guests. 
+The Chef is an advocate and ambassador of STAR Service and understanding the critical role that membership and exceeding expectations play in regards to the success of the operation.  
+Job Requirements
+Culinary School graduate.
+Two years experience as an Executive Chef or equivalent.
+Possesses characteristics that command a presence in the dining room.
+Proven track record of team management, organizational and coaching skills within the Heart-of-the House.
+Solid understanding of a la carte and banquet revenue generation.
+Comprehensive knowledge of expense control as it relates to Heart of the House payroll and the forecasting/budgeting of expenses.
+Experience with purchasing and inventory systems.
+Creative menu development skills.
+Strong technical literacy, including Microsoft Word and Excel, payroll management and point of sale systems.
+Diplomatic team player able to foster relationships with Members, Employee Partners and guests.
+Bilingual (English - Spanish) communication ability preferred.
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="91">
+<TITLE>
+Kitchen Manager/Executive Chef 
+</TITLE>
+<DESC>
+Our Chefs are responsible for optimizing profits by controlling food cost, production, labor and increase sales through food quality, speed of service, and food preparation to specifications in the back-of-the-house. Supervises the execution of and oversees all kitchen operations, ensuring Kona Grill's standards of quality and service are met and that the kitchen provides nutritious, safe, eye-appealing, properly flavored food, while maintaining a safe and sanitary work environment for all employees.
+Duties and Responsibilities:
+Planning and organizing
+Studies past sales experience records, confers with the general manager, keeps alert to holidays and special events, and so on; forecasts loads and prepares work schedules for service employees in advance to meet requirements.
+Observes guest reactions and confers frequently with servers to determine guest satisfactions, dissatisfactions, relative popularity of menu items, and so on, and reports such information with recommendations to the manager.
+Observes daily the condition of all physical facilities and equipment in the kitchen, making recommendations to the general manager for correction and improvements needed.
+Anticipates all material needs and supplies, and assures availability of the same.
+Inspects, plans, and assures that all personnel, facilities and materials are in complete readiness for excellent service before each meal period.
+Anticipates employment needs, recommending to the general manager plans for recruitment and selection to meet needs as they arise.
+Discusses in advance menu changes with managers to assure full understanding of new items.
+Conducts meetings of education on continual safety training and changes to the health code.
+Coordinating
+Periodically discusses and reviews with employees company objectives, guest and personnel policies.
+Keeps the general manager informed at all times as to service activities, progress, and major problems.
+Supervising
+Actively participates in employment of new back of house persons; suggests recruitment sources; studies applications; checks references; and conducts interviews.
+Following an orientation outline, introduces new employees to the restaurant, restaurant policies, and fellow employees.
+Using a training plan, trains new employees, also current employees in need for training.
+Corrects promptly any deviations from established preparation standards.
+Counsels with employees on job personal problems.
+Recommends deserving employees for promotion and outstanding performers for special recognition and award.
+Strives at all times through the practice of good human relations and leadership to establish teamwork, unity of effort, and individual and group pride.
+Has a responsibility to maintain and deep a keen and constant alertness to the entire kitchen situation, sensitivity to and deviation or problem, and to assist quickly in its correction.
+Controlling
+Controls according to establish policies, standards, and procedures employees-performance, conduct, dress, hygiene, sanitation, and personal appearance.
+Studies all evidence of waste – time, materials, and marketing recommendations for prevention.
+Credentials and Experience:
+Ability to establish, maintain and enforce consistently high performance standards.
+Capable of adapting his/her leadership style to a variety of situations and scenarios
+Ability to supervise, coach, develops, lead & motivate employees.
+Demonstrates a genuine enthusiasm and warmth towards the Guest and attitude of Service. Is self-motivated and competitive. Is driven to grow and develop personally while developing those around them.
+Ability to communicate effectively, both verbally and in writing. Ability to listen effectively, process information quickly, and transfer knowledge to others in accordance with Company values of Trust, Respect & Commitment to Excellence.
+Provides employees with the orientation and training needed to understand expectations and perform job responsibilities
+Communicates performance expectations and provides employees with on-going feedback
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="92">
+<TITLE>
+Executive Chef
+</TITLE>
+<DESC>
+ Responsible for the preparation and service of various foods in assigned work situations including pantry items, salads, soups, sauces, and with pre-preparation of ingredients for entrees.
+• In charge of training and managing kitchen personnel as well supervise/coordinate all related culinary activities. 
+• Estimate food consumption and requisition or purchase food.
+• Select and develop recipes.
+• Standardize production recipes to ensure consistent quality. 
+• Establish presentation technique and quality standards.
+• Clean and sanitize production equipment, work surfaces and kitchen according to cleaning schedules and procedures.
+• Oversee special catering events and may also offer culinary instruction and/or demonstrate culinary techniques.
+• Handle food in a manner that is consistent with local health department guidelines.
+• Ensure proper safety and sanitation in kitchen. 
+• Maintain acceptable standards of personal hygiene.
+• Comply with department’s dress code.
+• Ensure safety regulations, reports injuries and prevent unsafe conditions and work practices. 
+• Ensure as well proper use of equipment operation/maintenance.
+• Directly supervises kitchen personnel with responsibility for hiring, discipline, performance reviews and initiating pay increases.
+• Attend in-service training and education sessions as assigned. 
+• Performs additional responsibilities as requested by the General Manager.
+Requirements	
+Requirements: 
+• Must have at least 5+ years of experience.
+• Serv Safe Certified is a must.
+• Possess extensive understanding a professional kitchen use. 
+• Ability to plan, organize and direct the activities of kitchen staff effectively. 
+• Able to read, write, speak and understand the English language.
+• Must be able to follow oral and written instructions.
+• Fundamental understanding of sanitation, cleanliness and personal hygiene.
+• Ability to work well in a fast paced high volume environment. 
+• Attention to detail, ability to multi-task and time management skills.
+• Requires moderate physical efforts: standing, carrying, bending, stretching, stooping, pulling and pushing, lifting of weights up to 50 pounds.
+• Working conditions involve, noise, heat, changes in temperature, kitchen elements, odors, moisture, etc.
+• May be required to work additional hours as dictated by the work load and staffing.
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="93">
+<TITLE>
+Executive Chef
+</TITLE>
+<DESC>
+The Restaurant Manager is responsible for all functions on an opening, mid or closing shift to include guest relations, supervision of all staff and staffing levels, proper restaurant ambience, food & beverage quality and safety. The Manager ensures that the shift is run in a smooth manner and attends to any unexpected problems or emergencies that may arise. The Manager is responsible for staffing, scheduling, financial goals and staff development.
+The Culinary Manager is responsible for all culinary functions on an opening, mid or closing shift to include guest relations, supervision of all staff and staffing levels, proper restaurant ambience, food & beverage quality and safety. The Culinary Manager selects, hires, trains and supervises the culinary staff. The Culinary Manager manages food inventories, labor and sanitation and keeps all equipment in shipshape. The Culinary Manager helps every team member provide guests with top-quality food that's always perfectly prepared and presented.
+The General Manager demonstrates leadership and expertise in all of the above. The GM is responsible for all restaurant operations in conjunction with Culinary Manager. GMs oversee two to three managers and greater than 75 hourly team members.
+JOB REQUIREMENTS
+FOH Staffing
+•     Sets the standard for service expectations by scrutinizing every aspect of the guest's experience from start to finish.
+•     Positively coaches team members to achieve the highest quality of service in all areas of the restaurant.
+•     Supports and works well with all members of the management team.
+•     Communicates with team members, managers using open communication.
+•     Demonstrates a positive attitude with staff.
+•     Demonstrates skill and care when selecting, orienting, training, coaching, appraising and progressive discipline of staff.
+•     Works with managers, team members and HR on disciplinary matters and issues.
+•     Cross trains and develops staff to provide opportunities for growth and advancement.
+•     Successfully resolves guest problems to ensure the guest's happiness.
+•     Takes responsibility for growth and development by setting goals and seeking out knowledge.
+•     Maintains good energy and positive image to guests and staff during the shift.
+BOH Operational Excellence
+•     Conducts daily line checks for food quality freshness and standards at the beginning of each shift.
+•     Manages expo to ensure food quality, recipe adherence and proper plate presentation.
+•     Corrects any food or beverage problems before they reach the guest.
+•     Demonstrates thorough recipe knowledge and awareness of food and beverage quality.
+•     Uses opening and closing checklists at each shift.
+•     Follows shift plan and conducts pre-shift meetings with staff.
+•     Makes adjustments to staffing levels as needed to achieve labor goals.
+•     Achieves and maintains a clean and sanitary environment throughout the restaurant.
+•     Demonstrates and promotes safety awareness.
+•     Achieves financial goals for the assigned area without compromising food or beverage quality and service.
+•     Demonstrates solid knowledge of Policies and Procedures, proper use of forms, payroll procedures, reports, local applicable employment laws and employee file maintenance. 
+Qualifications
+•     Minimum 3 years as a manager in a full service restaurant.
+•     High school equivalency required
+•     Must possess strong leadership skills.
+•     Solid track record of success in previous assignments demonstrating upward career tracking.
+•     Strong communication skills, both verbal and written, Bilingual a plus.
+•     Perform basic math and understand finances and cost management
+•     Must be dependable, reliable and motivated.
+•     Able to work ten hour-plus shifts, with extensive standing/walking.
+•     May lift materials and/or product up to 50 pounds or more.
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="94">
+<TITLE>
+Executive Sous Chef
+</TITLE>
+<DESC>
+Exhibits culinary talents by personally performing tasks while leading the staff and managing all food related systems
+Current with culinary concepts, practices and procedures
+Ability to estimate food consumption and requisition or purchase food
+Will select and develop recipes; standardize production recipes to ensure consistent quality and establish presentation technique and quality standards
+Supervises and carries out the correct procedure of preparation, presentation and portion control for all raw and cooked foods in accordance with the menu with adequate pars required for efficient service
+Supervises all kitchen areas to ensure a consistent, high quality product is produced- daily line checks and quality control
+Works with the Executive Chef to establish result oriented objectives for the kitchen as well as personal objectives in regards to professional development
+Ensures the profitability and successful operation of the kitchen
+Controls direct labor costs associated with the kitchen staff-creates weekly schedules, ensuring productivity levels are maximized through the effective utilization of all colleagues and providing hands-on support as required
+Plan and price menus
+Ensure proper equipment operation and maintenance
+Ensure proper safety and sanitation in kitchen
+Must be able to prepare selected items or for selected occasions
+Develop recipes and portion specifications in accordance with consumer tastes, nutritional needs, product specifications, ease of preparation and established procedures and budgetary constraints
+Desired Qualifications:
+Has five to seven (5-7) years of experience in a supervisory role in a restaurant kitchen; Sous Chef preferred
+Must be at least 21 years of age or older
+Experience with Culinary Unions and Collective Bargaining Agreements preferred
+Must be able to obtain all work cards
+Must have strong leadership skills and the ability to mentor and energize a diverse team of culinary professionals
+Must have excellent organizational skills, ability to function under time constraints, expedite and meet deadlines with attention to detail
+Must be able to work in a fast- paced, customer service driven environment
+Current experience in the hospitality industry in a kitchen 
+Active in furthering of his/her own culinary development
+Supports an environment of colleague growth and development
+Clear concise written and verbal communication skills
+Culinary degree preferred
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="95">
+<TITLE>
+Executive Chef
+</TITLE>
+<DESC>
+Responsible to oversee all culinary operations (food quality, preparation, and sanitation) including menu development in all restaurant venues including Burger Bar, Bistro Buffet, 24 Seven Café, Room Service, Banquets and Team Member Dining Room.
+ESSENTIAL FUNCTIONS AND RESPONSIBILITIES: 
+Align operational objectives with Palms strategic plans, and lead team to accomplish results.
+Communicate expectations and monitor performance and delivery; hold Team Members accountable for results.
+Provide individual support, training, coaching and counseling and recognition to management and line Team Members for ongoing development.
+Administer company policies and procedures in a fair and consistent manner.
+Manage the delivery of excellent guest service consistent with Palms service standards.
+Effectively respond to and resolve guest and Team Member concerns in a sincere and timely manner.
+Manage departmental revenues and expenses to achieve targets, including labor productivity.
+Direct duties of all kitchen staff to maintain the highest standards of food quality and productivity.
+Manage to targeted food costs.
+Drive down costs through continuous product analysis, yield tests, buying strategies and optimizing seasonal products.
+Stay abreast of competitive market trends and implement new menu options, recipes, and presentation ideas as appropriate.
+Ensure sanitation and health standards are maintained throughout all kitchen areas.
+Coordinate food purchasing with purchasing/receiving department to ensure quality of products received.
+EDUCATION and/or EXPERIENCE:
+  Required:
+At least three (3) years of similar Food and Beverage experience.
+Associates Degree in Culinary Arts or recognized formal certified training program from a National Association.
+Working knowledge of health, safety and sanitation procedures.
+Working knowledge of weights and measures and various cooking techniques.
+Must be able to provide own tools
+High school diploma or equivalency.
+Must be able to read, write and speak English.
+  Preferred:
+Previous casino and or hospitality experience.
+Competencies and Working Conditions:
+KNOWLEDGE/SKILLS/ABILITIES:
+Must be able to lift and carry 50 pounds
+Must be able to work inside a kitchen and on lines during entire shift.
+Must have the ability to calculate numbers and solve complex mathematical problems.
+Must have the proven ability to cook and create new, innovative and imaginative recipes.
+Excellent interpersonal, customer service, communication skills.
+Must be able to maneuver to all areas of the casino, including all food and beverage service areas. 
+Must be able to work inside a kitchen and on lines during entire shift.
+Must have the ability to calculate numbers and solve complex mathematical problems.
+Job requires, on occasion, to work beyond normal duty hours due to emergencies or high priority work.
+Must be able to tolerate areas containing secondary smoke, strong chemicals and odors.
+Bend, stoop, crouch, crawl, reach, kneel, twist and grip items.
+Stand and walk for long periods of time.
+Maneuver up and down stairs.
+Respond to visual and aural clues.
+Must be able to work in an environment with a high noise level.
+Must be able to work at a fast pace and in stressful situations.
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="96">
+<TITLE>
+Executive Sous Chef
+</TITLE>
+<DESC>
+This position is responsible for assisting the Executive Chef with overseeing culinary functions for a cafe and catering venue. You will manage and lead a team of associates and oversee all safety and sanitation as it pertains to the account. Additionally, as part of the culinary team, you will be responsible for the following:
+Responsibilities:
+Assist the Executive Chef with managing cost controls and control expenditures for the account.
+Assist the Executive Chef with planning and creating menus.
+Execute production under the direction of the Executive Chef.
+Serve as the department head in the absence of the Executive Chef.
+Assist in menu development, inventory, ordering/purchasing, food cost controls, training, sanitation, and personnel management to include hiring, firing, counseling, coaching and developing.
+Oversee all aspects of kitchen operations including: sanitation, production, managing associates
+Produce and execute catering events.
+Roll out new culinary programs in conjunction with WPC marketing and culinary team.
+Qualifications:
+Culinary degree preferred.
+Three years of culinary supervisory experience.
+High volume production and catering experience is essential.
+Excellent knowledge of current food trends
+Previous experience managing cost controls.
+Servesafe Certified.
+Desire to learn and grow with a top notch foodservice company.
+Great People. Real Opportunities.
+Achieving leadership in the foodservice industry
+Compass Group North America is a diversity growth-oriented organization. 
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="97">
+<TITLE>
+Executive Sous Chef
+</TITLE>
+<DESC>
+The Executive Sous Chef is responsible for overseeing the daily job responsibilities for line cooks and prep cooks in order to produce all the necessary products for Chef’s Case, Cafe on the Run, and Catering. Assist in scheduling all necessary partners in order to produce the required products within the budgetary guidelines. Maintain a clean and sanitary work area throughout the kitchen, walk-ins and storage areas.
+Requirements:
+--Minimum 3 yrs. experience as a Sous Chef
+--Proven Leadership experience in a complex environment with multiple direct reports
+--Professional culinary training or equivalent work experience
+--Excellent customer service skills
+--Assist in new product development and menu costing
+--Excellent communication and organization skills
+--Experience in ordering, inventory maintenance, and shrink control
+--Proficiency with automated reporting systems including, but not limited to; Inventory, Food Cost,   Scheduling, Time & Attendance and labor preferred
+--Ability to maintain an efficient operation and troubleshoot and report any malfunctions of equipment
+--Ability to supervise, train, and cross-train kitchen staff
+--Maintain sanitation standards throughout the work area
+--Ability to work a flexible schedule, including opening, closing, and weekend shifts.
+--Responsible for total kitchen production in absence of the Executive Chef.
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="98">
+<TITLE>
+EXECUTIVE CHEF 
+</TITLE>
+<DESC>
+Overall Purpose: Responsible for all food and pastry production including that used for restaurants, banquet functions and other outlets. Develops menus, food purchase specifications and recipes. Supervises production and pastry management staff. Develops and monitors food and labor budget for the department. Maintains highest professional food quality and sanitation standards.
+Duties and Responsibilities:
+The Executive Chef shall:
+Develops recipes and techniques for food preparation and presentation which help to assure consistent high quality and to minimize food costs; exercises portion control over all items served and assists in establishing menu selling prices
+Track menu prices and input recipes into Ben E Keith Menu Manager
+Hires, trains and supervises the work of management staff in the food and pastry production departments
+Plans menus for all restaurant outlets in the club considering guests, marketing conditions, popularity of various dishes, holidays, costs and a wide variety of other factors
+Schedules and coordinates the work of chefs, cooks and other kitchen employees to assure that food preparation is economical and technically correct
+Approves the requisition of products and other necessary food supplies
+Ensures that high standards of sanitation and cleanliness are maintained throughout the kitchen areas at all times.
+Establishes controls to minimize food and supply waste and theft
+Safeguards all food preparation employees by implementing training to increase their knowledge about safety, sanitation and accident prevention principles
+Develops recipes and techniques for food preparation and presentation which help to assure consistent high quality and to minimize food costs; exercises portion control over all items served and assists in establishing menu selling price
+Prepares all necessary data for the budget in his/her areas of responsibility; projects annual food and labor costs and monitors actual financial results; takes corrective action where necessary to help assure that financial goals are met
+Consults with the banquet function committee about food production aspects of special events being planned
+Cooks or directly supervises the cooking of items that require skillful preparation
+Evaluates food products to assure that quality standards are consistently attained
+Interacts with Banquet Manager to assure that food production consistently exceeds the expectations of members and guests
+Plans and manages the employee meal program
+Skills and Educational Requirements:
+Minimum of 5 years experience as Executive Chef in private club or hotel environment
+Formal culinary education or apprenticeship from accredited institution
+Physical and Time Demands:
+The ability to work full-time & split shifts
+The ability to frequently use a POS and Jonas
+The ability to stand for long periods of time
+Experience in all aspects of food preparation and kitchen operation
+Ability to construct well-balanced menus
+Knowledge of food and labor costs
+Supervisory and organizational skills
+Knowledge of health department regulations
+Good organizational communication and people skills
+Must be able to deal with pressures of deadlines, erratic schedule, frequent interruptions, and multiple projects or tasks at the same time
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="99">
+<TITLE>
+Executive Sous Chef Pastry & Baker
+</TITLE>
+<DESC>
+As our Executive Sous Chef Pastry & Bakery you will be a part of our exciting, high-volume shipboard Pastry & Bakery operation and oversee its multicultural world-class team. You will be responsible for managing the culinary activities of our state of the art kitchens while executing international cuisine for multiple venues. In addition, you will have the opportunity to travel the world while working for a top global employer of choice.
+Career snapshot: 
+•Oversight and execution of culinary operations to deliver quality cuisine and create a superb dining experience, thereby ensuring guest satisfaction
+•Collaborate with the Executive Chef to forecast  and manage menu requirements for the main and specialty restaurants buffets
+•Manage and train large culinary staff to ensure performance standards are met on a consistent basis
+Qualifications
+Requirements:
+•Culinary school degree required from an accredited culinary or hotel school
+•Five years’ experience as Pastry Chef on cruise ships or Three years’ experience as an Executive Pastry Chef in an upscale hotel with large convention/banquet facilities
+•Strive for the highest food quality, constantly thrive to upgrade the product, stays up to date with industry trends promoting team creativity with leading by sample approach
+•Understands the financial aspects of a food operation including the successful identification of expense reduction through cost control maintaining quality and standards
+•Ability to speak, read and write English clearly and distinctly with guests and employees
+•Enforce HACCP procedures for sanitation and cleanliness
+•All international applicants must have the ability to obtain C1/D visa (and other relevant visas) when applicable
+•Must meet all physical requirements, including the ability to participate in emergency life-saving drills and required training
+Preferences:
+•Ability to work with inventory related software (crunch time, etc)
+•Ability to speak, read and write multiple languages is a plus
+•Cruise ship experience and USPH knowledge
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>
+<JOB GROUP_ID="100">
+<TITLE>
+Executive Chef
+</TITLE>
+<DESC>
+Responsible for the quality assurance of all finished products of food production, cost of food, ordering of food to par, and sanitation in compliance with health department.  Will assist the Hospitality Director in overseeing all operations as they pertain to the kitchen with special emphasis of food quality and consistency. This is a hands on position.
+ESSENTIAL DUTIES AND RESPONSIBILITIES include the following:
+Work duty stations as needed.
+Will train and develop, counsel and conduct performance evaluations for all kitchen personnel.  Will initiate disciplinary actions up to and including termination for all kitchen employees and consistently document employee discipline concerns while keeping Hospitality Director informed.
+Prepare weekly kitchen schedules and submit labor projections to the Hospitality Director
+Establish and provide an on-going training program covering all aspects of the kitchen.
+Maintain sanitation standards as outlines by the Department of Health. (I.e. HACCP, SERVE SAFE, etc.)
+Maintain a proper par stock level on all food, china, paper, cleaning products, and small wares, and complete all foods inventory at the end of each month and insure inventory costing is accurate and updated.
+Work closely with Hospitality Director to identify potential vendors and negotiate prices of all products.
+Control and monitor all labor costs on each shift.  Responsible for checking the methods of food production, sizes, portioning, and garnishing of food.
+Will maintain a recipe book of all production items and monitor its’ proper use.
+Maintain quality standards in all food production areas.
+Perform daily inspections of staff to maintain uniform and hygiene standards.
+Hold pre-shift and monthly meetings to maintain and improve upward and downward communications.  Will prepare information for meetings that pertain to kitchen operations.
+Establish daily supervisor’s logbook.
+Coordinate and work with other staff on special events as they pertain to the kitchen, restaurant, snack bar, casino bar, and banquets.
+Work with the Hospitality Director and Inventory Control Steward to maintain budgeted food cost.
+Work with the Inventory Control Steward to keep monthly controllable expenses with in budget
+Will complete Kitchen and utility schedules on a timely basis for the kitchen.
+Will participate in monthly food inventories as needed.
+Maintains a check book system to control all expenses on a monthly basis.  Works with the Food & Beverage Manager on controlling monthly expenses.
+Participate in the preparation of the annual departmental operating budget and financial plans. 
+Hold pre-shift and monthly meetings to maintain and improve upward and downward communications.  Will prepare information for meetings that pertain to kitchen operations.
+Coordinate and work with other staff on special events as they pertain to the kitchen, restaurant, snack bar, casino bar, and banquets
+Will participate in monthly food inventories as needed.
+Work with the Hospitality Director and Inventory Control Steward to maintain budgeted food cost.
+Manage day-to-day staffing requirements, plan and assign work and establish performance and development goals for team members. Provide mentoring, coaching and regular feedback to help manage conflict and improve team member performance.
+Manage day-to-day staffing requirements, plan and assign work and establish performance and development goals for team members. Provide mentoring, coaching and regular feedback to help
+Shall perform any other duties as assigned.
+SUPERVISORORY RESPONSIBILITIES:
+Supervises all Kitchen employees. Carries out supervisory responsibilities in accordance with the organization’s policies and applicable laws.  Responsibilities include interviewing, hiring, and training employees; planning, assigning, and directing work; appraising performance; rewarding and disciplining employees; addressing complaints and resolving problems.
+Requirements
+GAMING INDUSTRY EXPERIENCE IS PREFERRED 
+QUALIFICATION REQUIREMENTS:
+To perform this job successfully, an individual must be able to perform each essential duty satisfactorily. The requirements listed below are representative of the knowledge, skill, and/or ability required.  Must deal with various situations in a positive manner, and shall possess the ability to react quickly to stressful situations without losing his/her composure.  Must be 21 years of age or older.  Must have the ability to work all shifts including weekends, and holidays as business demands require.  Must possess and maintain a valid Driver’s License.  Must be able to be approved for and maintain a valid gaming license.  Preference given to qualified Menominee or other Native American applicants.
+EDUCATION and/or EXPERIENCE:
+High School diploma or GED required.  Associate Degree in Culinary Arts or related field required. ACF certification preferred. Minimum of three to six years previous experience as a Chef  or Sous Chef in a full-service restaurant, casino or hotel, with progressive supervisory experience.  Casino experience preferred. Wisconsin Serv-Safe certification required.
+SPECIAL QUALIFICATIONS:
+Strong interpersonal and communication skills required.
+Must have a valid Wisconsin driver’s license with a good record.
+Wisconsin Certified Restaurant Managers certificate, and  Serv-Safe certificate within 120 days of employment.
+Must have computer skills and can use Windows Outlook 2010 along with Microsoft word  and Microsoft Excel.
+REASONING ABILITY:
+Ability to define problems, collect data, establish facts, and draw valid conclusions.  Ability to interpret an extensive variety of technical instructions in mathematical or diagram form and deal with several abstract and concrete variables.
+PHYSICAL DEMANDS:
+The physical demands described here are representative of those that must be met by an Employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+While performing the duties of this job, the Employee is regularly required to use hands to finger, handle, or feel objects, reach with hands and arms; and talk or hear. The Employee frequently is required to stand and walk.    
+Specific vision abilities required by this job include close vision, distance vision, color vision, peripheral vision, depth perception, and the ability to adjust focus.
+The employee is frequently required to lift up to 50 pounds.
+WORK ENVIRONMENT:
+The work environment characteristics described here are representative of those an Employee encounters while performing the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+</DESC>
+<TAG>
+130201
+</TAG>
+</JOB>

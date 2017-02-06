@@ -1,0 +1,2313 @@
+﻿<JOB GROUP_ID="1">
+<TITLE>
+HOST/HOSTESS 
+</TITLE>
+<DESC>
+HOST/HOSTESS – Ensures that Restaurant Guests have a memorable experience by delivering quality service to exceed guest expectations. Greets Guests approaching or arriving in the Restaurant to determine their needs and escorts them to their tables or a waiting area. Is aware of and supports Servers when needed or requested. Consistently creating a positive guest experience is critical in this role as Guests may be waiting to be served. Attentive to Guest needs and makes them feel welcome, comfortable, important and relaxed. Responds to questions, and resolves problems. Previous guest service experience; speak English fluently and be able to write in basic English; positive interpersonal skills; enthusiastic, outgoing personality; excellent oral communication and customer service skills; standing and/or walking for long periods of time; work a varying schedule to include evenings, holidays and extended hours.
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="2">
+<TITLE>
+Host/Hostess
+</TITLE>
+<DESC>
+Position Summary: 
+Warm, friendly, immediate greet to guests at the door. Seats, and presents clean menus to guests in a friendly, professional, and quick manner. 
+Major Responsibilities: Primary duties and responsibilities include, but are not limited to, the following:
+1. Able to promote a welcoming environment for every guest. 
+2. All guests must be treated in a manner to ensure their complete satisfaction. Always strive to exceed our guest’s expectations. 
+3. Able to interact with guests in a friendly and fast manner
+4. Complete and pass Kerbey Lane training program
+5. Greets and seats guests, presents clean menus to guests, informs them of a special. 
+6. Take names on a waiting list
+7. Able to organize a seating rotation
+8. Observes tables and keep track of clean, dirty or occupied tables
+9. Takes guest information and quotes a wait time to guests accurately when tables are not immediately available 
+10. Converses with guests while leading to table
+11. Cleans, organizes and stocks menus at host area
+12. Maintain restroom cleanliness throughout the shift
+13. Answers phone and answers questions concerning the menu and restaurant
+14. Assists with the duties of servers or bussers as appropriate; pre-bussing tables, refilling coffee, or rolling silverware.
+15. Maintain specific side-work and ensure total cleanliness and smooth operation of the restaurant. 
+16. Follow management’s instructions and suggestions
+17. Reports to work in a neat and clean uniform. Well-groomed hair and personal hygiene are essential. 
+18. Maintains personal health and sanitation standards, which includes following the Double Hand Washing Policy. 
+19. Warm, friendly good-bye to every guest leaving the restaurant. 
+20. Communicates with bussers, servers, and managers and assists in an entire team effort
+21. All other duties as directed. 
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="3">
+<TITLE>
+Breakfast Host / Hostess
+</TITLE>
+<DESC>
+The Breakfast Host / Hostess will have the opportunity to provide prompt, courteous, and friendly guest service. The Host/Hostess is involved with preparing breakfast according to operational policies and hotel and brand standards. This team member will understand and apply all hotel and brand safety and security procedures and local, county and/or city health department standards. Also, the Host/Hostess will enjoy attending to guests' needs to ensure food and beverages are continually replenished and presented in an appealing manner. What does our hotel offer to you as a new team member? * A company culture that focuses on its people * A fun, supportive work environment * Opportunities for personal and professional growth and development * Competitive compensation, bonus program and comprehensive benefits * Great worldwide hotel brand room rate discounts
+Requirements:	
+The ideal Host / Hostess will present the following: * Strong oral and interpersonal skills * Ensure guests are treated with courtesy and a smile whenever encountered * Demonstrate a team player approach to ensure a smooth hotel operation * Follow instructions of daily projects and procedures We are looking for a team of A Players. The right candidate for our hotel is an individual who demonstrates and exemplifies the following: * A true passion for the hospitality business * Commitment to exceptional guest service * A fun, positive attitude with a sense of humor
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="4">
+<TITLE>
+Host-Assess
+</TITLE>
+<DESC>
+Our Hosts greet and seat all arriving guests and acknowledge all departing guests in a friendly manner and assist in maintaining the overall guest flow of the restaurant. Our hosts provide the guests’ first and last impression. This position requires no previous experience but a great personality is a must. This position requires you to stand and exert well-paced mobility for periods of up to 8 hours in length and be able to lift 10 to 20 pounds.
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="5">
+<TITLE>
+Dining Room Host I
+</TITLE>
+<DESC>
+Hosts will courteously greet and escort guests to tables and assist in seating, ensuring Biltmore standards of service.  Additional duties will include: maintaining flow of seating by section throughout serving period; assisting in preparing the restaurant for service and maintaining the cleanliness of the room at all times; answering the telephone, taking reservations and maintaining the reservations scheduling online; and assisting in monitoring the guests’ needs and all phases of the operation.
+Requirements	
+·         Previous customer/guest service experience strongly preferred.  The ideal candidate will have had previous food and beverage experience in the same or similar role in a full-service restaurant, preferably in an upscale service setting.
+·         Excellent communications skills, both verbal and written.
+·         Demonstrated commitment to providing world class guest service and the ability to work effectively as part of a service oriented team.
+·         Ability to think clearly and quickly in a fast-paced environment; must be able to exercise good judgment and maintain composure in pressure situations.
+·         Familiarity with and/or the ability to quickly become proficient with reservations software.  Knowledge of Open Table reservations system helpful.
+·         Perform job functions with attention to detail, speed and accuracy.
+·         Basic math skills and the ability to handle cash and credit transactions as needed.
+·         Ability to be proactive and take initiative where appropriate.
+·         Ability to present a professional image, in both appearance and demeanor, and handle guest situations in a manner consistent with Biltmore standards.
+Physical Requirements: 
+·         Ability to lift up to 25 pounds on a regular basis and lift/push/pull up to 50 pounds occasionally.
+·         Endure various physical movements (stoop, kneel, bend, reach overhead, etc.) throughout work areas and over duration of work shift.
+·         Ability to remain ambulatory or in stationary position throughout work shift.
+·         Exposure to fumes, dust and chemicals
+·         Ability to work indoors and outside in an environment that may include variable temperature conditions and noise levels.
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="6">
+<TITLE>
+Host 
+</TITLE>
+<DESC>
+Every Guest that chooses Ruby Tuesday is greeted by the Host with a warm smile and a personal welcome. The Host seats the Guest in the dining room. The flow of business throughout the dining area is controlled by the use of the wait sheet and the front door display system. These practices ensure prompt guest service, as well as manage the flow of orders into the kitchen.
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="7">
+<TITLE>
+Host
+</TITLE>
+<DESC>
+Work in a team-oriented, high-volume, fast-paced, guest-centric environment to provide a dining experience to guest which distinguishes our restaurants as being the unquestionable first-choice.
+Demonstrating genuine hospitality and setting the stage for an exceptional dining experience by making every single guest feel welcome at the door and
+• Engaging in friendly conversation as you seat guests in a timely fashion
+• Introducing guests to their server
+• Managing restaurant waiting list during high volume to accurately set guest expectations
+• Always sincerely thanking guests as they leave and inviting them to return
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="8">
+<TITLE>
+Host/Hostess 
+</TITLE>
+<DESC>
+This position will ensure all guests are greeted and seated in a friendly and courteous manner. 
+Responsibilities: 
+Greet guests when entering the restaurant with a pleasant smile and superior customer service
+Seat guests by finding a clean, available table, pulling out chairs, and placing clean menu in front of guest
+Answer phone and record reservations for large parties
+Control high volume outside of restaurant
+Monitor dining rooms for seating availability, service, safety and well being of guests
+Assist servers when needed
+Thank every guest upon departure, invite them to return, and wish them a fond farewell
+Job Requirements
+Must have strong verbal and written communication skills
+Prior host experience preferred
+Must be able to multi task
+Must be able to stand and walk for an extended period of time or for an entire shift
+Must be able to move, lift, carry, push, pull, and place objects weighing up to 10lbs without assistance
+Must be able to work flexible shifts including nights, weekends, and holidays
+Must have alcohol training certification (TABC/TIPS)
+Must have Food Handler permit (where applicable)
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="9">
+<TITLE>
+Host 
+</TITLE>
+<DESC>
+The Host is the Face of Kome, and the Server Assistants are the hands.
+As the host at Kome you are responsible for receiving the guest warmly, and getting them settled in properly. This person must possess the following qualities and experience in order to be considered:
+-Minimum of 1 year in the restaurant/hospitality industry
+-Must be positive, friendly, coachable and open minded
+-Experience with high volume/ high traffic environments
+-Ability to multi-task and prioritize during slow times, as well as times of high volume
+- Ability to resolve problems/conflicts in a diplomatic and tactful manner
+-Ability to work independently by being self-motivated and assertive
+-Have a “Guest first” service oriented mentality
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="10">
+<TITLE>
+Host / Hostess
+</TITLE>
+<DESC>
+NO VA Kitchen & Bar is a full service restaurant located in the heart of the Rainey Street District, serving dinner Tuesday – Saturday with brunch on Sunday. We feature a seasonal, chef driven menu as well as craft cocktails with house made mixers.
+* Full-time enthusiastic, cheerful, and motivated host / hostess
+* Social and able to handle customers in a pleasant way in all circumstances
+* Plus consideration for a higher paying host training position for well qualified applicants
+* Prior host experience required
+* Must have reliable transportation
+* TABC certified before starting work
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="11">
+<TITLE>
+Host
+</TITLE>
+<DESC>
+Our Hosts are responsible for the initial greeting and seating of Guests, answering phones, taking reservations, maintaining an accurate wait when necessary and bidding farewell to all Guests. They are the first and last impression of Maggiano’s to our Guests. What do you think? Sound like your cup of espresso? Around here we say our purpose is to bring people together to celebrate the love of family and friends. If it sounds like we have our own way of looking at the world, you're right! We call it The Maggiano's Way, and it means odds are you get us and we want to meet you… now!
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="12">
+<TITLE>
+Host/Cashier
+</TITLE>
+<DESC>
+Are you a people person ---- outgoing, enthusiastic, energetic, and dedicated to delivering exceptional customer service? Do you have a passion for the restaurant industry and a genuine desire to serve others with a warm smile? If so, we'd like to meet you! Zoës offers a great opportunity to grow your hospitality career with a successful and exciting organization.
+As a Host/Cashier, your job will include:
+•	greeting customers
+•	entering orders into the POS
+•	checking orders for quality and accuracy
+•	delivering food to tables
+•	clearing and cleaning tables
+•	various side-work
+QUALIFICATIONS/SKILLS/KNOWLEDGE
+•	Ability to communicate with guests and employees using a positive and clear speaking voice, listen to and understand requests, respond with appropriate actions and provide accurate information.
+•	Must be competent with computerized register system (POS) and have good cash handling skills.
+•	Must be of legal age according to State regulations to serve alcohol.
+•	Must possess applicable health and/or alcohol compliance certification.
+PHYSICAL/MENTAL REQUIREMENTS
+Performs duties that require standing, fast movement throughout the dining room, kitchen and serving area. Walks and stands during the entire shift. Position requires reaching, bending, lifting, carrying, stooping and wiping. Handles multiple priorities, works under stress and exercises good judgment when dealing with guest situations and complaints.
+WORK CONDITIONS/HOURS
+Hours will vary and may include early mornings, late evenings, weekends and/or holidays.
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="13">
+<TITLE>
+Host
+</TITLE>
+<DESC>
+Work in a team-oriented, high-volume, fast-paced, guest-centric environment to provide an Exceptionally Distinctive Guest Experience by:
+Demonstrating genuine hospitality and setting the stage for an exceptional dining experience by making every single guest feel welcome at the door and
+Engaging in friendly conversation as you seat guests in a timely fashion 
+Introducing guests to their server
+Managing restaurant waiting list during high volume to accurately set guest expectations 
+Always sincerely thanking guests as they leave and inviting them to return
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="14">
+<TITLE>
+Host/Hostess
+</TITLE>
+<DESC>
+Work in a team-oriented, high-volume, fast-paced, guest-centric environment to fulfill our guests’ craving for a Refreshing Seaside Dining Experience by:
+Demonstrating genuine hospitality and setting the stage for an exceptional dining experience by making every single guest feel welcome at the door and
+• Engaging in friendly conversation as you seat guests in a timely fashion
+• Introducing guests to their server
+• Managing restaurant waiting list during high volume to accurately set guest expectations
+• Always sincerely thanking guests as they leave and inviting them to return
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="15">
+<TITLE>
+Host
+</TITLE>
+<DESC>
+Work in a team-oriented, high-volume, fast-paced, guest-centric environment to deliver on our purpose of Hospitaliano! Our passion for 100% guest delight by:
+Demonstrating genuine hospitality and setting the stage for an exceptional dining experience by making every single guest feel welcome at the door and
+• Engaging in friendly conversation as you seat guests in a timely fashion
+• Introducing guests to their server
+• Managing restaurant waiting list during high volume to accurately set guest expectations
+• Always sincerely thanking guests as they leave and inviting them to return
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="16">
+<TITLE>
+Host/ Hostess
+</TITLE>
+<DESC>
+Job Summary and Mission 
+The hostess is a personal representation of the service and overall hospitality of the staff of the restaurant. While guests are waiting to be seated, preparing to go to an event/class or waiting for a pick up to be ready, it is the job of the hostess to ensure that the guests are made comfortable and kept informed of the status of their orders or wait times. 
+The Hostess is the first employee to interact with arriving guests as they enter our doors at Make Meaning. It is the expectation of the hostess to greet arriving guests, welcome them into the establishment and seat them. The Guests receive their first impression of our World Class Service of our company by their exchange with the hostess.
+Summary of Key Responsibilities: 
+All team members are expected to model and act in accordance with Make Meaning’s corporate values, mission and vision. Responsibilities and essential job functions include, but are not limited to the following:
+• Live Make Meaning’s vision and mission
+• Greets and Communicates naturally and directly with the Guest to provide World Class Service
+• Concisely communicates needs between Team Members and Guests and provides a warm hand-off
+• Assists Guest with the filling out the Intake Form and captures information pertinent to their experience 
+• Politely Answers phones , books reservations and controls the flow of the entire store 
+• Maintain a neat, clean, organized host stand 
+o Brochures, Business Cards, Event List etc are all accessible
+• Provides enthusiastic Quick Tours to our Guest and encourages them to create
+• Be productive, efficient and effective when assigned tasks while ensuring exceptional guest service
+• Communicate consistently, openly and honestly
+• Monitors the zones throughout the store for empty and cleaned tables, 
+• Professionally Estimates wait times for guests; 
+• Monitors the guest waiting list, and ensuring that the needs of the guests are met while they are waiting. 
+• As guests arrive, the hostess assesses the zones and, if an accommodating table is available, escorts the guests to the table.. Upon returning to the station, hostesses also make any necessary changes to the dining room occupancy chart.
+• Runs work errands for the Store Manager, deliver items, move stock, or anything else that other team members or guests might need.
+• Restocks merchandise wall and displays as necessary or directed by the Shift Supervisor (MOD)
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="17">
+<TITLE>
+Host 
+</TITLE>
+<DESC>
+Every Guest that chooses Ruby Tuesday is greeted by the Host with a warm smile and a personal welcome. The Host seats the Guest in the dining room. The flow of business throughout the dining area is controlled by the use of the wait sheet and the front door display system. These practices ensure prompt guest service, as well as manage the flow of orders into the kitchen.
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="18">
+<TITLE>
+Host / Hostess
+</TITLE>
+<DESC>
+Interact with the restaurant guests, fellow staff members, and supervisors in a polite, courteous and hospitable manner 
+To oversee the dining room and make it a warm and welcoming place 
+Ensure all guests have an exemplary dining experience 
+Actively taking and processing reservations 
+Answering incoming calls and questions 
+Assists in coordinating the activities of dining room personnel to provide fast friendly service to guests
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="19">
+<TITLE>
+Host / Hostess
+</TITLE>
+<DESC>
+New Iron Chef Restaurant in the Flatiron District is looking for experienced host/ hostesses. Seeking people who love people and who are interested in being part of a fun young, hospitality oriented team. 
+Only upbeat, friendly, excellent-service oriented staff members need apply!
+NICE TO HAVE SKILLS
+NYC Restaurant Experience (1+ Years)
+Able to Stand for 5+ Hours
+Ability to read, write & speak fluent English
+Experience with Open Table
+Able to Work Weekends
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="20">
+<TITLE>
+Host / Hostess
+</TITLE>
+<DESC>
+If you're highly social and confident, capable of handling high volumes this may be the right role for you. Our ideal candidate is experienced, reliable, upbeat and friendly; can handle pressure well; and thrives in a high volume, high energy environment. 
+The ideal candidate will be able to: 
+Make our supper lounge a warm and welcoming place 
+Ensure all guests have an exemplary experience 
+Interact with the restaurant guests, fellow staff members, and supervisors in a polite but always fun manner
+MUST HAVE SKILLS
+Fine Dining Experience
+NYC Restaurant Experience (1+ Years)
+Able to Work Weekends
+NICE TO HAVE SKILLS
+Experience with Open Table
+Experience with POS System
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="21">
+<TITLE>
+Host / Hostess
+</TITLE>
+<DESC>
+The role of the Hospitality Team is crucial to the Babbo experience. While the schedule for the position offered will be mostly Hosting, the employee will also be fully trained as a Reservationist. 
+The primary responsibilities of the Host include warmly greeting guests as they arrive, getting them checked in with the Maitre d', and escorting the guests to their assigned table. Additional responsibilities may include assisting the reservationist with confirmation calls, checking items into coat check, ensuring transfers from the bar are properly handled, and delivering important messengers to the waitstaff, management, and the kitchen. 
+The Reservationist is responsible for handling a high volume of calls, making new reservations and confirming existing reservations in an efficient, yet warm and professional manner while adhering to our reservation policies. Previous experience using Open Table is preferred.
+MUST HAVE SKILLS
+Able to Work Weekends
+NICE TO HAVE SKILLS
+Fine Dining Experience
+Experience with Open Table
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="22">
+<TITLE>
+Host/ Hostess
+</TITLE>
+<DESC>
+To deliver exceptional service experiences to our Guests while exhibiting PARADISE Core Values, and Hospitality Standards.
+KEY RESULTS AREAS
+Participate in a team environment that promotes sales and service success.
+Commit to maintain the culture through the evolution of the business.
+Actively participate in all restaurant-related meetings and training sessions, and apply learned skills on the job.
+Be receptive to feedback and coaching.
+Possess knowledge of all food and beverage menus .
+Possess complete knowledge and application of all Hospitality Standards – especially telephone etiquette and greeting guests.
+Maintain a clean, sanitary, and safe environment for all team members and Guests.
+Keep host/hostess stand supplies stocked and organized.
+Monitor/stock restroom supplies and maintain restroom cleanliness.
+Adhere to Company, division, and location policies and procedures.
+Other duties as assigned.
+EXPERIENCE, TALENT AND EDUCATION
+One year of serving or related experience in a full-service restaurant.
+High School diploma or GED.
+Must have current food handler’s card and alcohol service certification as required by federal/state/local law.
+Familiarity with Open Table reservation system preferred
+Professional phone skills
+Organization skills
+Safe food handling procedures
+Excellent Guest service skills
+Basic knowledge of food and beverage
+Basics of food and beverage service/hospitality.
+Tommy Bahama is full of smart, creative islanders. We support a work hard, play hard culture and hope you are ready for the challenge.
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="23">
+<TITLE>
+Host / Hostess
+</TITLE>
+<DESC>
+Interact with the restaurant guests, fellow staff members, and supervisors in a polite, courteous and hospitable manner 
+To oversee the dining room and make it a warm and welcoming place 
+Ensure all guests have an exemplary dining experience 
+Actively taking and processing reservations 
+Answering incoming calls and questions 
+Assists in coordinating the activities of dining room personnel to provide fast friendly service to guests
+NICE TO HAVE SKILLS
+Fine Dining Experience
+NYC Restaurant Experience (1+ Years)
+Able to Stand for 5+ Hours
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="24">
+<TITLE>
+Host / Hostess
+</TITLE>
+<DESC>
+Hosts and Hostesses must be able to work in a team-oriented, fast-paced setting while demonstrating genuine hospitality.  They are the first and last impression of Havana Central and play an essential part of the guest dining experience.  In addition, the host stand controls the flow of the restaurant by effectively seating our guests in a timely manner. As a host you will also be responsible to:
+Answer the phone with a smile
+Engage guests in friendly conversation as you walk them to their table
+Manage the restaurant wait list during high volume to accurately set guest expectations
+Sincerely thank guests as they leave and invite them to return
+ Ability to work positively in a fast-paced environment.
+• Must be able to work quickly and stand for extended periods of time.
+• Must be able to assist guests and possess great guest relations skills.
+• Excellent verbal communication and interpersonal skills.
+• Basic math skills.
+• Ability to work effectively within a team.
+• Ability to lift up to 20 lbs. as needed.
+• Continuous use of hands and arms as well as bending, reaching and twisting.Â
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="25">
+<TITLE>
+Host(ess)
+</TITLE>
+<DESC>
+The ideal candidate should possess a strong work ethic, be enthusiastic and energetic with a significant background in Host(ess) restaurant front door experience. Willing to work a flexible schedule, and have the ability to work in a team environment.
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="26">
+<TITLE>
+Host / Hostesses
+</TITLE>
+<DESC>
+If you are:
+A strong Team Player
+A Good communicator
+Organized with a great attention to detail
+At least 18 years old
+we want to hear from you!
+When you bring your great attitude and work ethic to Red Robin, you will enjoy:
+Flexible Hours
+Fun & Exciting Workplace
+Advancement Opportunities
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="27">
+<TITLE>
+Seasonal Host/Hostess
+</TITLE>
+<DESC>
+We’re looking for a highly motivated hospitality oriented individuals with the ability to exceed our guests’ expectations and help create memories this Summer Season. 
+Requirements: 
+· Experience in a high volume, fast paced restaurant 
+· Passion for hospitality, food & wine 
+· Clean work habits and strong attention to detail 
+· Resourceful and well-organized with a sense of urgency 
+· Personable, outgoing & energetic team player with a positive attitude 
+· Ability to think quick on their feet and multi-task in a fast paced environment 
+· Openness and willingness to learn 
+· Ability to communicate effectively 
+· Flexible availability including nights, weekends and holidays 
+The ideal candidate will be able to: 
+Interact with the restaurant guests, fellow staff members, and supervisors in a polite, courteous and hospitable manner 
+To oversee the dining room and make it a warm and welcoming place 
+Ensure all guests have an exemplary dining experience 
+Actively taking and processing reservations 
+Answering incoming calls and questions 
+Assists in coordinating the activities of dining room personnel to provide fast friendly service to guests
+NICE TO HAVE SKILLS
+Casual Dining Experience
+Experience with Open Table
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="28">
+<TITLE>
+Host/Hostess
+</TITLE>
+<DESC>
+Duties & Functions: •	Maintain a friendly and diplomatic relationship/manner with all prospective guests who wish to enter the restaurant or bar at all times •	Ensure all reservation information is properly documented including time, date, number of covers, name/room number and contact number •	Prepare table allocations from reservation book before respective meal period seating •	Ensure guests are graciously shown to their tables within a reasonable time of their reservation •	Adhere to hotel door policies and restrictions, including local and federal age guidelines aligned with liquor licensing •	Guarantee there is host/hostess coverage at the maitre d stand at all times •	Guarantee that the phone is answered within 2 rings in a courteous and helpful manner; ‘champagne cork popping’ •	Ensure door policies concerning the entry of guests and these are adhered to at all times • Ensure that seating is fair for all service staff •	Perform related duties and special projects as assigned Specific Job Knowledge & Skills: •	High School Diploma or equivalent required •	One to two years in a public contact position, preferably in an upscale or lifestyle brand restaurant or lounge • Enter and locate work related information using computers and/or point of sale systems •	Possess a gracious, friendly, and fun demeanor •	Ability to multitask, work in a fast paced environment and have a high level attention to detail •	Strong verbal and written communication skills in English •	Maintain positive and productive working relationships with other employees and departments •	Ability to work independently and to partner with others to promote an environment of teamwork Physical Abilities: • Move, lift, carry, push, pull, and place objects weighing less than or equal to 20 pounds without assistance •	Requires grasping, writing, standing, sitting, walking, repetitive motions, bending, climbing, listening and hearing ability and visual acuity •	Stand, sit, or walk for an extended period of time or for an entire work shift •	Reach overhead and below the knees, including bending, twisting, pulling, and stooping
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="29">
+<TITLE>
+Front Desk Host/Hostess
+</TITLE>
+<DESC>
+As the initial guest contact, the Front Desk Host/Hostess sets the tone for the entire dining experience at Zinburger. The Host/Hostess plays an essential role in establishing a positive and lasting relationship with our guests. He/She is the first person to see the guest before they dine and the last person to see the guest before they leaves. The Host/Hostess warmly greets and welcomes each guest on arrival and says good-bye and thank you upon departure. In addition, he/she manages the efficient and timely seating of our guests to a table that best serves their needs.The ideal Host/Hostess has prior restaurant experience and has a desire to serve our guests, with a warm and friendly personality that ensures a positive dining experience. 
+The following is a representative list of the duties and responsibilities associated with this position: 
+-- Know and follow all Briad policies & procedures 
+-- Warmly and graciously welcome and greet guests upon arrival 
+-- Make all our guests feel comfortable and let them know you’re there to personally take care of them 
+-- Know regular guests by name; know their preferences and needs 
+-- When possible, open the front door for guests entering or leaving the restaurant 
+-- When on a wait, record guest’s name and number of people in party, provide guests with estimated waiting time 
+-- Call out name and number of party when tables become available 
+-- Accommodate special seating requests for guests whenever possible 
+-- Seat guests based on guest preferences and balancing of customer flow in service stations 
+-- Upon seating, offer guests a menu and inspect table for proper presentation and completeness 
+-- Thank guests as they leave and invite them to return 
+-- Answer incoming phone calls; take complete messages, complete timely call backs 
+-- Maintain the look and operation of front foyer for a positive first impression 
+-- Ensure adequate inventory of office supplies at the front desk 
+-- Maintain condition and inventory of menus 
+-- Perform side work at the start and end of each shift as required by assignment 
+-- Inspect restroom every 30 minutes, clean and stock as needed 
+-- Be ready and willing to assist fellow employees as situations arise 
+-- Provide guest feedback to management 
+-- Participate in proactive communication to help us avoid and solve operational, HR, and financial issues 
+-- Be available to fill in as needed to ensure the smooth and efficient operation of the restaurant as directed by the restaurant manager or immediate supervisor
+Must be 18 years of age or older
+   Prior restaurant experience preferred
+   Must have the ability to accurately input information on paper or computerized system
+   Must have a great personality, desire to serve guests, and enjoy working as part of a team
+   Must be able to work in a standing position for long periods of time (up to 8 hours)
+   Must be able to safely lift and easily maneuver trays of food frequently weighing up to 20 to 25 pounds
+   Neat, clean, and professional appearance
+   Must follow safety procedures closely
+   Must be able to work on holidays and/or weekends
+   Customer-friendly demeanor
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="30">
+<TITLE>
+Host/Hostess
+</TITLE>
+<DESC>
+Hosts and hostesses perform a wide range of job duties. Responsibilities may vary between employers, but typically hosts and hostesses work as the first point of contact in offering an exceptional dining experience. Hosts and hostesses greet guests, estimate waiting times, guide guests to their tables, provide menus, inform guests about daily specials, and book reservations. Additionally, hosts or hostesses help regulate restaurant operations by maintaining constant contact with servers and kitchen staff. At some restaurants, hosts and hostesses may ring out customers on a cash register. New-hire associates typically receive paid training in order to learn the essential host job duties.
+What Are the Requirements for a Restaurant Host Job?
+Essential qualities in a host or hostess include a friendly personality, patience, organization, and the ability to multi-task. Workers must also possess the ability to stand for extended periods of time. Most restaurants set the minimum working age requirement for hosts and hostesses at 16 years old. Typically, restaurants do not ask for educational certifications for hosts or hostesses. For this and other entry-level jobs, restaurants do not generally require previous work experience in the foodservice industry.
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="31">
+<TITLE>
+Restaurant Host
+</TITLE>
+<DESC>
+At Hyatt, we believe our guests select Hyatt because of our caring and attentive associates who are focused on providing efficient service and meaningful experiences.  Restaurant Hosts are responsible for welcoming and creating the first impression for guests.  These individuals have the ability to influence the overall restaurant experience by their interactions that include providing table accommodations and offering menu recommendations.  Restaurant Hosts may be the final point of contact and have the ability to ensure guest satisfaction.  If you have worked as a restaurant host or restaurant hostess, your skills are invaluable to the position of Restaurant Host at Hyatt.  Your restaurant job experience will give you the tools to be successful as a Restaurant Host at Hyatt.
+Qualifications
+A true desire to satisfy the needs of others in a fast paced environment.
+Refined verbal communication skills.
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="32">
+<TITLE>
+Host
+</TITLE>
+<DESC>
+Under the general guidance of the Food & Beverage Manager, welcome, greet, and accommodate all guests in the hotel, restaurant, bar, and lounge. Ensure operating standards and guest requirements are met at all times.
+Duties & Functions:
+Maintain a friendly and diplomatic relationship/manner with all prospective guests who wish to enter the restaurant or bar at all times
+Ensure all reservation information is properly documented including time, date, number of covers, name/room number and contact number
+Prepare table allocations from reservation book before respective meal period seating
+Ensure guests are graciously shown to their tables within a reasonable time of their reservation
+Adhere to hotel door policies and restrictions, including local and federal age guidelines aligned with liquor licensing
+Guarantee there is host/hostess coverage at the maitre d stand at all times
+Guarantee that the phone is answered within 2 rings in a courteous and helpful manner; ‘champagne cork popping’
+Ensure door policies concerning the entry of guests and these are adhered to at all times
+Ensure that seating is fair for all service staff
+Perform related duties and special projects as assigned
+Specific Job Knowledge & Skills:
+High School Diploma or equivalent required
+One to two years in a public contact position, preferably in an upscale or lifestyle brand restaurant or lounge
+Enter and locate work related information using computers and/or point of sale systems
+Possess a gracious, friendly, and fun demeanor
+Ability to multitask, work in a fast paced environment and have a high level attention to detail
+Strong verbal and written communication skills in English
+Maintain positive and productive working relationships with other employees and departments
+Ability to work independently and to partner with others to promote an environment of teamwork
+Physical Abilities:
+Move, lift, carry, push, pull, and place objects weighing less than or equal to 20 pounds without assistance
+Requires grasping, writing, standing, sitting, walking, repetitive motions, bending, climbing, listening and hearing ability and visual acuity
+Stand, sit, or walk for an extended period of time or for an entire work shift
+Reach overhead and below the knees, including bending, twisting, pulling, and stooping
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="33">
+<TITLE>
+Host / Hostess
+</TITLE>
+<DESC>
+Interact with the restaurant guests, fellow staff members, and supervisors in a polite, courteous and hospitable manner 
+To oversee the venue and make it a warm and welcoming place 
+Ensure all guests have an exemplary dining experience 
+Actively taking and processing reservations 
+Answering incoming calls and questions 
+Assists in coordinating the activities of venue's personnel to provide fast friendly service to guests
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="34">
+<TITLE>
+Host / Hostess
+</TITLE>
+<DESC>
+Quick Service (Fast-Paced) Experience
+Casual Dining Experience
+NYC Restaurant Experience (1+ Years)
+Able to Stand for 5+ Hours
+Experience with Open Table
+Experience with POS System
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="35">
+<TITLE>
+Host 
+</TITLE>
+<DESC>
+Demonstrate Mary’s suggestive selling techniques 
+•Ability to listen and understand the customers needs 
+•Ability to maintain Mary’s Scorecard Standards 
+•Adhere to all Mary’s Dress Code Standards 
+•Demonstrate Mary’s Upbeat Personality Philosophy 
+•Acknowledge guests as they enter or depart the restaurant in a friendly upbeat demeanor 
+•Ensure dirty tables are cleaned and ready for the next guest within two minutes of prior guests departure 
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="36">
+<TITLE>
+Host/Hostess 
+</TITLE>
+<DESC>
+Greets and seats all guests in a warm and friendly manner, making a famous first impression. Assists in maintaining the overall guest flow of the restaurant. As guests are departing, inquire about their experience and thank them for dining with us.
+You are applying at the following locations:
+Famous Dave's FDO - Hayward
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="37">
+<TITLE>
+Part Time Host
+</TITLE>
+<DESC>
+Millennium Restaurant seeks a experienced and committed host . We need someone who can work from 3pm-close 2-3 days a week, someone who is interested in cross training and someone who is available to start immediately.
+Must have experience in fast paced & fine dining establishments; must have a passion for food and wine (previous knowledge of vegetarian and vegan cuisine is definitely helpful); must have excellent communication skills and the ability to stay very calm under pressure; must have very strong multi-tasking skills.
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="38">
+<TITLE>
+Host/ess
+</TITLE>
+<DESC>
+Greet guests and determine the number in their party. Seat guests by finding a clean, available table; pulling out chairs; placing clean/current menu in front of guest, etc. Guide guests through the dining rooms and provide any needed assistance. Move and arrange tables, chairs, and settings and organize seating for groups with special needs. Ensure place settings are appropriate and each guest has a napkin, clean silverware, and any other item that is part of the standard place setting. Check menus to ensure they are current, clean, plentiful, and wrinkle-free. Maintain cleanliness of work areas throughout the day, practicing clean-as-you-go procedures. Monitor dining rooms for seating availability, service, safety, and well being of guests.
+     Follow all company and safety and security policies and procedures; report accidents, injuries, and unsafe work conditions to manager; and complete safety training and certifications. Ensure uniform and personal appearance are clean and professional, maintain confidentiality of proprietary information, and protect company assets. Welcome and acknowledge all guests according to company standards. Speak with others using clear and professional language, and answer telephones using appropriate etiquette. Develop and maintain positive working relationships with others, support team to reach common goals, and listen and respond appropriately to the concerns of other employees. Ensure adherence to quality expectations and standards. Stand, sit, or walk for an extended period of time. Move, lift, carry, push, pull, and place objects weighing less than or equal to 10 pounds without assistance. Perform other reasonable job duties as requested by Supervisors.
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="39">
+<TITLE>
+Host/Hostess
+</TITLE>
+<DESC>
+First Crush Restaurant and Wine Bar is searching for a host/hostess with an outgoing, friendly and welcoming personality to greet each guest upon arrival and departure of our restaurant.
+Qualifications:
+•	A person who provides thoughtful hospitality.
+•	The ability to seat a restaurant strategically.
+•	A strong presence at the door and on the phone.
+•	The ability to be to articulate our vision to the guests while greeting each person with a warm, welcoming personality.
+•	Flexible, professional, and fun to work with.
+•	Great at communicating and being a part of a team.
+•	Open to constant continuous improvement and adapts well in a fast paced environment.
+•	And most of all – reliable.
+Required Skills & Experience:
+THIS POSITION REQUIRES OPEN AVAILABILITY ON WEEKEND DAYS or NIGHTS.
+QUALIFICATION REQUIREMENTS: To perform this job successfully, an individual must be able to perform each essential duty satisfactorily. The requirements listed below are representative of the knowledge, skill, and ability required.
+EDUCATION and/or EXPERIENCE: 1 year restaurant experience.
+LANGUAGE SKILLS: Ability to read and comprehend simple instructions, menus, and customer requests. Ability to effectively present information one-on-one to customers, clients, and other employees.
+PHYSICAL DEMANDS: The employee must regularly lift and/or move up to 10-25 pounds and frequently lift and/or move up to 50 pounds. Frequently walk up and down stairs.
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="40">
+<TITLE>
+Host(ess)
+</TITLE>
+<DESC>
+The Host or Hostess's basic function is to provide the guests, either on the phone or in person, with information and support in a professional and gracious manner.
+The essential hospitality standards must be used at all times: eye contact, smile, speak first, engage in polite conversation, and use the guest's surname!
+ESSENTIAL DUTIES AND RESPONSIBILITIES include the following. Other duties may be assigned.
+Provide fair and consistent seating of guests.
+Receive and record reservations by phone or in person.
+Accurately handle paperwork.
+Receive incoming calls.
+Take room service calls and orders (if necessary).
+Check floor and tables for accuracy and cleanliness.
+Assist in bussing tables as needed.
+Maintain a clean podium.
+If any orders are "carry-out", package and check-out (if necessary)
+Stock host/hostess stand.
+Refill beverages as business demands.
+Provide information to guests as requested.
+Perform other restaurant and customer service related requests to guests.
+Required Skills & Experience:
+QUALIFICATION REQUIREMENTS:
+To perform this job successfully, an individual must be able to perform each essential duty satisfactorily. The requirements listed below are representative of the knowledge, skill, and/or ability required. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+EDUCATION and/or EXPERIENCE:
+High school diploma or general education degree (GED); or six months to one year related experience and/or training; or equivalent combination of education and experience.
+LANGUAGE SKILLS:
+Ability to read, analyze, and interpret general business correspondence. Ability to effectively present information and respond to questions from groups of managers, clients, customers, and the general public.
+MATHEMATICAL SKILLS:
+Ability to add, subtract, multiply and divide. Ability to perform these operations using units of American money.
+REASONING ABILITY:
+Ability to solve practical problems and deal with a variety of concrete variables in situations where only limited standardization exists. Ability to interpret a variety of instructions furnished in written, oral, diagram, or schedule form.
+PHYSICAL DEMANDS:
+The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+While performing the duties of this job, the employee is regularly required to stand, walk, and talk or hear. The employee frequently is required to use hands to finger, handle, or feel objects, or telephone. The employee is occasionally required to reach with hands and arms and taste or smell.
+The employee must regularly lift and/or move up to 5-10 pounds. Specific vision abilities required by this job include close vision, distance vision, and the ability to adjust focus.
+WORK ENVIRONMENT:
+The work environment characteristics described here are representative of those and employee encounters while performing the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="41">
+<TITLE>
+Restaurant Host(ess)
+</TITLE>
+<DESC>
+Greets the guests with a warm, welcoming smile. 
+Seats guests following a rotation of stations, presents menus. 
+Obtains cash bank and opens MICROS. 
+Checks reservations for the shift. 
+Fills out paperwork for guest checks and assignments of shift. 
+Accommodates guest’s requests and situations in a professional manner. 
+Assists, as needed, with bussing and resetting tables, pouring water/tea/coffee, serving bread, etc. 
+Answers incoming calls (within 3 rings) with proper telephone etiquette and dialog, questions about specials, menus and making reservations. 
+Check restaurant for proper set-up upon arrival.
+Check micro machines to make sure they are set to the proper menu.
+Fill out floor plan by checking station rotation chart.  Assign sidework schedule on floor plan.  Post floor plan at host stand.
+Fill out menu class form, gather specials and daily information from expeditor or food production manager.  Conduct menu class.
+Seat guests following a rotation of stations, issue menus.  If there is an extra seat, and no DRA, remove the extra silverware and return them to credenza.
+Record number of guests on guest flow chart per station.  Next in rotation should be marked on this sheet.
+Know micro procedure if applicable.
+Check opening sidework before sending servers on break.
+Set micro machines to next shift’s menu and turn machines off.
+Be familiar with hotel facilities and their location and hours of operation or where to direct guests to find this information.  Know directions to get to hotel.
+Each employee is expected to carry out all reasonable requests by management that the employee is capable of performing.
+Qualifications:
+Education & Experience:
+High school diploma or GED preferred. 
+Previous service experience preferred.  Must be able to follow directions and get along well with others.
+Must be TIPS, CARE (or equivalent) certified, or become certified by first day on the job.
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="42">
+<TITLE>
+Host/Hostess
+</TITLE>
+<DESC>
+First Crush Restaurant and Wine Bar is searching for a host/hostess with an outgoing, friendly and welcoming personality to greet each guest upon arrival and departure of our restaurant.
+Qualifications:
+•	A person who provides thoughtful hospitality.
+•	The ability to seat a restaurant strategically.
+•	A strong presence at the door and on the phone.
+•	The ability to be to articulate our vision to the guests while greeting each person with a warm, welcoming personality.
+•	Flexible, professional, and fun to work with.
+•	Great at communicating and being a part of a team.
+•	Open to constant continuous improvement and adapts well in a fast paced environment.
+•	And most of all – reliable.
+Required Skills & Experience:
+THIS POSITION REQUIRES OPEN AVAILABILITY ON WEEKEND DAYS or NIGHTS.
+QUALIFICATION REQUIREMENTS: To perform this job successfully, an individual must be able to perform each essential duty satisfactorily. The requirements listed below are representative of the knowledge, skill, and ability required.
+EDUCATION and/or EXPERIENCE: 1 year restaurant experience.
+LANGUAGE SKILLS: Ability to read and comprehend simple instructions, menus, and customer requests. Ability to effectively present information one-on-one to customers, clients, and other employees.
+PHYSICAL DEMANDS: The employee must regularly lift and/or move up to 10-25 pounds and frequently lift and/or move up to 50 pounds. Frequently walk up and down stairs.
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="43">
+<TITLE>
+Host/Hostess
+</TITLE>
+<DESC>
+Reporting to the Paragon Restaurant Manager, responsibilities and essential job functions include but are not limited to the following:             
+Consistently offer a professional, friendly greeting and engaging service
+Understand the Server’s tasks in the outlet
+Understand shift end reports in the outlet and the POS system
+Assist guests regarding food and beverage menu items in an informative and helpful way
+Have knowledge of all menu items, garnishes, contents and preparation methods
+Follow outlet policies, procedures and service standards
+Follow all safety and sanitation policies when handling food and beverage
+Other duties as assigned
+Qualifications:
+Previous service experience an asset
+Previous Point of Sale System experience an asset
+Excellent communication and organizational skills
+Strong interpersonal and problem solving abilities
+Highly responsible & reliable
+Ability to work well under pressure in a fast paced environment
+Ability to work cohesively as part of a team
+Ability to focus attention on guest needs, remaining calm and courteous at all times
+Physical Aspects of Position (include but are not limited to):        
+Constant standing and walking throughout shift
+Occasional lifting and carrying up to 20 lbs
+Occasional kneeling, pushing, pulling
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="44">
+<TITLE>
+Restaurant Host(ess)
+</TITLE>
+<DESC>
+The Marriott Fisherman's Wharf is seeking a Restaurant Host(ess) who will work at least 2 shifts per week to assist with the Breakfast customers. 
+S/he will courteously speak to guests in warm and friendly tone and escort them to tables and assist in seating. S/he will also assist preparing the restaurant for service and maintaining the cleanliness of the room at all times. He/she will also take reservations and maintain the reservation book. This position will assist in monitoring the guests needs and all phases of the operation. 
+To perform this job successfully, an individual must be able to perform each essential duty satisfactorily. Reasonable Accommodations may be made to enable qualified individuals with disabilities to perform the essential functions. 
+Responsibilities: 
+* Greets the guests with a warm, welcoming smile. 
+* Seats guests following a rotation of stations, presents menus. 
+* Obtains cash bank and opens MICROS. 
+* Checks reservations for the shift. 
+* Fills out paperwork for guest checks and assignments of shift. 
+* Accommodates guest’s requests and situations in a professional manner. 
+* Assists, as needed, with bussing and resetting tables, pouring water/tea/coffee, serving bread, etc. 
+* Answers incoming calls (within 3 rings) with proper telephone etiquette and dialog, questions about specials, menus and making reservations. 
+* Check restaurant for proper set-up upon arrival. 
+* Check micro machines to make sure they are set to the proper menu. 
+* Fill out floor plan by checking station rotation chart. Assign sidework schedule on floor plan. Post floor plan at host stand. 
+* Fill out menu class form, gather specials and daily information from expeditor or food production manager. Conduct menu class. 
+* Seat guests following a rotation of stations, issue menus. If there is an extra seat, and no DRA, remove the extra silverware and return them to credenza. 
+* Record number of guests on guest flow chart per station. Next in rotation should be marked on this sheet. 
+* Know micro procedure if applicable. 
+* Check opening sidework before sending servers on break. 
+* Set micro machines to next shift’s menu and turn machines off. 
+* Be familiar with hotel facilities and their location and hours of operation or where to direct guests to find this information. Know directions to get to hotel. 
+* Each employee is expected to carry out all reasonable requests by management that the employee is capable of performing. 
+Education & Experience: 
+* High school diploma or GED preferred. 
+* Previous service experience preferred. Must be able to follow directions and get along well with others. 
+* Must be TIPS, CARE (or equivalent) certified, or become certified by first day on the job. 
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="45">
+<TITLE>
+Host/Hostess
+</TITLE>
+<DESC>
+The perfect candidate should possess excellent customer service skills and should genuinely enjoy working with people. You should be flexible, efficient, and able to multi-task. The Glendon provides a positive, fun and lucrative enviorment to those who come ready to work. We are pleased to offer employment to those up to par.
+Requirements & Skills
+The ability to read peoples wants and needs
+A strong work ethic and team initiative
+Must be available to work days, evenings and weekends.
+Must be good with computers
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="46">
+<TITLE>
+Host/Hostess
+</TITLE>
+<DESC>
+Guest Service, welcome and seat all guests, know menu, have food handler card, take to-go orders, manage flow of restaurant, assist in restaurant operations. 
+You are applying at the following locations:
+Slater's 50/50 Pasadena
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="47">
+<TITLE>
+Host/Hostess
+</TITLE>
+<DESC>
+Food Server or Guest Service Agent – Restaurant Supervisor or Front Office Supervisor
+Essential Job Functions
+Meet and greet guests as they arrive, offer choice of seating, escort to dining table and present menu.
+Read, maintain and make daily entries in the log book to coordinate communication between shifts and management.
+Maintain proper set-up of dining room.
+Assist as needed or requested with service.
+Receive records and make any necessary arrangements for reservations and special functions in the restaurant.
+Follow sustainability guidelines and practices related to HHM’s EarthView program.
+Practice safe work habits, wear protective safety equipment and follow MSDS and OSHA standards.
+Perform other duties as requested by management.
+Position Requirements
+High school diploma or equivalent .
+Previous customer service experience preferred.
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="48">
+<TITLE>
+Host/Hostess
+</TITLE>
+<DESC>
+Our Hosts greet and seat all arriving guests and acknowledge all departing guests in a friendly manner and assist in maintaining the overall guest flow of the restaurant. Our hosts provide the guests’ first and last impression. This position requires no previous experience but a great personality is a must. This position requires you to stand and exert well-paced mobility for periods of up to 8 hours in length and be able to lift 10 to 20 pounds.
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="49">
+<TITLE>
+Host/Hostess
+</TITLE>
+<DESC>
+BLVD 16 is looking for a part time Host(ess) for the restaurant. The purpose of the Host position is to provide the guests, either on the phone or in person, with information and support in a professional and gracious manner. BLVD 16 is looking for someone who is friendly and fun, can work with a team and independently, and has the desire to learn and grow! The essential hospitality standards must be used at all times: eye contact, smile, speak first, engage in polite conversation, and use the guest's surname!
+ESSENTIAL DUTIES AND RESPONSIBILITIES include the following. Other duties may be assigned.
+Provide fair and consistent seating of guests.
+Receive and record reservations by phone or in person.
+Accurately handle paperwork.
+Receive incoming calls.
+Take room service calls and orders (if necessary).
+Check floor and tables for accuracy and cleanliness.
+Assist in bussing tables as needed.
+Maintain a clean podium.
+If any orders are "carry-out", package and check-out (if necessary)
+Stock host/hostess stand.
+Refill beverages as business demands.
+Provide information to guests as requested.
+Perform other restaurant and customer service related requests to guests.
+What we are offering:
+Growth opportunity with the company
+Longevity
+Employee meals
+Professional and fun environment
+Employee recognition and perks
+Required Skills & Experience:
+To perform this job successfully, an individual must be able to perform each essential duty satisfactorily. The requirements listed below are representative of the knowledge, skill, and/or ability required. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+Must have flexible schedule and be able to work nights, weekends and holidays.
+Must be able to lift up to 25 pounds.
+Candidates preferred to have a minimum one year experience in hotel/fine dining/casual high volume environment.
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="50">
+<TITLE>
+Host/Hostess
+</TITLE>
+<DESC>
+* Greet Guests entering restaurant * Seat Guests entering the restaurant * Ensures that each table has an assigned Server * Thank, and say Good Bye to departing Guests * Create a wait list when necessary * Check menus for cleanliness * Ensure that there are enough menus for the shift * Clean front windows and doors * Work safely and comply with the standard of non-negotiables
+Required Skills
+* Friendly personality * Professional appearance * Organized * Efficient * Team oriented * Must be committed to our mission and culture
+Required Experience
+Previous similar experience helpful * Experience with OpenTable or other online reservation system helpful * Should have an open availability
+**  Please apply online ONLY.  Do NOT apply in the restaurant * No phone calls or emails please.  **
+Job Location
+Studio City, California, United States
+Position Type
+Part-Time
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="51">
+<TITLE>
+Hosts / Hostesses
+</TITLE>
+<DESC>
+Fresh, contemporary and consistently outstanding are the trademarks of P.F. Chang's. Our goal is “to be the best operator of Asian restaurants” in the business. And thanks to people like you, that’s exactly what we’re doing. When you work at P.F. Chang’s, you help make our guest experience truly extraordinary. If you think you can deliver exceptional service, join us and help us let every guest know that "We are truly glad you are here, and we will do everything we can to make you want to come back." It starts with you.
+Job Requirements :
+Attitude - fresh, optimistic, enthusiastic, and service-laced - you are here to serve our guests and provide them with an exceptional dining experience.
+Aptitude - you need to be able to think quickly on your feet, make smart decisions, and learn our menu inside and out.
+Adaptability - you won't be successful flying solo- you will be a functioning member of a team, and you need to be willing to lend a helping hand to any teammate at any time.
+Availability - we have a variety of shifts available. Most of our teammates work 25-40 hours per week including some weekends and holidays; flexibility is key. Open availability preferred.
+Experience - we are seeking Hosts/Hostesses and Servers with experience in a high volume, full service restaurant.
+What’s in it for you?
+Career Advancement, a fun, energetic work environment, continued on-the-job training, and let’s not forget, great pay!
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="52">
+<TITLE>
+Hosts / Hostesses
+</TITLE>
+<DESC>
+Attitude - fresh, optimistic, enthusiastic, and service-laced - you are here to serve our guests and provide them with an exceptional dining experience.
+Aptitude - you need to be able to think quickly on your feet, make smart decisions, and learn our menu inside and out.
+Adaptability - you won't be successful flying solo- you will be a functioning member of a team, and you need to be willing to lend a helping hand to any teammate at any time.
+Availability - we have a variety of shifts available. Most of our teammates work 25-40 hours per week including some weekends and holidays; flexibility is key. Open availability preferred.
+Experience - we are seeking Hosts/Hostesses and Servers with experience in a high volume, full service restaurant.
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="53">
+<TITLE>
+Hosts / Hostesses
+</TITLE>
+<DESC>
+Responsible for greeting and escorting guests to tables in a friendly and courteous manner.
+Duties include:
+Maintains consistent attention restaurant entrance, welcomes all guests with a smile and appropriate greeting following hotel customer service standards
+Seats guests and presents the menu and any specials according to hotel standards
+Takes guest reservations or seating times while providing quality service to guests at all times
+Set tables with appropriate silverware, and completes all side work for workstation
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="54">
+<TITLE>
+Host/Hostess
+</TITLE>
+<DESC>
+Greets and welcomes guests upon arrival.  Answers telephone, takes reservations and manages the efficient and timely seating of guests to a table providing menu and server information once seated.  Manages special seating requests consistent with table seating guidelines and table availability.  Relays guest seating and information to servers and bus persons.  Oversees dining room activity to ensure guest seating efficiency. 
+JOB REQUIREMENTS
+Greets all guests warmly and with a smile upon their arrival and escorts them to a table, balancing the flow among the server stations.
+Ensures table selection corresponds with proper rotation, customer seating preference and size of party.
+Utilizes customer paging system when business dictates and as applicable.
+Assists with seating requests when necessary and provides customers with clean menus.
+Relays information to service staff, requests feedback from customers as to their experience and gives a final salutation upon exit from the restaurant.
+Maintains a clean and organized station.  Ensures the cleanliness of menus, and keeps necessary stock of pens, pencils, menus and other departmental supplies.
+Promptly answers the phones with appropriate greeting.
+Responds to guest inquiries related to operating hours, reservations, directions to restaurant or other.
+Ensures backup coverage for host stand when necessary.
+Completes all side work requirements prior, during and after shift.
+Periodically checks restrooms for cleanliness and proper stocking of supplies.
+Maintains the cleanliness and organization of the t-shirt cabinet and t-shirt storage area.
+Performs other duties as assigned by a supervisor.
+Experience and Education:
+Previous host/hostess experience in restaurant or hospitality required.
+Must have a High School diploma or GED.
+Must be eligible to work in the United States.
+Physical Demands: Must be able to work in a standing position for prolonged periods of time.  Must be able to work under stress, have excellent organizational skills and multi-task throughout shift.  Must have a clean, professional appearance with excellent grooming habits.
+Food Knowledge, Preparation, Production and Safety: Must be able to learn and describe menu items to guests when requested. 
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="55">
+<TITLE>
+Host/Hostess
+</TITLE>
+<DESC>
+Greeting and escorting guests to tables in the restaurant, notify staff of new tables, maintaining a courteous and efficient operation of the dining room to ensure guest satisfaction.	  In addition, support the Shared Values of the Hotel.
+RESPONSIBILITIES AND JOB DUTIES:
+·	         Meet and greet guests as they arrive and depart, offer choice of seating, then escort them to their table and present menu.
+·	         Maintain proper set-up of the dining room.
+·	         Receive, record and make any necessary arrangements for reservations and special functions in the restaurant.
+·	         Regular attendance in conformance with the standards, which may be established by Langham from time to time, is essential to the successful performance of this position. Associates with irregular attendance will be subject to disciplinary action, up to and including termination of employment.
+·	         Due to the cyclical nature of the hospitality industry, associates may be required to work varying schedules to reflect the business needs of the hotel.
+·	         Upon employment, all associates are required to fully support with the Hotel’s Shared Values for the safe and efficient operation of hotel facilities. Associates who violate Hotel Shared Values will be subject to disciplinary action, up to and including termination of employment.
+·	         In addition to performance of the essential functions, this position may be required to perform a combination of the following supportive functions, with the percentage of time performing each function to be solely determined by the supervisor based upon the particular requirements of the hotel.
+·	         Maintain an open line of communication between guests, management and line associates.
+Requirement
+.	
+PHYSICAL DEMANDS:
+Physical activities include lifting, and carrying objects weighing up to 30 pounds. Ability to grasp and hold objects. Talking, seeing, hearing, holding, grasping, reaching, fingering, feeling.	  Walk or stand for carrying lengths or time, sometimes for extended periods of time.
+SPECIAL SKILLS REQUIRED:
+·	         Knowledge of restaurant operations, to include appropriate staffing levels, service equipment and guest relations.
+·	         Ability to speak the English language to fully comprehend guest requests, memos, reservations, promotional materials, event orders and similar written materials.
+·	         Ability to speak the English language sufficient to conduct small associate meetings to impart new information.
+·	         Ability to remember, recite and promote the variety of menu items.
+·	         Ability to move throughout a crowded room to seat guests.
+·	         Ability to effectively deal with customer complaints and concerns in a friendly and positive manner. This involves listening to the nature of the concern, demonstrating empathy with the customer and providing positive and proactive solutions.
+·	         Inside with the protection from weather and outside during spring and summer, but not necessarily changes in temperature.
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="56">
+<TITLE>
+Host/Hostess
+</TITLE>
+<DESC>
+The Host greets, seats and offers a parting comment to all guests, answers the phone and maintains sanitation, safety and cleanliness standards in their work area. The Host processes and packages take-out orders. The Host answers guest’s questions, responds to guest requests and assists servers in clearing plates and re-filling beverages when the restaurant is full and there is another Host or Manager at the front door. The Host consistently practices all guest acknowledgement requirements.
+SPECIFIC RESPONSIBILITIES
+Prepares the lobby area for guests’ arrival.
+Opens the door and greets guests as they enter.
+Determines seating preferences and advises guests of waiting time if any.
+Directs guests to waiting areas and maintains an accurate waiting list on a first come, first served basis.
+Notifies guests that their table is ready and guides the guests to the table.
+Distributes menus to each guest at the table.
+Answers the telephone before the third ring and responds to guest inquiries.
+Writes take-out orders from call-in or walk-in guests.
+Processes, packs and collects payment on take-out orders.
+Responds professionally to guest comments and questions.
+Assists servers by re-filling beverages, clearing plates and responding to requests from seated guests.
+Cleans and maintains lobby area.
+Monitors cleanliness of restrooms and level of restroom supplies.
+Opens the door and offers a parting comment to all departing guests.
+Verbally acknowledges all guests encountered in restaurant.
+Follows all health, safety, sanitation and security standards.
+Performs other duties as assigned by the supervisor.
+PERSONAL APPEARANCE
+The Host must be well groomed and neatly dressed in a clean uniform. See employee handbook for a complete description of the dress code for the front of the house.
+ESSENTIAL FUNCTIONS
+Physical Actions:
+The Host will be required to engage in the following physical action for up to an eight-hour shift:
+45% Standing
+45% Walking
+5% Reaching
+5% Cleaning
+The Host either stands in the lobby area greeting and offering parting comments to guests or walks guests from the waiting area to a table in the dining room. The Host may be required to carry soiled plates and glassware weighing up to 5 pounds or to retrieve supplies from storage shelves weighing up to 10 pounds.
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="57">
+<TITLE>
+Hostess
+</TITLE>
+<DESC>
+The hostess is responsible greet and seating guests with warm, friendly service, making a good first impression, and insuring they are satisfied with the service upon departure.
+Must have and maintain a professional appearance for our Luxury Hotel
+Must be a team player and enjoy working on and with teams
+Proactive approach when interacting with guest, co-worker or vendor
+Must have 1 year minimum experience as a hostess within a similar type property
+Computer skills are a plus
+Tips certification is an advantage
+Basic Math skills are a requirement
+Outgoing, Friendly Personality
+Effective Communicator in the English Language
+Take ownership and be responsible for own actions 
+Punctual
+Willing to Learn new ideas and methods 
+Flexible
+Motivated and trustworthy
+Flexible schedule
+Ensures that guests receive high quality services and service provision.
+Ensures that health and safety standards and procedures are respected (especially HACCP).
+Understands how to detect customer needs.
+Knows floor plan, reads server station assignments and knows table numbers and sections.
+When opening, checks menus for cleanliness and freshness, checks dining room and floors for cleanliness and takes actions where needed.
+Provides a smile and friendly greeting for guests, uses guest's name (if known), confirms number in party, asks guests for their seating preference and special needs, walks with guests at their pace to the table, alerts guests of steps and inclines, assists if necessary and informs server/manager of special needs.
+Presents menus to guests and explains specials of the day, informs server of guest present at the table and returns to the lobby to greet guests, checks dining room for guests who are ready to leave, directs bussers to clean tables as needed by the guest volume and special needs.
+Thanks guests when they are leaving, asks them to return, asks about their dining experience. Must be able to handle guest complaints and pressure.
+When closing, collects menus, inspects for cleanliness and prepares the station for the next day.
+Performs duties that require standing and moving throughout the dining room for up to 8 hours or longer if needed.
+Communicates with guests demonstrating confidence and encourages them to feel unique and special.
+Always active during pre-shift meetings.
+Performs side duties that include performing restroom checks, answering the telephone, training other hosts/hostesses, and handling cleaning compounds and chemicals, and other duties as required.
+Able to stand up for long periods of time.
+Able to push, lift, pull up to 50 pounds.
+May work in other areas of the hotel if there is the need.
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="58">
+<TITLE>
+Host 
+</TITLE>
+<DESC>
+Schedules day and shift assignments for all dining room personnel, and notifies them of same. Assigns service stations to all servers and bus persons. Informs service personnel of daily menu changes and specials, and other matters affecting dining room operations. Supervises the operation of the dining room during meal service periods adjusting patron seating flow in such manner as to balance customers among the various service stations. Graciously greets guests upon arrival, escorts them to their table, provides menus to them once seated, and informs guests of name of their assigned server. Manages special seating requests of guests consistent with table availability. Relays messages to servers and bus persons as appropriate. Assists with the duties of servers and bus persons as needed to maintain service effectiveness and efficiency. Oversees training of all new service employees.
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="59">
+<TITLE>
+Host 
+</TITLE>
+<DESC>
+ESSENTIAL DUTIES AND RESPONSIBILITIES include the following. Other duties may also be assigned. 
+Primary Responsibilities: Greets (both arriving and departing) and seats all guests in a friendly manner and assists in maintaining the overall guest flow of the restaurant. 
+Specific Functions and Duties: 
+1. Opens door for guests arriving and departing. (40%*) 
+2. Accommodates any special needs of guests, i.e., boosters, highchairs, disabilities. (35%*) 
+3. Manages the Wait List when the restaurant is full. (10%*) 
+4. Provides guest assistance to servers as needed. (5%*) 
+5. Maintains a clean and organized work area and completes cleaning as assigned. (5%*) 
+6. Fills out the feature board and inflates balloons. (5%*). 
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="60">
+<TITLE>
+Host/Hostess
+</TITLE>
+<DESC>
+Assigns service to all servers and bus person. Supervises the operation of the dining room during meal service periods adjusting patron seating flow in such manner as to balance customer’s amount the various service stations. Graciously greets guest upon arrival, escorts them to their tables, provides menus to them once seated, and informs guest of name of their assigned server.  Manages special seating requests of guest consistent with table availability. Relays messages to servers and bus persons as needed to maintain service effectiveness and efficiency.
+Maintains a professional appearance at all times, clean and well-groomed as per standard.
+Assigns service stations to all service personnel observing their presentability for compliance with appearance and uniform standards.
+Check table settings for proper presentation and completeness, and checks service tray stations for adequacy of supplies used to refill or replacement purpose.
+Graciously greets guest upon their arrival and escorts them to a table, balancing the customer flow among the service stations, taking into request for a particular table or server, depending on availability.
+Assist with seating as appropriate, and once seated, provides guest, and informs them of the name of their server.
+Oversees the general functioning of the dining room during the meal service period, relaying information to service personnel, requesting feedback from guest as to their satisfaction, making adjustments when and where necessary.
+Assists with duties of servers and bus persons such as securing a food and beverage item for a patron, resetting a table for reuse, etc., as the customer traffic flow allows, to assure the maintenance of food service effectiveness and efficiency. 
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="61">
+<TITLE>
+Hosts 
+</TITLE>
+<DESC>
+Ideal applicants would have prior full-service or fine-dining restaurant experience. Must have night and weekend availability.
+Hosting- duties include, seating guests, taking reservations, quoting wait-times, entering take out orders with a positive attitude. Work schedule consists of 4-5 nights per week. Shifts start at approx. 4:30pm and end approx. at 10:00pm.
+Runner/Busser- duties include but not limited to: food running, clearing tables, general cleaning of establishment. Work schedule consists of typically 5 nights per week. Shifts start at approx. 3:00pm and end approx. 10:30-11:00pm
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="62">
+<TITLE>
+HOST/ HOSTESS
+</TITLE>
+<DESC>
+To be an ambassador for PUBLIC Chicago and the Pump Room by meeting, and hopefully exceeding, the company core objectives and values.
+To be fully accountable for the people, product and profit within the hotel.
+To deliver excellence in customer service, remember that service matters most.
+To ensure the company culture is visible in all aspects of the business.
+The Business:             
+Ensure that company reporting systems are adhered to.
+Ensure all hotel and restaurant policies, standards and local laws are followed.
+Ensure sanitation fundamentals that are set forth by PUBLIC Chicago, local, state and federal regulations are in compliance
+Think and act like an owner
+The People:
+Behave at all times based on a customer responsive culture where exceptional customer service prevails.
+Ambassador and protector of the brand.  Keeper of the brand and the company culture is carried at all levels of the company in the back and front of the house areas. 
+Attentive, Accountable and highly organized and has the ability to plan multiple activities and meet deadlines.
+Excellent interpersonal and communication skills.  Excellent phone skills, customer service oriented and proactive.  Ability to maintain a positive and professional demeanor at all times.
+Is Friendly, engaging, gracious, has the ability to focus and connect with all guests at all levels and employees and exceed their expectations.
+Has an upbeat, energetic, authentic and professional attitude at all times.
+Participate in teamwork and assist other departments when needed.
+The Product:
+To maintain and follow PUBLIC Chicago core values and operational core standards to ensure hotel is always well presented.
+Maintain a spotless, pristine work environment
+Ensure that all guests using the hotel facilities are completely satisfied and believe that they have received a tremendous value
+Ensure the correct preparation and presentation of a consistent level for all bar items prepared through production and demonstration
+Develops relationships with guests in order to provide personalized service. 
+Resolve guest complaints, handling all guest interactions with the highest level of hospitality and professionalism, accommodating special requests whenever possible.  Responds to guests’ requests in an accurate and timely manner, creating a positive outcome that will result in a memorable experience.
+Develop relationships with potential guests in an effort to increase sales
+Undertake regular internal inspections to ensure company’s assets are well maintained and protected.
+The Rest:
+Expert in restaurant operations and excellent knowledge of all departments internally.
+Protect the name of the hotel and PUBLIC Chicago and ensure that no actions are taken within, or in the name of, the hotel that could bring PUBLIC Chicago into disrepute.
+Takes action in all matters related to the safety, security, satisfaction and wellbeing of employees, hotel guests and property.  Responds swiftly and effectively in any hotel emergency of safety situations.
+Assure the proper handling of VIPs.  Protect their privacy and confidentiality.
+Ensuring compliance to all hotel policies and procedures at all levels.
+Maintains an innovative technical expertise through attendance of professional meetings and review of current literature and trends.
+Greets and acknowledges guests while smiling and making eye contact.
+Communicates guests needs to staff/management, i.e. celebrating anniversary and or birthday, etc.
+Alerts the Chef/manager of business flow.
+All other responsibilities assigned by Management. 
+The Educational Requirements:          
+Computer literacy to include: Micros, Open Table
+Ability to read, write and speak English fluently
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="63">
+<TITLE>
+HOST/ HOSTESS
+</TITLE>
+<DESC>
+Minimun qualifications:
+Clear, pleasant and professional telephone voice
+Excellent communication skills
+Basic computer usage skills
+Must be alert to customers' needs
+Able to stand for 8-hour shift
+Able to lift at least 25 pounds
+Responsibilities
+Answer all phone calls promptly and professionally; directs them and takes messages as necessary.
+Aid callers with inquiries, requests, and complaints.
+Display thorough understanding of restaurant’s menu, specials, promotions, operations, layout, hours, location and area attractions.
+Receive and process cake and take-out orders.
+Attain guest credit card authorizations for group reservations and maintains a filing system.
+Greet guests promptly with a positive attitude and in a professional manner.
+Seats guest in accordance with their requests and availability.
+Quote appropriate wait times.
+Page guests in accordance with their table availability.
+Maintain the host-stand in terms of organization and cleanliness.
+Confirm reservations by phone.
+Anchor the host stand to control the flow of guests.
+Issue, accept and ring-up gift cards.
+Create station templates.
+Print menus.
+Attend daily pre-shift meetings conducted by the Manager on Duty.
+Issue and accept employment application forms in accordance with the restaurant policy.
+Perform all other related duties as assigned by the Front Door/ Restaurant Manager.
+Exercises the restaurant's policies and procedures in accordance with the above responsibilities.
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="64">
+<TITLE>
+Host/Hostess
+</TITLE>
+<DESC>
+Union Sushi + Barbeque Bar is looking for a part or full-time experienced host/hostess for varous dinner/evening shifts Sunday - Saturday and a lunch/afternoon shift on Friday. Must be able to perform the following:
+1. Welcoming customers to restaurant and and seating accordingly
+2. Managing reservations through OpenTable
+3. Assisting in setting up the dining room for both lunch and dinner shift
+4. Managing take out and delivery orders
+5. Able to work well with others and maintain positive attitude in fast-paced environment
+6. Must have previous experience in a high volume restaurant
+Please feel free to stop by the restaurant at 230 West Erie Street to fill out an application and drop off your resume.
+ABOUT UNION SUSHI + BARBEQUE BAR
+Union Sushi + Barbeque Bar is a bustling neighborhood restaurant located in Chicago's popular River North neighborhood. Union combines the tempered art of Japanese dining with a fresh, colorful and urban vibe. Embracing an American warmth and personality, this playful juxtaposition reveals a restaurant that is welcoming, accommodating and stylish. A true riff on what is expected or traditional - East or West.
+Union ups the ante on Japanese dining with its high-energy beat, creativity and playful approach to Japanese-influenced cuisine. The menu boasts a variety of flavorful offerings from the Kitchen, Sushi Bar and signature Barbeque Bar showcasing the 600 degree Robata Grill. The beverage program offers a varied cocktail menu of carefully handcrafted and inventive cocktails. A thorough sake collection is available as well as extensive craft beers, liquors and a spirited wine list.
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="65">
+<TITLE>
+HOST/TO-GO
+</TITLE>
+<DESC>
+At Hurricane Grill and Wings our hosts/to-go people are responsible for welcoming our guests as they begin their flavor vacation with us. As a Hurricane Grill and Wings host you will be working in a fast-paced, guest-centric, team focused environment which focuses on fulfilling our guests' craving for flavorful food in a laid back seaside environment by:
+Making every single guest feel welcome at the door
+Engaging in friendly conversation as you seat guests in a timely fashion
+Managing restaurant waiting list during high volume to accurately set guest expectations
+Accurately taking and packaging to-go orders
+Always sincerely thanking guests as they leave and inviting them to return
+SKILLS / REQUIREMENTS
+Requirements:
+Warm and Friendly personality
+Guest Focused
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="66">
+<TITLE>
+Restaurant Host/Hostess
+</TITLE>
+<DESC>
+Summary: This position will ensure all guests are 
+greeted and seated in a friendly and courteous manner. 
+Responsibilities: 
+* Greet guests when entering the restaurant with a 
+pleasant smile and superior customer service 
+* Seat guests by finding a clean, available table, 
+pulling out chairs, and placing clean menu in front 
+of guest 
+* Answer phone and record reservations for large 
+parties 
+* Control high volume outside of restaurant 
+* Monitor dining rooms for seating availability, 
+service, safety and well being of guests 
+* Assist servers when needed 
+* Thank every guest upon departure, invite them to 
+return, and wish them a fond farewell
+Job Requirements
+* Must have strong verbal and written communication 
+skills 
+* Must be able to multi task 
+* Must be able to stand and walk for an extended 
+period of time or for an entire shift 
+* Must be able to move, lift, carry, push, pull, and 
+place objects weighing up to 10lbs without 
+assistance 
+* Must be able to work flexible shifts including 
+nights, weekends, and holidays
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="67">
+<TITLE>
+Restaurant Host/Hostess
+</TITLE>
+<DESC>
+A Peter Piper Pizza Team Member has fun in a fast-paced, high energy environment, where everyone on the team works hard and works together to ensure that Every Guest Leaves Happy. You will have the opportunity to learn all aspects of Restaurant Operations, from guest service to food preparation and cash handling! There are so many ways to grow your career with Peter Piper Pizza, especially since we promote from within. We are open weekends, late evenings and holidays, except for Christmas day. 
+Responsibilities:
+* Ability to interact with customers: receive orders, process payment, respond appropriately to customer issues
+* Preparation of products as ordered by customers
+* Uncompromising standards in maintaining a clean and safe work environment, maintaining clean bathrooms, building exterior, parking lot, dumpsters and sidewalk
+* Unloading and stocking required
+* Ability to operate cash register or point of sale terminal, as needed
+Requirements
+Minimum Qualifications:
+* Must be at least sixteen (16) years of age
+* Able to lift/move up to 50 pounds
+* No visible tattoos on the head, neck or face above the uniform and no visible tattoos on arms or hands except for one smaller than 1 inch by 1 inch, unless concealed with clothing or naturally colored concealer.
+Hourly positions include:
+* Front of House
+* Back of House
+* Birthday Host/Hostess
+* Cashier
+* Dough Rollout (must be able to lift/move up to 50 pounds)
+* Game Room Attendant
+* Make Table/Prep
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="68">
+<TITLE>
+Hosts
+</TITLE>
+<DESC>
+Qualifications:
+1. Restaurant experience is preferred
+2. Highly motivated and energetic
+3. Great work ethic
+4. Team orientated
+5. The ability to meet Pluckers high standards of guest service
+Employee Benefits for All Positions:
+1. Plucker Buck Program (you receive Plucker Bucks for hours worked and going above and beyond, they can be redeemed for food, merchandise and even real money!!!)
+2. Discounted Meals
+3. Schedule Flexibility
+4. Advancement Opportunities
+5. Referral Program
+6. And more!
+We are looking for outgoing, motivated, and energetic people. 
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="69">
+<TITLE>
+Host / Hostesses
+</TITLE>
+<DESC>
+If you are:
+A strong Team Player
+A Good communicator
+Organized with a great attention to detail
+At least 18 years old
+Able to prepare the best quality of food with uncompromising Health & Safety Standards
+When you bring your great attitude and work ethic to Red Robin, you will enjoy:
+Flexible Hours
+Fun & Exciting Workplace
+Advancement Opportunities
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="70">
+<TITLE>
+Host / Hostesses
+</TITLE>
+<DESC>
+The Host position greets the customer immediately when they enter Hooters. This is a part-time position. This position must possess a personal and energetic personality to welcome and seat guests ensuring their needs are accommodated. The Host recognizes and knows how to assist parties with children, large parties, businessmen/women and all other types of people that enter Hooters doors. The Host controls the flow of the restaurant through seating and to alleviate Hooters Girls from getting multiple tables at one time to ensure each guest gets an excellent service experience. The Host must be aware of new menu items and specials and be able to answer all questions about the menu. The Host may also act as the person responsible for To Go Orders and selling of Merchandise. The Host follows up with guests as they are leaving to ensure they had a great experience and reminds them of events to come back for. They are attentive to the FOH atmosphere and ensure that the lighting, music volume, and overall cleanliness are all being kept up for a great first impression. The Hooters Host embraces the company’s core values: Show You Care, Elevate the Spirit, Respect Everyone, Values Feedback, and Exceeds Expectations.
+Responsibilities:
+Responsibilities
+  Team Player
+  Promotional Representation
+  Community Outreach & Events Participation
+  Sales Generation, including To Go Sales and Merchandise
+  Professional Team Communication
+  Performs assigned tasks
+  Continuous development of food & beverage product knowledge
+Accountabilities
+Food
+  Ensures proper sanitation and food handling
+  Food & Beverage Quality Assurance
+  Accurate Food Presentation
+Atmosphere
+  Rotation Seating
+  Prepared, in  uniform & Punctual for Shift
+  Welcoming, Personable, and Courteous
+Service
+  Attentive Customer Service
+  Responsible  Cash Handling
+  Sense of Urgency
+  Store Events Spokesperson
+  Order Accuracy
+  Cleanliness
+Qualifications:
+Knowledge, Skills, Abilities
+  Must be 18 years of age or older
+  Customer Service Skills
+  Basic Mathematical Computations Skills
+  Ability to promote Brand Integrity
+  Ability to maintain Professionalism at all times
+  Ability to Communicate clearly
+  Ability to work well with others
+  Ability to multi-task
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="71">
+<TITLE>
+Host / Hostesses
+</TITLE>
+<DESC>
+Host/Hostesses work in a team-oriented, high-volume, fast-paced, environment to deliver a fantastic dining experience to our guests.
+RESPONSIBILITIES:
+Greets guests in a friendly and inviting manner
+Engage in friendly conversation as you seat guests in a timely fashion
+Advise guests of current specials, new menu items, promotions and Club Cantina
+Manage restaurant waiting list during high volume times to accurately set guest expectations
+Clear, clean and reset tables to ensure they are ready for the next guest
+Always sincerely thank guests as they leave and invite them to return
+Assists other Team Members as needed or when business needs dictate
+Adhere to all company safety and sanitation policies and procedures
+Requirements
+QUALIFICATIONS:
+Must be at least 16 years of age
+Demonstrated ability to interact with the public and coworkers in a friendly, enthusiastic and outgoing manner
+Ability to bend, twist, and stand to perform normal job functions
+Ability to speak, read and comprehend instructions, short correspondence and policy documents, as well as converse comfortably with customers in English
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="72">
+<TITLE>
+Maitre d’ - Assistant Dining Room Manager 
+</TITLE>
+<DESC>
+This is 3-4 night a week position, averaging 24-32 hours per week.
+Shifts will consist of evenings and weekends.
+Compensation based on experience.
+Responsibilities & Qualifications:
+Greeting guests and ensuring their experience is meeting/exceeding restaurant standards.
+To assist general manager and restaurant manager to oversee and manage all areas of the dining room.
+To make final decisions on matters of importance to guest service.
+Investigate and resolve issues concerning food quality and service.
+Will be responsible for closing the restaurant, balancing drawers, and end of night deposits.
+Ability to motivate and discipline employees to work as a team to ensure that food and service meet appropriate standards.
+Self-discipline, initiative, leadership ability and outgoing.
+Pleasant, polite manner and a neat and clean appearance.
+Must be able to handle the pressures of simultaneously coordinating a wide range of activities and recommend appropriate solutions to restaurant problems.
+Must possess good communication skills for dealing with diverse staff.
+At least 2 years restaurant management experience preferred.
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="73">
+<TITLE>
+Assistant Maitre D'
+</TITLE>
+<DESC>
+Combine your experience and sense of adventure by joining our exciting team of employees working onboard our ships at sea. Celebrity Cruises is looking for inspired global professionals who believe in success through commitment and pride to join our expanding family. As an industry leader in service and innovation, we provide a working environment that fosters career growth and development for our onboard team members. With a fleet of innovative cruise ships, each offering guests a premium vacation experience, there are almost countless opportunities to join us at sea.
+As our Assistant Maitre D you will be a part of our exciting, passionate and fast pace high-volume shipboard restaurant operation team. Together with the Restaurant Manager and Maitre D’, the Asst Maitre D’ is responsible of the day to day operation of the assigned restaurant section (s) or buffet operation of the ship and guest’s service ratings.
+Career snapshot:
+•Ensures the efficient and cost effective running of Restaurant Operation as per company budgetary guidelines
+•As per company standards, ensures guest’s satisfaction at all time with their table assignments, overall service at the restaurant (s) or Buffets
+•As per guidance from the Restaurant Manager, ensures that all crewmembers in the Restaurant receive a complete familiarization and training in their positions and are made aware of the company service standards and the vessel’s rules and regulation.
+Qualifications
+Requirements:
+•Bachelor degree in Hospitality Management from accredited college/university or the international equivalent preferred
+•Minimum 5-8 years hospitality management experience from hotel or cruise ships or the equivalent combination between experience and education
+•Superior customer service approach, team building and conflict resolution skills
+•Knowledge of the principles and processes for providing personalized services including needs assessment techniques, quality service standards, alternative delivery systems, and guest satisfaction evaluation techniques
+•Strong planning, coaching, organizing, staffing, controlling, and evaluating skills
+•Possess a good understanding of basic accounting principles such as numbering flow, “Debits/Credits”, adjusting entries and corrections
+•Ability to speak, read and write English clearly and distinctly
+•All international applicants must have the ability to obtain C1/D visa (and other relevant visas) when applicable
+•Must meet all physical requirements, including the ability to participate in emergency life-saving drills and required training
+Preferences:
+•Ability to speak Ability to speak, read and write multiple languages is a plus
+•Cruise ship experience and USPH knowledge
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="74">
+<TITLE>
+Maitre D'
+</TITLE>
+<DESC>
+The primary focus of the incumbent will be to focus on professionalism and providing a superior customer experience from a hospitality standpoint. The incumbent will assist in coordinating the different facets and timing of (front door, bar, kitchen and servers) to ensure a superior well paced guest experience. This individual will report directly to the GM and manager on duty. He/she must have a visible presence in the dining room interacting with the guest base by catering to their needs and making sure any potential issues are mitigated before an experience deteriorates. This individual is expected to be catalysts for the second floor team and guests to want to return because of the professionalism, hospitality and graciousness consistently displayed. 
+Duties & Responsibilities	
+•	Assist in handling reservations and floor charts 
+•	Assist managers with pacing the flow of the guest experience from the initial greeting (host stand), to the bar/lounge and to the dining room 
+•	Assist in any operational needs on the third floor. 
+•	Work with private dining events to assist with guests and cater to their needs. 
+•	Handle guests’ complaints and concerns in a professional manner. 
+•	Assist with GM and Managers on style of service for second floor. 
+•	Assist with service staff to fill in the gaps. 
+•	Advising guests on menus & beverage choices. 
+•	Checking and dealing with guests Special Occasion arrangements eg.Birthdays, Anniversaries, Honeymoons, Weddings 
+•	Promote special In House events eg. Winemakers Dinners , Cocktails, Tasting sessions 
+•	Oversea and pro-actively deal with guest queries and complaints. 
+•	This is not a tipped position. 
+Skills & Competencies	
+•	A genuine interest and understanding in food and drink – wine and cocktail knowledge is essential - must be comfortable discussing food, wine, cocktails, cordials and current events 
+•	Exceptional communication and presentational skills. 
+•	Must be professional and have a noticeable style/elegance. 
+•	Good problem solving skills. 
+•	Ability to think on your feet and under pressure while maintaining a positive outlook and attention to detail. 
+•	Excellent Customer Service Skills and ability to understand and respond to individual guests’ needs and requirements. 
+•	Able to organize time effectively, forward plan and prioritize tasks to ensure work load is balanced and urgent situations are dealt with immediately. Ability to multitask 
+•	Ability to work as part of a small team and independently and use initiative 
+•	Must have excellent communication skills and conflict resolution skills 
+•	Must smile and be even keeled (calm under pressure). 
+•	Must enjoy being around people 
+Minimum Education & Training	
+•	Must have a high school education and worldly experience. 
+•	Must have 5 years or more of active participation in fine dining. 
+•	Must have a high depth of knowledge and experience with fine dining service methods. 
+•	Must have working knowledge of POS systems. 
+Environmental Working Conditions	
+•	Must be able to lift trays of beverages or food. 
+•	Must be able to work nights 5-midnight. 
+•	Work requires standing for a shift. 
+•	Restaurant FOH highly professional environment interacting with high level demanding clientele.
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="75">
+<TITLE>
+Maitre D'
+</TITLE>
+<DESC>
+The Maitre D’ assists the Restaurant Manager in all phases of the restaurant operation. He/She assumes full responsibility of the management and supervision of the restaurant in the absence of the restaurant manager.
+ A representative list of duties associated with the Maitre D’ position is as follows: 
+•	Assists the restaurant manager with personnel scheduling
+•	Assists in the preparation of payroll and personnel related matters
+•	Maintains awareness of the duties of all restaurant personnel and supervises performance
+•	Assists in all training by giving input, planning lessons and teaching
+•	Assures that the table setting and general condition of the restaurant is up to standards
+•	Assigns stations and duties to waiters and assistant
+•	Remains in the restaurant during operating hours and assists both staff and guests as needed
+•	Assists in greeting and seating guests and ensures prompt, efficient and courteous service
+•	Handles reservations, questions, and complains as required
+•	Assists in management decision-making when called upon
+•	Must be familiar with the Safety and operational policies and procedures
+REQUIREMENTS
+   One year prior restaurant experience minimum
+   Management/Supervisory/Mentor experience desired
+   Fluent English-speaking and writing skills
+   Able to lift 50 pounds to waist level
+   Customer-friendly demeanor
+   Neat, clean, and professional appearance
+   Culinary coursework or equivalent experience in operations
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="76">
+<TITLE>
+Maitre D'
+</TITLE>
+<DESC>
+We are seeking well spoken individuals with a passion for Italian food, wine, and culture and are interested in personal and professional growth. Those with an enthusiasm for providing the highest level of hospitality, who work well in a positive, team oriented environment will thrive as members of our team.
+SKILLS & REQUIREMENTS
+Classic Food and Wine Service
+Excellent Customer Service 
+Experience in a Fine Dining Establishment
+POS System
+Conflict Resolution 
+Experience with OpenTable or other programs
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="77">
+<TITLE>
+Maitre d' (Host/Hostess)
+</TITLE>
+<DESC>
+The Maitre’d is a key position and imperative to driving business into the restaurant. The Maitre’d is responsible for coordinating and managing all reservations, dining room and banquet seating, guest assistance, guest needs and the flow of guests in and out of the restaurant. Hospitality and communication skills are necessary and required. The Maitre’d is ultimately responsible for managing all aspects of the front door, guest arrival, seating and departure, host training, and operational procedures.
+Organize greeting, seating and exiting of all guests using a professional demeanor
+Organize all reservations, and guests using the most effective guest and restaurant conscious procedures
+Professionally and effectively communicate with guests to ensure guest satisfaction
+Maintain guest relationships to promote repeat business
+Communicate with bar, service, kitchen and management staff.
+Provide the highest quality service to guests at all times
+Maintain integrity of service
+Speak with guests to encourage feedback
+Knowledge of all food and beverage menus
+Requirements:
+Education and Experience
+Responsive and genuine with customers.
+Maintain a clean and healthy personal hygiene and grooming
+Must have excellent communication and organization skills
+Must be willing to work a flexible schedule and holidays
+ability to handle multiple tasks at one time
+ability to handle guest requests in a detailed manner
+minimum 1 year experience, reception or a similar position
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="78">
+<TITLE>
+Maitre D'
+</TITLE>
+<DESC>
+Responsible for overall supervision of a Fine Dining Room including but not limited to staff development, scheduling, BOH/FOH coordination, guest service and guest retention. Provides superior customer experience, possess in depth knowledge about Food & Beverage in addition to superior customer relations skills.    
+ESSENTIAL DUTIES AND REQUIREMENTS:
+Interacts effectively with the public and Team Members. Performs excellent customer service at all times.
+Handle guests professionally and personally, greeting, seating, taking reservations and interacting with appropriate levels of service.
+Formulates, administers and enforces venue policies and performance standards.
+Ensures departmental compliance with applicable Federal and State laws governing food.
+Confers with Director of Food and Beverage to review Venue Team Member concerns, discussing needed changes and potential solutions
+Maintains compliance with all regulations of health and sanitation standards as well as all applicable federal, state, local laws/ordinances; to include maintaining applicable food safety certification.
+Understands and focus on both internal & external guest.
+Develops a team environment fostering a positive FOH/BOH relationship.
+Maintains appropriate staffing levels in the venue by interviewing, selecting, training, scheduling, evaluating, promoting, assisting with career development, and disciplining and terminating Team Member as needed.
+Develops staff in upsell techniques, cocktail/wine knowledge, and understanding of food preparation techniques.
+Participates in special projects as requested by the Director of Food and Beverage.
+Manages flow of the restaurant and individual server stations.
+Pre-shift, in conjunction with the Room Chef, each evenings specials, including food, wine, featured cocktails/beer, and any property event/promotion specific to the evening.
+Ensures a luxury experience in the Venue at all times.
+Facilitates the flow of information to the venue by attending and organizing regularly scheduled departmental meetings with Food and Beverage Management.
+Ensures to the highest degree the accuracy and thoroughness of departmental records and reports.
+Maintains a consistent, regular attendance. 
+Performs any reasonable request made by management.
+QUALIFICATION REQUIREMENTS:
+EDUCATION and/or EXPERIENCE:
+High School Diploma or GED required; Minimum 5 year’s fine dining service with at least 2 years as Maitre’d or Head Waiter in a Fine Dining environment  Excellent communication is a must. Superior customer relations skills required.  
+LANGUAGE SKILLS:
+Ability to respond to common inquiries or complaints from guests, both internal & external. Ability to effectively present information to top management.
+MATHEMATICAL SKILLS:
+Ability to add, subtract, multiply and divide in all units of measure, using whole numbers, common fractions, and decimals, and work with mathematical concepts such as probability and statistical inference.
+REASONING ABILITY:
+Ability to define problems, collect data, establish facts, and draw valid conclusions. Ability to work under pressure while maintaining a positive outlook and attention to detail.
+PHYSICAL DEMANDS:
+The physical demands described here are representative of those that must be met by a Team Member to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+While performing the duties of this job, the Team Member is regularly required to talk or hear. The Team Member is also regularly required to stand; walk; and use hands to finger, handle, or feel objects, tools or controls.  The Team Member is occasionally required to reach with hands and arms, and to sit; climb or balance; and stoop, kneel, crouch or crawl.  
+Specific vision abilities required by this job include close vision, distance vision, color vision, peripheral vision, depth perception, and the ability to adjust focus. 
+WORK ENVIRONMENT:
+The work environment characteristics described here are representative of those a Team Member encounters while performing the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="79">
+<TITLE>
+Host
+</TITLE>
+<DESC>
+Responsibilities include:
+-Greet and seat guests in a timely, friendly, and 
+professional manner.
+-Make reservations and answer questions relating to the 
+café.
+-Work cooperatively with cafe staff and management to provide 
+outstanding customer service to all guests. 
+Experience - External	At least one year experience as a restaurant host, hotel concierge, or related 
+customer service position required. 
+-Ability to perform multiple tasks under 
+pressure, knowledge of restaurant work, light math and computer skills is 
+preferred.
+-Experience working with children is desirable. 
+-Must be 
+available Friday, Saturday and Sunday. Open availability a plus.
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="80">
+<TITLE>
+Host/Hostess
+</TITLE>
+<DESC>
+As a Host/Hostess, you must be motivated, team oriented, friendly, dependable and driven to providing excellent guest service. As a Host/Hostess you will be responsible for greeting guests as they enter the restaurant and finding out their needs. All Hosts/Hostesses are responsible for helping guests fulfill their needs, whether that is directing them to the bar, seating them in the dining room, or showing them where they can place a to-go order. The ability to work with a team in a fast paced environment is a must for this position! This position requires you to stand for up to 8 hours a shift and work in a noisy environment. In addition, this position has a varying schedule that can include nights, weekends, and holidays.
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="81">
+<TITLE>
+Hostess
+</TITLE>
+<DESC>
+Welcome and warmly greet guests on arrival. Manage the efficient and timely seating of our guests to a table that best serves their wishes.
+Duties and Responsibilities:
+Warmly and graciously greet all guests upon arrival.
+When possible, open the front door for guests entering or leaving the restaurant.
+When immediate seating is limited, record guest names and number of people in party.
+Call out name and number of party when tables become available.
+Provide guests with estimated waiting time.
+Answer phone and provide superior customer service.
+Accommodate special seating requests for guests whenever possible.
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="82">
+<TITLE>
+Host/ess
+</TITLE>
+<DESC>The host/reservationist is the first and last person a guest will interact with in the restaurant. Therefore, it is imperative that the first and last impression a guest will have is positive, gracious and professional. Most importantly, you will be supervising and coordinating the flow of the dining room. Constant communication with the kitchen and managers is key to a successful lunch/dinner service. 
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="83">
+<TITLE>
+HOST/HOSTESS
+</TITLE>
+<DESC>
+Serves, welcomes and greets guests at restaurant, obtains information from guests and ushers guests to seats ensuring a positive guest experience. Duties include, but are not limited:
+Conducts themselves in accordance with all Gaming Commission Regulations, and Seminole Tribe of /departmental policies and procedures.
+Greets guest at entrance to restaurant in a positive manner.
+Obtains basic information from guest such as name, number in party, and seating preferences.
+Ushers guests to seat location at a pace that is comfortable to the guests.
+Enters guest checks in the computer system, applies monies received and makes accurate change.
+Verifies room charges, processes credit card payments, batches "tip" slips for server gratuities.
+May enter individual menu items into the computer system depending on outlet assigned.
+Collects and forwards to General Cashier Supervisor on a daily basis all unused comps and coupons.
+Maintains current knowledge of rules, regulations, policies and procedures including precheck and cashiering procedures.
+Job Requirements:
+High School Diploma or equivalent with a minimum of 6 months experience in high volume food service required, or the equivalent combination of education and experience. Must possess basic mathematical skills specific to position responsibilities. Must be able to lift up to 25 pounds and be able to stand and walk. Ability to read and understand all Seminole Tribe of Florida policies and procedures and ability to complete standard Seminole Tribe of Florida forms and reports are required. Must be able to communicate effectively with guests in English, specific to position duties and responsibilities. 
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="84">
+<TITLE>
+Host/Hostess 
+</TITLE>
+<DESC>
+The Host/Hostess is responsible for the receiving and seating of guests and performing a variety of other tasks within a restaurant establishment which may include ringing up orders, refilling beverages, setting tables, and cleaning eating/serving areas; performing all other responsibilities as directed by the business or as assigned by management. This is a non-exempt position and typically reports to the Store Manager.
+Essential Functions: 
+Maintains consistent attention to the entrance of the restaurant and welcomes all guests with a smile and appropriate greeting following the company's customer service standards
+Records customer reservations or seating times in a consistent manner providing the highest quality of service to the customer at all times
+Set tables with appropriate silverware, glass and china; maintain neat and clean work station during service
+Seats guests and presents the menu and any specials seats according to company standards
+Oversees the delivery and servicing of food and beverages
+Communicates with the wait staff and other restaurant personnel to ensure the guests' experience meets concept/company standards
+Performs the tasks of the cashier and/or bus person as required including cashing out guests checks to speed up service
+Understands and follows the company's cash handling policies and procedures and maintain proper security of cash at all times
+Patrol assigned station, refilling water and coffee, removing service items and condiments per establishment procedures
+Perform other duties in a team effort during downtime which may include rolling silverware, expediting food orders, washing dishes, preparing food for the To-go areas and properly cleaning and filling table condiments (salt & pepper, sugar, napkins, ketchup and mustard bottles)
+Minimum Qualifications, Knowledge, Skills, and Work Environment: 
+o Customer service and cash handling experience preferred
+o Demonstrates the ability to interact with the public and coworkers in a friendly, enthusiastic and outgoing manner
+o Ability to bend, twist, and stand to perform normal job functions
+o Requires the ability to speak, read and comprehend instructions, short correspondence and policy documents, as well as converse comfortably with customers
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="85">
+<TITLE>
+Host/Hostess
+</TITLE>
+<DESC>
+Greet guests and determine the number in their party. Seat guests by finding a clean, available table; pulling out chairs; placing clean/current menu in front of guest, etc. Guide guests through the dining rooms and provide any needed assistance. Move and arrange tables, chairs, and settings and organize seating for groups with special needs. Ensure place settings are appropriate and each guest has a napkin, clean silverware, and any other item that is part of the standard place setting. Check menus to ensure they are current, clean, plentiful, and wrinkle-free. Maintain cleanliness of work areas throughout the day, practicing clean-as-you-go procedures. Monitor dining rooms for seating availability, service, safety, and well being of guests.
+     Follow all company and safety and security policies and procedures; report accidents, injuries, and unsafe work conditions to manager; and complete safety training and certifications. Ensure uniform and personal appearance are clean and professional, maintain confidentiality of proprietary information, and protect company assets. Welcome and acknowledge all guests according to company standards. Speak with others using clear and professional language, and answer telephones using appropriate etiquette. Develop and maintain positive working relationships with others, support team to reach common goals, and listen and respond appropriately to the concerns of other employees. Ensure adherence to quality expectations and standards. Stand, sit, or walk for an extended period of time. Move, lift, carry, push, pull, and place objects weighing less than or equal to 10 pounds without assistance. Perform other reasonable job duties as requested by Supervisors.
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="86">
+<TITLE>
+Host/Hostess
+</TITLE>
+<DESC>
+The Host/Hostess is responsible for the receiving and seating of guests and performing a variety of other tasks within a restaurant establishment which may include ringing up orders, refilling beverages, setting tables, and cleaning eating/serving areas; performing all other responsibilities as directed by the business or as assigned by management. This is a non-exempt position and typically reports to the Store Manager.
+Essential Functions: 
+Maintains consistent attention to the entrance of the restaurant and welcomes all guests with a smile and appropriate greeting following the company's customer service standards
+Records customer reservations or seating times in a consistent manner providing the highest quality of service to the customer at all times
+Set tables with appropriate silverware, glass and china; maintain neat and clean work station during service
+Seats guests and presents the menu and any specials seats according to company standards
+Oversees the delivery and servicing of food and beverages
+Communicates with the wait staff and other restaurant personnel to ensure the guests' experience meets concept/company standards
+Performs the tasks of the cashier and/or bus person as required including cashing out guests checks to speed up service
+Understands and follows the company's cash handling policies and procedures and maintain proper security of cash at all times
+Patrol assigned station, refilling water and coffee, removing service items and condiments per establishment procedures
+Perform other duties in a team effort during downtime which may include rolling silverware, expediting food orders, washing dishes, preparing food for the To-go areas and properly cleaning and filling table condiments (salt & pepper, sugar, napkins, ketchup and mustard bottles)
+Minimum Qualifications, Knowledge, Skills, and Work Environment: 
+o Customer service and cash handling experience preferred
+o Demonstrates the ability to interact with the public and coworkers in a friendly, enthusiastic and outgoing manner
+o Ability to bend, twist, and stand to perform normal job functions
+o Requires the ability to speak, read and comprehend instructions, short correspondence and policy documents, as well as converse comfortably with customers
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="87">
+<TITLE>
+Host/Hostess
+</TITLE>
+<DESC>
+Essential Functions:
+Maintains consistent attention to the entrance of the restaurant and welcomes all guests with a smile and appropriate greeting following the company's customer service standards
+Records customer reservations or seating times in a consistent manner providing the highest quality of service to the customer at all times
+Set tables with appropriate silverware, glass and china; maintain neat and clean work station during service
+Seats guests and presents the menu and any specials seats according to company standards
+Oversees the delivery and servicing of food and beverages
+Communicates with the wait staff and other restaurant personnel to ensure the guests' experience meets concept/company standards
+Performs the tasks of the cashier and/or bus person as required including cashing out guests checks to speed up service
+Understands and follows the company's cash handling policies and procedures and maintain proper security of cash at all times
+Patrol assigned station, refilling water and coffee, removing service items and condiments per establishment procedures
+Perform other duties in a team effort during downtime which may include rolling silverware, expediting food orders, washing dishes, etc.
+Requirements:
+Minimum Qualifications, Knowledge, Skills, and Work Environment:
+o Customer service and cash handling experience preferred
+o Demonstrates the ability to interact with the public and coworkers in a friendly, enthusiastic and outgoing manner
+o Ability to bend, twist, and stand to perform normal job functions
+o Requires the ability to speak, read and comprehend instructions, short correspondence and policy documents, as well as converse comfortably with customers
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="88">
+<TITLE>
+Host/Hostess
+</TITLE>
+<DESC>
+ Greet guests and determine the number in their party. Seat guests by finding a clean, available table; pulling out chairs; placing clean/current menu in front of guest, etc. Guide guests through the dining rooms and provide any needed assistance. Move and arrange tables, chairs, and settings and organize seating for groups with special needs. Ensure place settings are appropriate and each guest has a napkin, clean silverware, and any other item that is part of the standard place setting. Check menus to ensure they are current, clean, plentiful, and wrinkle-free. Maintain cleanliness of work areas throughout the day, practicing clean-as-you-go procedures. Monitor dining rooms for seating availability, service, safety, and well being of guests.
+     Follow all company and safety and security policies and procedures; report accidents, injuries, and unsafe work conditions to manager; and complete safety training and certifications. Ensure uniform and personal appearance are clean and professional, maintain confidentiality of proprietary information, and protect company assets. Welcome and acknowledge all guests according to company standards. Speak with others using clear and professional language, and answer telephones using appropriate etiquette. Develop and maintain positive working relationships with others, support team to reach common goals, and listen and respond appropriately to the concerns of other employees. Ensure adherence to quality expectations and standards. Stand, sit, or walk for an extended period of time. Move, lift, carry, push, pull, and place objects weighing less than or equal to 10 pounds without assistance. Perform other reasonable job duties as requested by Supervisors.
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="89">
+<TITLE>
+Host / Hostess
+</TITLE>
+<DESC>
+Maintain proper attire as a representative of the hotel.  Maintain established service standards.  Serve as a customer relations clerk of the hotel.  Maintain an orderly flow of customer traffic.
+Responsibilities:
+Includes the following.  Other duties may be assigned.
+Greet guest.
+Escort guest to tables.
+Present menus.
+Answer the Indigo Restaurant phone promptly and courteously.
+Receive, enter, and confirm Reservations for the Indigo Restaurant.
+Qualifications:
+While performing the duties of this Job, the employee is regularly required to stand; walk; use hands to finger, handle, or feel; reach with hands and arms and talk or hear. The employee is frequently required to taste or smell. The employee is occasionally required to stoop, kneel, crouch, or crawl.
+ The employee must frequently lift and/or move up to 25 pounds.  Specific vision abilities required by this job include close vision, distance vision, color vision, peripheral vision, depth perception and ability to adjust focus.
+While performing the duties of this Job, the employee is regularly exposed to outside weather conditions.  The noise level in the work environment is usually moderate.
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="90">
+<TITLE>
+Host / Hostess
+</TITLE>
+<DESC>
+We are looking for energetic and outgoing individuals who are passionate about people, the hospitality business and providing great experiences for those people, to fill Host / Hostess positions in our new location.
+Besito Mexican Restaurant Hostes / Hostesses are
+Outgoing, energetic and have excellent people skills
+Able to convey the Besito warmth and welcomeness to all patrons at all times
+Passionate about providing ALL people with the best experience possible
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="91">
+<TITLE>
+Host/ess
+</TITLE>
+<DESC>
+As the initial guest contact, the host/ess sets the tone for the entire dining experience. The host/hostess plays an essential role in establishing a positive and lasting relationship with our guests. The host/hostess is the first person to see the guest before they dine and the last person to see the guest before they leave.
+Looking for experienced, self-motivated individual that has open daytime availability and can run the host stand.
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="92">
+<TITLE>
+Host 
+</TITLE>
+<DESC>
+Ensure an ideal customer experience for each of our guests through prompt, friendly, and accurate service.
+Job Specifications:
+Making guests feel welcome with a warm, friendly greeting.
+Seating our guests.
+Handle our guests in a concerned and genuine manner.
+Accommodating our guests’ wants and needs to the best of your ability.
+Support and communicate with your team at all times.
+Invite our customers back as they depart and make a final positive impression.
+Knowledge, Skills, and Abilities:
+Exuberant and highly adaptable personality.
+Able to stay calm in a high stress, high volume environment.
+Knowledge of our food and drink.
+Able to manage the flow of seating to create an excellent experience for each customer.
+Able to multi-task.
+Strong communication skills.
+Basic computer literacy, familiarity with web-based programs.
+Physical Requirements:
+Must be able to move throughout the restaurant for extended periods of time (up to 10-12 hours per day).
+Must be able to carry 50 lbs. for distances of up to 10 ft.
+Must be able to balance and move up to 25 lbs. for distances of up to 50 ft.
+Must be able to understand and respond to employees’ and guests’ requests in a loud environment.
+Must be able to visually recognize proper food presentations and food quality.
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="93">
+<TITLE>
+Host
+</TITLE>
+<DESC>
+We’re always on the lookout for enthusiastic and charismatic multi-taskers who can handle the pressures of a busy door while exuding graciousness throughout the shift. Our host is the first person that our guests interact with which calls for a well-spoken candidate who displays warmth and confidence in their interactions with guests and coworkers alike.
+The ideal candidate will be a self-starter and proactive along with having a keen ability to assist with tasks before being asked.
+Summary
+Practices strong telephone and guest service etiquette.  Accurately records reservations.  Warmly and graciously greets and seats guests in the highest professional manner.
+Essential Functions
+Answers incoming telephone calls in a prompt and professional manner.
+Manages reservations to effectively seat entire dining room.
+Practices complete guest service by greeting and welcoming guests.
+Able to properly set tables.
+Understand mechanics of service and can arrange tables for large parties.
+Maintains a clean and organized front desk area.
+Ensures that there are plenty of menus for service period.
+Appears and acts in a professional manner.
+Correctly enters all tip records (due back checks) into Aloha POS.
+Attend mandatory trainings and meetings.
+Performs additional responsibilities, although not detailed, as requested by a manager at any time.
+Skills & Requirements
+Knowledge
+High school diploma and at least 1-2 years in a high volume, fine-dining restaurant
+Knowledge of the proper etiquette and service standards.
+Basic math skills
+Follows all safety and sanitation policies.
+Skills and Aptitudes
+English language and professional communications skills are required.
+Ability to take direction
+Ability to work in a team environment
+Ability to work calmly and effectively under pressure.
+Must have problem-solving abilities, be self-motivated, and organized.
+Commitment to gracious service and exceptional food and beverage knowledge.
+Working Conditions
+This position will spend 95% of the time standing and 5 percent of the time sitting.
+Occasional environmental exposures to cold, heat and water.
+The individual must be able to transport up to 30 pounds occasionally.
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="94">
+<TITLE>
+Host 
+</TITLE>
+<DESC>
+Zeeks Hosts are responsible for helping to ensure our customers have an outstanding experience by greeting guests at the door in a friendly, welcoming way and seating them at a table so that they are comfortable during their time at Zeeks. Great communication with our customers is a key element of the Host position. A Zeeks Host is professional at all times, able to work as part of a team, and is reliable and punctual. She/he must keep themselves on task and maintain a sense of focus and urgency at all times.
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="95">
+<TITLE>
+Restaurant Host
+</TITLE>
+<DESC>
+SUMMARY
+The Host/Hostess supervises and coordinates the greeting and seating of all guests arriving in the restaurant.   This position provides courteous and rapid service to enhance the guest experience through the use of the Oki Golf Universal Standards as well as other service requirements.
+ESSENTIAL DUTIES AND RESPONSIBILITIES
+Greet guests, escort them to their table while being aware of server sections and guest to server ratios in order to ensure a smooth and enjoyable dining experience for guests.
+Have a thorough knowledge of the menu and be able to answer guest questions.
+As necessary, take orders, relay food orders to the servers, relay beverage orders to the bartender.
+Maintain effective communication with the guests and fellow team members.
+Manage seating chart according to reservations and walk-ins including making calls to confirm large party reservations.
+Answer telephone properly and professionally; demonstrate a working knowledge of operations at the golf course and the Food and Beverage Department.
+Be the first to greet the guest upon arrival and thank them for coming when they leave. 
+QUALIFICATIONS, EDUCATION AND/OR EXPERIENCE
+Ability to adapt to change, flexible and empathetic
+Must be highly guest oriented and responsive with a high need for closure
+Ability to work well under pressure and balance multiple priorities.
+Excellent written and verbal communication skills
+Must be comfortable working in a fast paced environment where continuous improvement is expected
+A Host/Hostess must have completed at least their sophomore year in high school.
+Host/Hostess must possess a valid Food Handler’s Card.
+WORK ENVIRONMENT
+The work environment characteristics described here are representative of those a team member encounters while performing the essential functions of this job.  Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+While performing the duties of this job, the team member must:
+Lift, reach, bend, twist, push, pull, squat, grasp and use arm-hand coordination on a consistent basis
+Have the ability to lift up to 50 pounds occasionally
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="96">
+<TITLE>
+Host
+</TITLE>
+<DESC>
+If you have a passion for providing exceptional guest service, uncompromising quality and a desire to succeed then Purple may be the perfect fit for you! Ideal candidate should have at least 1+years Host experience preferably at a high volume restaurant and encompass the following qualities:
+*Knowledge of Open Table with diligent work ethic, exceptional phone etiquette and experience running a controlled seating environment are all required.
+*Focus and detail oriented with strong organizational skills and ability to prioritize and respond to business needs.
+*Sense of Urgency and ability to problem-solve and make critical decisions with minimal supervision while staying relax under pressure.
+*Outgoing, positive personality with a SMILE and a sense of humor and pride in providing exceptional guest experience.
+*Excellent interpersonal skills and ability to communicate effectively with guests and team members.
+*Reliable, energetic and self-motivated with flexible FT and PT availability day and night shifts including weekends and holidays.
+We are dedicated to hiring outstanding individuals who are relentless in seeking ways to exceed guest expectations. If you share our passion, we will empower you to make great decisions that will benefit and enhance the overall guest experience, as well as create endless career opportunities.
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="97">
+<TITLE>
+Host
+</TITLE>
+<DESC>
+We are looking for a warm, friendly, detail-oriented individual who has a passion for the hospitality industry to join our amazing team.
+* Knowledge of system similar to Urbanspoon/Open Table or Dinerware.
+* At least 2 years of hosting experience in high volume and fine dining restaurant.
+* Positive attitude, great smile & professional appearance.
+* Excellent work ethic, organizational skills & exceptional customer service skills.
+* Have the ability to work efficiently within a team environment.
+* Ability to thrive under pressure, make quick decisions, and take directions when necessary.
+* Motivated self-starter. Must be flexible in adapting to new situations and have great leadership skills.
+* Interest in or familiarity of Japanese cuisine terminology & culture.
+* Open availability with a flexible schedule.
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="98">
+<TITLE>
+Host
+</TITLE>
+<DESC>
+Our team defines Uncommon Hospitality by providing guests with impeccable food and drinks in an energetic atmosphere. Our people are the key to our success. We empower and inspire dynamic individuals with a passion for food and unmatched customer service. Think you’ve got what it takes? Join our team and grow with us today.
+Host/Hostess
+Impeccable Tasks:
+Greet and seat guests promptly
+Suggestive selling: Present our menu, inform guests of all specials, menu changes and reccomendations
+Take down reservations
+Take record of guest order
+Process To-Go orders: Take guest orders, Relay orders to Kitchen or Bar Staff and prepare guest bill through POS ticketing system
+Comply with all state & federal liquour laws for valid guest ID
+Visually inspect dishes for “Perfect Plate” and drink presentation
+Handle guest inquiries and complaints
+Assist with basic training, stock supplies, prepare silverware and glassware, clean and stock menus and fulfill special requests
+Communicate between servers and managers
+Minimum Requirements:
+Effective communication skills
+Thrive in a team atmosphere
+Maintain “Commit to the Mitt” standards
+Must Meet Local and Legal Minimum Age requirement to serve Alcoholic Beverages
+Physical Requirements:
+Able to Bend at the Waist & Lift up to 50lbs
+Able to Move up to 30lbs for Distances up to 25ft
+Able to Remain Standing & Active for 8 to 12 hours
+Able to Hear, Understand & Respond to Employees’ and Guests’ in a Loud Environment
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="99">
+<TITLE>
+Host
+</TITLE>
+<DESC>
+At Olga’s Kitchen, our hosts are friendly, helpful and responsible for greeting guests promptly with a friendly tone and smile. They direct traffic at the entrance and keep control of the lobby area at all times. They will obtain guest information, party size, seat guests in a timely and accurate manner while accommodating the needs of the guests Hosts keep a rotation of the server sections and monitor all levels of guest service and may assist with bussing tables when needed, spot sweep floors and spot clean windows. Our hosts must maintain a clean and polished uniform, participate in guest satisfaction, teamwork and possess a friendly and helpful attitude at all times.
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
+<JOB GROUP_ID="100">
+<TITLE>
+Host
+</TITLE>
+<DESC>
+Greeting and escorting guests to tables in the restaurant, maintaining a courteous and efficient operation of the dining room to ensure guest satisfaction.
+Reports to: Restaurant Manager/Asst. Restaurant Manager/Supervisor
+Schedule: Friday, Saturday, and Sunday
+What you will be doing
+Meet and greet guests as they arrive, offer choice of seating, then escort them to their table and present menu.
+Read, maintain and make daily entries in the log book to coordinate communication between shifts and management.
+Maintain proper set-up of dining room.
+Receive records and make any necessary arrangements for reservations and special functions in the restaurant. 
+Comply with attendance rules and be available to work on a regular basis.
+Perform any other job related duties as assigned.
+Job Requirements
+Must have the ability to communicate in English. 
+Self-starting personality with an even disposition.  
+Maintain a professional appearance and manner at all times.       
+Can communicate well with guests. 
+Must be willing to “pitch-in” and help co- workers with their job duties and be a team player. 
+Ability to comprehend guest requests, memos, reservations, promotional materials, event orders and similar written materials.
+Ability to remember, recite and promote the variety of menu items. 
+Ability to move throughout a crowded room to seat guests. 
+Ability to effectively deal with customer complaints and concerns in a friendly and positive manner. 
+This involves listening to the nature of the concern, demonstrating empathy with the customer and providing positive and proactive solutions.  
+Ability to establish and maintain effective working relationships with associates, customers and patrons.
+</DESC>
+<TAG>
+130600
+</TAG>
+</JOB>
